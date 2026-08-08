@@ -14,61 +14,34 @@ Every strategic decision, operating procedure, design principle, innovation, pro
 
 This repository serves as the **single source of truth** for KAMLESH & SONS.
 
----
+# Roadmap
 
-# About KAMLESH & SONS
+Current planned milestones:
 
-**KAMLESH & SONS** is a premium technology company focused on delivering world-class customer experiences through thoughtfully curated products, knowledgeable people, exceptional service, and modern technology.
+* v0.1 – Foundation **(Audit reconciled; completion pending final release gate)**
+* v0.2 – Brand Identity
+* v0.3 – Store Design
+* v0.4 – Customer Experience
+* v0.5 – AI & Technology
+* v0.6 – Operations
+* v0.7 – Marketing
+* v0.8 – Finance
+* v0.9 – Expansion
+* v1.0 – Flagship Ready
 
-We are not building another mobile phone shop.
+# Decision Records
 
-We are building **Nepal's most trusted premium technology brand**.
+Every significant company decision receives a unique identifier. Decision records preserve reasoning and provide traceability over time.
 
-Retail is our starting point—not our destination.
+The repository currently contains decision records through **DEC-0101**.
 
----
+The v0.1 foundation decision architecture is defined in `docs/v0.1-foundation-decision-set.md`.
 
-# Vision
+The historical consolidation map is defined in `docs/decision-consolidation-registry.md`.
 
-> **To transform retail in Western Nepal and become Nepal's most trusted premium technology brand.**
+The detailed inventory classification is defined in `docs/v0.1-decision-inventory-classification.md`.
 
-# Mission
-
-To provide an unmatched technology buying experience through world-class products, knowledgeable people, exceptional service, and innovative technology.
-
-# What is K&S OS?
-
-K&S OS is the internal operating system of KAMLESH & SONS.
-
-It combines documentation, governance, processes, standards, strategic planning, AI architecture, and institutional knowledge into one structured repository.
-
-Its purpose is to ensure that every important aspect of the company is documented, versioned, and continuously improved.
-
-# Core Principles
-
-Our work is guided by the following principles:
-
-* Customer First
-* Experience Over Discounts
-* Documentation First
-* Continuous Improvement
-* Long-Term Thinking
-* Knowledge Before Sales
-* Transparency
-* Innovation
-* Professionalism
-
-# Repository Philosophy
-
-The repository is the official source of truth.
-
-**Chat is for brainstorming.**
-
-**GitHub is for official documentation.**
-
-No strategic decision should exist only in conversation.
-
-Every important discussion should ultimately become documented knowledge.
+`DEC-0100` is the v0.1 foundation readiness gate and `DEC-0101` is the formal completion/release gate.
 
 # Repository Structure
 
@@ -80,21 +53,7 @@ Every important discussion should ultimately become documented knowledge.
 ├── ROADMAP.md
 ├── CONTRIBUTING.md
 ├── LICENSE.md
-│
 ├── docs/
-│   ├── founders-playbook/
-│   ├── governance/
-│   ├── brand-system/
-│   ├── store-design/
-│   ├── customer-experience/
-│   ├── ai-and-technology/
-│   ├── operations/
-│   ├── marketing/
-│   ├── finance/
-│   ├── expansion/
-│   ├── research/
-│   └── legal/
-│
 ├── decisions/
 ├── innovation/
 ├── meetings/
@@ -107,102 +66,16 @@ Every important discussion should ultimately become documented knowledge.
 └── ui-ux/
 ```
 
-# Documentation Standards
-
-Every document should include, where applicable:
-
-* Document ID
-* Version
-* Status
-* Owner
-* Created Date
-* Last Updated
-* Related Documents
-* Related Decisions
-* Change History
-
-The canonical foundation standard is `docs/documentation-standards.md`.
-
-# Decision Records
-
-Every significant company decision receives a unique identifier. Decision records preserve reasoning and provide traceability over time.
-
-The current strategic decision framework extends through **DEC-0090**.
-
-The navigational index is `docs/decision-log.md`.
-
-# Innovation Vault
-
-Ideas are valuable organizational assets. Each innovation is recorded, tracked, and developed through the Innovation Vault.
-
-Examples include:
-
-* AI Concierge
-* Digital Customer Identity
-* Experience Passport
-* AI Trade-in Estimator
-* Founder Dashboard
-* Employee AI
-
-The foundation standard is `docs/innovation-vault.md`.
-
-# AI Strategy
-
-K&S OS supports two complementary AI systems.
-
-### Customer AI
-
-Provides product information, recommendations, comparisons, appointments, and customer assistance.
-
-### Internal AI
-
-Supports employees with operational knowledge, documentation, policies, SOPs, training, and decision history.
-
-# Roadmap
-
-Current planned milestones:
-
-* v0.1 – Foundation **(Complete)**
-* v0.2 – Brand Identity
-* v0.3 – Store Design
-* v0.4 – Customer Experience
-* v0.5 – AI & Technology
-* v0.6 – Operations
-* v0.7 – Marketing
-* v0.8 – Finance
-* v0.9 – Expansion
-* v1.0 – Flagship Ready
-
-# Contributing
-
-All meaningful changes should:
-
-* Follow repository standards.
-* Be documented clearly.
-* Reference related decisions where applicable.
-* Update relevant documentation.
-* Maintain a clear version history.
-
 # Current Status
 
 **Version:** `0.1.0`
 
 **Milestone:** Foundation
 
-**Status:** **Complete**
+**Status:** **Audit Reconciled — Release Gate Pending**
 
 **Next Milestone:** `v0.2.0 — Brand Identity`
 
-The v0.1 foundation establishes the repository, governance, founding playbook, documentation standards, decision framework, innovation framework, recurring templates, and cross-referenced knowledge structure required for future development.
+The v0.1 foundation establishes the repository, governance, founding playbook, documentation standards, decision framework, innovation framework, recurring templates, and the consolidation structure required for future development.
 
-# Guiding Principle
-
-> **We are not building a phone store.**
->
-> **We are building Nepal's most trusted premium technology brand.**
-
-Every decision—from branding and hiring to technology, customer service, store design, and AI—should be evaluated against this principle.
-
----
-
-© KAMLESH & SONS. All rights reserved.
+> **We are not building a phone store. We are building Nepal's most trusted premium technology brand.**
