@@ -33,11 +33,11 @@ After v1.0, the operating system is expected to evolve with the company:
 
 These future milestones are strategic directions rather than fixed commitments.
 
-## Current Focus — v0.1 Foundation
+## v0.1 Foundation — Completed
 
-The immediate objective is to establish a durable foundation without creating empty documentation placeholders.
+The v0.1 foundation establishes the repository and governance layer required for future operating-system development.
 
-Priority areas:
+Completed areas:
 
 1. Repository foundation
 2. Founder's Playbook
@@ -47,6 +47,7 @@ Priority areas:
 6. Repository governance
 7. Templates for recurring documentation
 8. Cross-referenced company knowledge
+9. Initial strategic decision framework through `DEC-0090`
 
 ## Roadmap Principles
 
@@ -78,4 +79,6 @@ Where a change represents a major strategic decision, create a corresponding `DE
 
 **Current Version:** `0.1.0`  
 **Current Milestone:** Foundation  
-**Status:** In Development
+**Status:** Complete
+
+**Next Milestone:** `v0.2.0 — Brand Identity`
