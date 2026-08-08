@@ -32,13 +32,9 @@ Retail is our starting point—not our destination.
 
 > **To transform retail in Western Nepal and become Nepal's most trusted premium technology brand.**
 
----
-
 # Mission
 
 To provide an unmatched technology buying experience through world-class products, knowledgeable people, exceptional service, and innovative technology.
-
----
 
 # What is K&S OS?
 
@@ -47,8 +43,6 @@ K&S OS is the internal operating system of KAMLESH & SONS.
 It combines documentation, governance, processes, standards, strategic planning, AI architecture, and institutional knowledge into one structured repository.
 
 Its purpose is to ensure that every important aspect of the company is documented, versioned, and continuously improved.
-
----
 
 # Core Principles
 
@@ -64,8 +58,6 @@ Our work is guided by the following principles:
 * Innovation
 * Professionalism
 
----
-
 # Repository Philosophy
 
 The repository is the official source of truth.
@@ -77,8 +69,6 @@ The repository is the official source of truth.
 No strategic decision should exist only in conversation.
 
 Every important discussion should ultimately become documented knowledge.
-
----
 
 # Repository Structure
 
@@ -93,6 +83,7 @@ Every important discussion should ultimately become documented knowledge.
 │
 ├── docs/
 │   ├── founders-playbook/
+│   ├── governance/
 │   ├── brand-system/
 │   ├── store-design/
 │   ├── customer-experience/
@@ -116,11 +107,9 @@ Every important discussion should ultimately become documented knowledge.
 └── ui-ux/
 ```
 
----
-
 # Documentation Standards
 
-Every document should include:
+Every document should include, where applicable:
 
 * Document ID
 * Version
@@ -132,26 +121,19 @@ Every document should include:
 * Related Decisions
 * Change History
 
----
+The canonical foundation standard is `docs/documentation-standards.md`.
 
 # Decision Records
 
-Every significant company decision receives a unique identifier.
+Every significant company decision receives a unique identifier. Decision records preserve reasoning and provide traceability over time.
 
-Example:
+The current strategic decision framework extends through **DEC-0090**.
 
-* DEC-0001 — Company Name
-* DEC-0002 — Brand Positioning
-
-Decision records preserve the reasoning behind important choices and provide traceability over time.
-
----
+The navigational index is `docs/decision-log.md`.
 
 # Innovation Vault
 
-Ideas are valuable organizational assets.
-
-Each innovation is recorded, tracked, and developed through the Innovation Vault.
+Ideas are valuable organizational assets. Each innovation is recorded, tracked, and developed through the Innovation Vault.
 
 Examples include:
 
@@ -162,7 +144,7 @@ Examples include:
 * Founder Dashboard
 * Employee AI
 
----
+The foundation standard is `docs/innovation-vault.md`.
 
 # AI Strategy
 
@@ -176,13 +158,11 @@ Provides product information, recommendations, comparisons, appointments, and cu
 
 Supports employees with operational knowledge, documentation, policies, SOPs, training, and decision history.
 
----
-
 # Roadmap
 
 Current planned milestones:
 
-* v0.1 – Foundation
+* v0.1 – Foundation **(Complete)**
 * v0.2 – Brand Identity
 * v0.3 – Store Design
 * v0.4 – Customer Experience
@@ -192,8 +172,6 @@ Current planned milestones:
 * v0.8 – Finance
 * v0.9 – Expansion
 * v1.0 – Flagship Ready
-
----
 
 # Contributing
 
@@ -205,17 +183,17 @@ All meaningful changes should:
 * Update relevant documentation.
 * Maintain a clear version history.
 
----
-
 # Current Status
 
-**Version:** 0.1.0
+**Version:** `0.1.0`
 
-**Status:** Foundation
+**Milestone:** Foundation
 
-This repository is currently establishing the foundational documentation, governance, and operating principles of KAMLESH & SONS.
+**Status:** **Complete**
 
----
+**Next Milestone:** `v0.2.0 — Brand Identity`
+
+The v0.1 foundation establishes the repository, governance, founding playbook, documentation standards, decision framework, innovation framework, recurring templates, and cross-referenced knowledge structure required for future development.
 
 # Guiding Principle
 
