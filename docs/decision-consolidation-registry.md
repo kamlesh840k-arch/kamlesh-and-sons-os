@@ -1,7 +1,7 @@
 # K&S OS — Decision Consolidation Registry
 
 **Version:** 0.1.0  
-**Status:** Part 4 — consolidation/archival structure established
+**Status:** Part 5 — canonical foundation consolidated
 
 ## Purpose
 
@@ -11,8 +11,9 @@ This registry is the control layer between the historical DEC series and the act
 
 The active foundation is governed by:
 
-- `docs/v0.1-foundation-decision-set.md`
-- `docs/v0.1-decision-inventory-classification.md`
+- [Canonical Foundation](v0.1-canonical-foundation.md) — the active, consolidated v0.1 reference
+- [Foundation Decision Set](v0.1-foundation-decision-set.md) — the governing scope rule
+- [DEC Inventory Classification](v0.1-decision-inventory-classification.md) — the complete historical classification
 - DEC-0100 — Foundation Integration & Completion Readiness
 - DEC-0101 — Foundation Completion Gate
 
@@ -40,6 +41,6 @@ When a roadmap milestone becomes active, the relevant historical DEC inputs shou
 
 ## Physical File Policy
 
-The GitHub connector currently supports create/update/delete operations but not a safe repository-wide rename/move operation. Therefore Part 4 does **not** physically relocate the historical files yet. This avoids creating duplicate records or losing Git history through improvised copy/delete operations.
+The GitHub connector currently supports create/update/delete operations but not a safe repository-wide rename/move operation. Therefore no historical DEC files are physically relocated as part of consolidation. This avoids creating duplicate records or losing Git history through improvised copy/delete operations.
 
 The archive convention is established first. Physical relocation, if desired, is a separate controlled migration step.
