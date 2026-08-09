@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 480" role="img" aria-labelledby="title desc">
+  <title id="title">Kamlesh and Sons wordmark concept</title>
+  <desc id="desc">A graphite wordmark with a cobalt K monogram emblem.</desc>
+  <rect width="1600" height="480" rx="48" fill="#F5F6F7"/>
+  <g transform="translate(86 86)">
+    <circle cx="154" cy="154" r="145" fill="#111315"/>
+    <circle cx="154" cy="154" r="116" fill="none" stroke="#2F63D8" stroke-width="11"/>
+    <path d="M110 74v160M122 154l81-80M122 154l81 80" fill="none" stroke="#F5F6F7" stroke-linecap="round" stroke-linejoin="round" stroke-width="23"/>
+  </g>
+  <text x="430" y="202" fill="#111315" font-family="Arial, Helvetica, sans-serif" font-size="93" font-weight="700" letter-spacing="3">KAMLESH</text>
+  <text x="438" y="291" fill="#292D32" font-family="Arial, Helvetica, sans-serif" font-size="47" font-weight="500" letter-spacing="17">&amp; SONS</text>
+  <rect x="440" y="332" width="512" height="8" rx="4" fill="#2F63D8"/>
+  <text x="440" y="390" fill="#6B737D" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" letter-spacing="4">TECHNOLOGY, MADE CLEAR</text>
+</svg>

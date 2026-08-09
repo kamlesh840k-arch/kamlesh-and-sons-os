@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 680" role="img" aria-labelledby="title desc">
+  <title id="title">K&amp;S staff ID card sample</title>
+  <desc id="desc">A horizontal staff identity card sample for K&amp;S.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111315"/><stop offset="1" stop-color="#292D32"/></linearGradient>
+  </defs>
+  <rect width="1080" height="680" rx="42" fill="url(#panel)"/>
+  <rect x="0" y="0" width="68" height="680" fill="#2F63D8"/>
+  <circle cx="150" cy="126" r="48" fill="none" stroke="#2F63D8" stroke-width="6"/>
+  <path d="M132 95v62M140 126l31-31M140 126l31 31" fill="none" stroke="#F5F6F7" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+  <text x="220" y="120" fill="#F5F6F7" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" letter-spacing="2">KAMLESH &amp; SONS</text>
+  <text x="222" y="162" fill="#A7ADB5" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" letter-spacing="5">STAFF IDENTITY</text>
+  <rect x="112" y="226" width="218" height="286" rx="24" fill="#A7ADB5"/>
+  <circle cx="221" cy="328" r="58" fill="#6B737D"/>
+  <path d="M140 474c14-70 148-70 162 0" fill="#6B737D"/>
+  <text x="392" y="290" fill="#F5F6F7" font-family="Arial, Helvetica, sans-serif" font-size="30" letter-spacing="2">SAMPLE NAME</text>
+  <text x="394" y="341" fill="#2F63D8" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" letter-spacing="3">RETAIL ADVISOR</text>
+  <text x="394" y="398" fill="#A7ADB5" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing="2">ID  KNS-001</text>
+  <rect x="394" y="438" width="456" height="16" rx="8" fill="#F5F6F7" opacity=".28"/>
+  <rect x="394" y="474" width="330" height="16" rx="8" fill="#F5F6F7" opacity=".18"/>
+  <text x="112" y="594" fill="#A7ADB5" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="2">PROPERTY OF K&amp;S · RETURN IF FOUND</text>
+</svg>

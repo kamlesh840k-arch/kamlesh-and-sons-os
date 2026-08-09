@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">K&amp;S flagship zoning sample</title>
+  <desc id="desc">A conceptual floor zoning diagram for a K&amp;S technology flagship store.</desc>
+  <rect width="1600" height="1000" fill="#F5F6F7"/>
+  <text x="100" y="104" fill="#111315" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700">FLAGSHIP ZONING — SAMPLE ONLY</text>
+  <text x="101" y="152" fill="#6B737D" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing="2">NOT TO SCALE · VALIDATE AGAINST ACTUAL SITE, SAFETY, ACCESSIBILITY, AND DRAWINGS</text>
+  <rect x="100" y="220" width="1400" height="650" rx="24" fill="#292D32"/>
+  <rect x="130" y="250" width="250" height="590" rx="14" fill="#3C434B"/>
+  <text x="168" y="318" fill="#F5F6F7" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">WINDOW / HERO</text>
+  <text x="168" y="354" fill="#A7ADB5" font-family="Arial, Helvetica, sans-serif" font-size="20">Rotating launch story</text>
+  <rect x="410" y="250" width="450" height="310" rx="14" fill="#4A535D"/>
+  <text x="455" y="322" fill="#F5F6F7" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">PRODUCT DISCOVERY</text>
+  <text x="455" y="363" fill="#C8CDD3" font-family="Arial, Helvetica, sans-serif" font-size="20">Open tables · category walls</text>
+  <rect x="900" y="250" width="570" height="310" rx="14" fill="#2F63D8" opacity=".88"/>
+  <text x="950" y="322" fill="#F5F6F7" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">CONSULTATION</text>
+  <text x="950" y="363" fill="#E5ECFF" font-family="Arial, Helvetica, sans-serif" font-size="20">Seated advice · comparison · setup</text>
+  <rect x="410" y="600" width="450" height="240" rx="14" fill="#3C434B"/>
+  <text x="460" y="676" fill="#F5F6F7" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">CHECKOUT</text>
+  <text x="460" y="716" fill="#C8CDD3" font-family="Arial, Helvetica, sans-serif" font-size="20">Close · payment · handover</text>
+  <rect x="900" y="600" width="340" height="240" rx="14" fill="#4A535D"/>
+  <text x="947" y="676" fill="#F5F6F7" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">SERVICE</text>
+  <text x="947" y="716" fill="#C8CDD3" font-family="Arial, Helvetica, sans-serif" font-size="20">After-sales · triage</text>
+  <rect x="1270" y="600" width="200" height="240" rx="14" fill="#171B1F" stroke="#A7ADB5" stroke-width="3"/>
+  <text x="1290" y="674" fill="#F5F6F7" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">STAFF /</text>
+  <text x="1290" y="706" fill="#F5F6F7" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">STOCK</text>
+  <path d="M565 580h660" stroke="#F5F6F7" stroke-width="8" stroke-linecap="round" stroke-dasharray="18 18" opacity=".75"/>
+  <path d="M775 566l28 14-28 14" fill="none" stroke="#F5F6F7" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="102" y="942" fill="#111315" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">ENTRY / EXIT</text>
+  <path d="M220 896h1160" stroke="#2F63D8" stroke-width="12" stroke-linecap="round"/>
+</svg>
