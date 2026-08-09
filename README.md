@@ -18,7 +18,7 @@ This repository serves as the **single source of truth** for KAMLESH & SONS.
 
 Current planned milestones:
 
-* v0.1 – Foundation **(Audit reconciled; completion pending final release gate)**
+* v0.1 – Foundation **(Complete)**
 * v0.2 – Brand Identity
 * v0.3 – Store Design
 * v0.4 – Customer Experience
@@ -72,7 +72,7 @@ The detailed inventory classification is defined in `docs/v0.1-decision-inventor
 
 **Milestone:** Foundation
 
-**Status:** **Audit Reconciled — Release Gate Pending**
+**Status:** **Complete — DEC-0101 release gate accepted**
 
 **Next Milestone:** `v0.2.0 — Brand Identity`
 
