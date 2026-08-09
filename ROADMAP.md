@@ -50,18 +50,27 @@ Completed areas:
 9. Consolidated foundation decision architecture
 10. v0.1 release gate acceptance through DEC-0101
 
-## v0.2 Brand Identity — Active
+## v0.2 Brand Identity — Completed
 
-v0.2 is now the active milestone. Its governing master decision is `decisions/DEC-BRAND-v0.2-master.md`.
+v0.2 has been approved and is now closed. Its governing master decision is `decisions/DEC-BRAND-v0.2-master.md`.
 
-Active scope:
+Completed scope:
 
 1. Brand strategy
 2. Brand identity
 3. Typography
 4. Visual standards
 
-The v0.2 work must establish a coherent brand foundation that later v0.3, v0.4 and v0.7 work can consume without redefining the brand independently.
+The approved v0.2 brand foundation is the source for later v0.3, v0.4 and v0.7 work; later milestones must not redefine the brand independently.
+
+## v0.3 Store Design — Next
+
+v0.3 is the next milestone. Its primary focus is:
+
+1. Flagship concept
+2. Store layout
+3. Visual merchandising
+4. Store standards
 
 ## Roadmap Principles
 
@@ -93,7 +102,7 @@ Where a change represents a major strategic decision, create a corresponding `DE
 
 **Current Version:** `0.2.0`  
 **Current Milestone:** Brand Identity  
-**Status:** Active
+**Status:** **Complete — Leadership Approved**
 
 **Previous Milestone:** `v0.1.0 — Foundation (Complete)`  
 **Next Milestone:** `v0.3.0 — Store Design`
