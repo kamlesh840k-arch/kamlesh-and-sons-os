@@ -47,7 +47,21 @@ Completed areas:
 6. Repository governance
 7. Templates for recurring documentation
 8. Cross-referenced company knowledge
-9. Initial strategic decision framework through `DEC-0090`
+9. Consolidated foundation decision architecture
+10. v0.1 release gate acceptance through DEC-0101
+
+## v0.2 Brand Identity — Active
+
+v0.2 is now the active milestone. Its governing master decision is `decisions/DEC-BRAND-v0.2-master.md`.
+
+Active scope:
+
+1. Brand strategy
+2. Brand identity
+3. Typography
+4. Visual standards
+
+The v0.2 work must establish a coherent brand foundation that later v0.3, v0.4 and v0.7 work can consume without redefining the brand independently.
 
 ## Roadmap Principles
 
@@ -77,8 +91,9 @@ Where a change represents a major strategic decision, create a corresponding `DE
 
 ## Status
 
-**Current Version:** `0.1.0`  
-**Current Milestone:** Foundation  
-**Status:** Complete
+**Current Version:** `0.2.0`  
+**Current Milestone:** Brand Identity  
+**Status:** Active
 
-**Next Milestone:** `v0.2.0 — Brand Identity`
+**Previous Milestone:** `v0.1.0 — Foundation (Complete)`  
+**Next Milestone:** `v0.3.0 — Store Design`
