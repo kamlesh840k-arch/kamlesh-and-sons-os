@@ -14,10 +14,11 @@ The project follows [Semantic Versioning](https://semver.org/).
 - Visual merchandising, fixture/display, signage/wayfinding, and lighting/environment principles.
 - Accessibility and safety requirement set.
 - Reusable store standards and an auditable completion checklist.
+- Documented blueprints for every remaining roadmap stage from v0.4 through v4.0.
 
 ### Status
 
-The v0.3 concept standard set is prepared. Site-specific validation, design-governance ownership, and any detailed drawings, budgets, vendors, procurement, or construction remain separate approval work.
+The v0.3 concept standard set is prepared. Site-specific validation, design-governance ownership, and any detailed drawings, budgets, vendors, procurement, or construction remain separate approval work. Future-roadmap blueprints are planning documents, not completed implementations.
 
 ## [0.2.0] — Brand Identity
 
