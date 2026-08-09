@@ -8,6 +8,7 @@
 
 - `logo/`: editable SVG directions. The original wordmark/monogram is retained for comparison; four distinctly different routes are in `logo/variations/`. No direction is yet recommended or final.
 - `logo/minimal/`: typography-led variations with no decorative icon system; created after the first visual directions were rejected as too elaborate.
+- `logo/symbol-first/`: a reset after the typography-only directions were rejected; these use non-letter symbols that can become a recognisable storefront/device badge.
 - `id-card/`: editable staff identity-card sample with intentionally fictitious data.
 - `uniform/`: visual reference for a graphite uniform with precise cobalt detailing and black lanyard.
 - `store/`: a conceptual zoning diagram plus flagship reference views for the storefront, product discovery, consultation, and service zone.
