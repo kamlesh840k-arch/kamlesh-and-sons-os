@@ -6,7 +6,7 @@
 
 ## Contents
 
-- `logo/`: editable SVG directions. `kns-wordmark-concept.svg` is the recommended starting direction; `kns-monogram-concept.svg` is its app-icon/signage mark.
+- `logo/`: editable SVG directions. The original wordmark/monogram is retained for comparison; four distinctly different routes are in `logo/variations/`. No direction is yet recommended or final.
 - `id-card/`: editable staff identity-card sample with intentionally fictitious data.
 - `uniform/`: visual reference for a graphite uniform with precise cobalt detailing and black lanyard.
 - `store/`: a conceptual zoning diagram plus flagship reference views for the storefront, product discovery, consultation, and service zone.
