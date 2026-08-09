@@ -1,11 +1,15 @@
 # K&S OS — Roadmap Blueprint Index
 
-**Status:** Documentation coverage complete  
+**Status:** Documentation coverage complete — approved for future activation  
 **Important:** A blueprint is a governed plan. It is not evidence that a milestone has been operationally implemented, approved, or closed.
 
 ## Purpose
 
 Provide one navigation point for the remaining K&S OS roadmap. Each blueprint defines scope, intended deliverables, and the evidence required before real-world closure.
+
+## Approval
+
+The roadmap documentation and sequencing are approved in [Roadmap Blueprint Approval](roadmap-blueprint-approval.md). This approval does not approve operational implementation, spending, vendors, construction, regulated activities, or future-milestone closure.
 
 ## Milestone Coverage
 
