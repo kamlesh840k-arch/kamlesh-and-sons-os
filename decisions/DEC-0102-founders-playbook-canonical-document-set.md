@@ -6,7 +6,7 @@
 **Version:** 0.1.0  
 **Decision Date:** 2026-08-09  
 **Owner:** KAMLESH & SONS  
-**Related Documents:** [Founder's Playbook](../docs/founders-playbook/README.md), [Canonical Foundation](../docs/v0.1-canonical-foundation.md)  
+**Related Documents:** [Founder's Playbook](../docs/founders-playbook/README.md), [Canonical Foundation](../docs/milestones/v0.1-foundation/v0.1-canonical-foundation.md)  
 **Related Decisions:** DEC-0003, DEC-0004, DEC-0005, DEC-0007, DEC-0020, DEC-0021, DEC-0101
 
 ---

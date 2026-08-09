@@ -6,7 +6,7 @@
 **Owner:** Founder / Leadership  
 **Created:** 2026-08-09  
 **Last Updated:** 2026-08-09  
-**Related Decisions:** [DEC-0020](../../decisions/DEC-0020-founder-philosophy-and-operating-principles.md), [DEC-0006](../../decisions/DEC-0006-brand-positioning.md)
+**Related Decisions:** [DEC-0020](../../decisions/DEC-0020-founder-philosophy-and-operating-principles.md), [DEC-0002](../../decisions/DEC-0002-brand-positioning.md)
 
 ---
 

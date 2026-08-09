@@ -6,7 +6,7 @@
 **Owner:** Founder / Leadership  
 **Created:** 2026-08-09  
 **Last Updated:** 2026-08-09  
-**Related Decisions:** [DEC-0007](../../decisions/DEC-0007-customer-experience-philosophy.md), [DEC-0019](../../decisions/DEC-0019-customer-experience-and-service-standards.md)
+**Related Decisions:** [DEC-0006](../../decisions/DEC-0006-customer-experience-philosophy.md), [DEC-0019](../../decisions/DEC-0019-customer-experience-and-service-standards.md)
 
 ---
 

@@ -62,7 +62,7 @@ Material strategic, operational, financial, technology, brand, and architectural
 
 ## Related Records
 
-[DEC-0102](../../decisions/DEC-0102-founders-playbook-canonical-document-set.md), [Canonical Foundation](../v0.1-canonical-foundation.md), [ROADMAP](../../ROADMAP.md), [Decision Log](../decision-log.md)
+[DEC-0102](../../decisions/DEC-0102-founders-playbook-canonical-document-set.md), [Canonical Foundation](../milestones/v0.1-foundation/v0.1-canonical-foundation.md), [ROADMAP](../../ROADMAP.md), [Decision Log](../decision-log.md)
 
 ## Change History
 
