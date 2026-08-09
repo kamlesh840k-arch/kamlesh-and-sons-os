@@ -1,7 +1,7 @@
 # DEC-OPERATIONS-v0.6 — Operations Master System
 
-**Decision ID:** DEC-OPERATIONS-v0.6  
-**Status:** Deferred / Planned  
+**Decision ID:** DEC-OPERATIONS-v0.6
+**Status:** Documentation-ready / pilot pending
 **Target Version:** v0.6.0 — Operations
 
 ## Purpose
@@ -69,5 +69,9 @@ The historical DEC records that contributed to this cluster remain authoritative
 
 K&S can operate stores and supporting functions reliably at scale, with clear processes, measurable service levels, controlled costs, accurate inventory, capable workforce planning and repeatable improvement.
 
-**Decision Status:** Deferred / Planned  
+## Canonical Implementation Reference
+
+[v0.6 Operations & People System](../docs/v0.6-operations-and-people-system.md) and its [activation checklist](../docs/v0.6-operations-and-people-checklist.md) define the integrated operations implementation documentation.
+
+**Decision Status:** Documentation-ready / pilot pending
 **Target Version:** `0.6.0`

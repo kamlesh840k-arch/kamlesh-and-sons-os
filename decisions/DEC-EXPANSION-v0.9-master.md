@@ -1,7 +1,7 @@
 # DEC-EXPANSION-v0.9 — Expansion Master System
 
-**Decision ID:** DEC-EXPANSION-v0.9  
-**Status:** Deferred / Planned  
+**Decision ID:** DEC-EXPANSION-v0.9
+**Status:** Documentation-ready / flagship proof and investment approval pending
 **Target Version:** v0.9.0 — Expansion
 
 ## Purpose
@@ -63,5 +63,9 @@ Earlier expansion, partnership, franchise and international-growth DEC records r
 
 K&S can expand deliberately and repeatably while preserving brand trust, customer experience, operating quality, financial discipline and leadership control.
 
-**Decision Status:** Deferred / Planned  
+## Canonical Implementation Reference
+
+[v0.9 Expansion System](../docs/v0.9-expansion-system.md) and its [activation checklist](../docs/v0.9-expansion-checklist.md) define the current implementation-level documentation.
+
+**Decision Status:** Documentation-ready / expansion approval pending
 **Target Version:** `0.9.0`

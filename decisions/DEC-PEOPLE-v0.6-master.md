@@ -1,7 +1,7 @@
 # DEC-PEOPLE-v0.6 — People & Workforce Master System
 
-**Decision ID:** DEC-PEOPLE-v0.6  
-**Status:** Deferred / Planned  
+**Decision ID:** DEC-PEOPLE-v0.6
+**Status:** Documentation-ready / workforce approval and pilot pending
 **Target Version:** v0.6.0 — Operations
 
 ## Purpose
@@ -49,5 +49,9 @@ Earlier workforce-related DEC records remain historical source material. Future 
 
 K&S can recruit, develop, deploy, evaluate and retain capable people through a consistent system that supports customer experience, operational reliability and responsible growth.
 
-**Decision Status:** Deferred / Planned  
+## Canonical Implementation Reference
+
+[v0.6 Operations & People System](../docs/v0.6-operations-and-people-system.md) and its [activation checklist](../docs/v0.6-operations-and-people-checklist.md) define the integrated people implementation documentation.
+
+**Decision Status:** Documentation-ready / pilot pending
 **Target Version:** `0.6.0`

@@ -12,14 +12,14 @@ This roadmap defines the planned evolution of K&S OS from its documentation foun
 |---|---|---|---|
 | **v0.1** | Foundation | Repository, governance, founding principles, documentation system | Complete |
 | **v0.2** | Brand Identity | Brand strategy, identity, typography, visual standards | Complete |
-| **v0.3** | Store Design | Flagship concept, layout, visual merchandising, store standards | Active |
-| **v0.4** | Customer Experience | Customer journey, service standards, premium services | Blueprint ready |
-| **v0.5** | AI & Technology | AI Concierge, internal AI, technology architecture | Blueprint ready |
-| **v0.6** | Operations | SOPs, inventory, service, training, operational systems | Blueprint ready |
-| **v0.7** | Marketing | Marketing strategy, campaigns, communications, growth systems | Blueprint ready |
-| **v0.8** | Finance | Financial systems, KPIs, financing, controls, planning | Blueprint ready |
-| **v0.9** | Expansion | Multi-store model, expansion framework, national growth | Blueprint ready |
-| **v1.0** | Flagship Ready | Integrated operating model ready for flagship execution | Blueprint ready |
+| **v0.3** | Store Design | Flagship concept, layout, visual merchandising, store standards | Documentation-ready; site/delivery gates open |
+| **v0.4** | Customer Experience | Customer journey, service standards, premium services | Documentation-ready; validation pending |
+| **v0.5** | AI & Technology | AI Concierge, internal AI, technology architecture | Documentation-ready; implementation pending |
+| **v0.6** | Operations & People | SOPs, inventory, service, training, operational systems | Documentation-ready; pilot pending |
+| **v0.7** | Marketing | Marketing strategy, campaigns, communications, growth systems | Documentation-ready; execution pending |
+| **v0.8** | Finance | Financial systems, KPIs, financing, controls, planning | Documentation-ready; professional review pending |
+| **v0.9** | Expansion | Multi-store model, expansion framework, national growth | Documentation-ready; flagship proof pending |
+| **v1.0** | Flagship Ready | Integrated operating model ready for evidence-based approval | Release candidate; real-world gate open |
 
 ## Long-Term Direction
 
@@ -45,20 +45,26 @@ Repository and governance are complete, including the consolidated foundation ar
 
 Brand strategy, identity, typography, and visual standards are approved. The v0.2 master is the controlling reference for subsequent work.
 
-## Active Milestone — v0.3 Store Design
+## Documentation Milestones — v0.3 through v0.9
 
-The v0.3 concept standard set is active. It includes the flagship concept, zoning and customer-flow principles, visual merchandising, fixtures, wayfinding, environment, accessibility/safety, and reusable-store standards.
+The v0.3 concept standard set is documentation-ready. It includes the flagship concept, zoning and customer-flow principles, visual merchandising, fixtures, wayfinding, environment, accessibility/safety, and reusable-store standards. Its [documentation-closure record](docs/v0.3-store-design-documentation-closure.md) preserves all physical-delivery blockers.
 
-v0.3 is not closed: site-specific validation, a design governance owner, and any detailed drawings, budgets, vendors, procurement, or construction require separate approval.
+Canonical operating-system documents and checklists now cover v0.4 Customer Experience, v0.5 AI & Technology, v0.6 Operations & People, v0.7 Marketing, v0.8 Finance and v0.9 Expansion. These milestones are complete as documentation, not as implemented capabilities.
+
+## Active Integration Gate — v1.0 Flagship Ready
+
+The [integrated flagship operating model](docs/v1.0-integrated-flagship-operating-model.md) and [readiness gate](docs/v1.0-flagship-readiness-gate.md) form release candidate `1.0.0-rc.1`. Final `1.0.0` requires actual-site, people, systems, finance, safety, legal/compliance and launch evidence plus a founder go/no-go decision.
+
+The [roadmap documentation audit](docs/v1.0-roadmap-documentation-audit.md) records completion and all remaining evidence/approval dependencies.
 
 ## Status
 
-**Current Version:** `0.3.0`  
-**Current Milestone:** Store Design  
-**Status:** **Active — concept standards prepared; site-specific validation pending**
+**Current Version:** `1.0.0-rc.1`
+**Current Milestone:** Flagship Ready integration gate
+**Status:** **Documentation-ready release candidate — real-world evidence and founder approval pending**
 
-**Previous Milestone:** `v0.2.0 — Brand Identity (Complete)`  
-**Next Milestone:** `v0.4.0 — Customer Experience`
+**Documentation coverage:** `v0.1–v1.0 complete`
+**Next release:** `v1.0.0 — only after the evidence gate is accepted`
 
 ## Roadmap Principles
 

@@ -1,7 +1,7 @@
 # DEC-FINANCE-v0.8 — Finance Master System
 
-**Decision ID:** DEC-FINANCE-v0.8  
-**Status:** Deferred / Planned  
+**Decision ID:** DEC-FINANCE-v0.8
+**Status:** Documentation-ready / professional review and implementation pending
 **Target Version:** v0.8.0 — Finance
 
 ## Purpose
@@ -52,5 +52,9 @@ Earlier finance, pricing, revenue, budgeting, control and reporting-related DEC 
 
 K&S has reliable financial records, disciplined cash and spending controls, useful forecasting, clear unit and business economics, compliant reporting and management information that supports timely decisions.
 
-**Decision Status:** Deferred / Planned  
+## Canonical Implementation Reference
+
+[v0.8 Finance System](../docs/v0.8-finance-system.md) and its [activation checklist](../docs/v0.8-finance-checklist.md) define the current implementation-level documentation.
+
+**Decision Status:** Documentation-ready / professional review pending
 **Target Version:** `0.8.0`

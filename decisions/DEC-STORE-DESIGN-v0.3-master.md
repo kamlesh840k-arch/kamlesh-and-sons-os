@@ -1,7 +1,7 @@
 # DEC-STORE-DESIGN-v0.3 — Store Design Master System
 
-**Decision ID:** DEC-STORE-DESIGN-v0.3  
-**Status:** Active / Planned execution  
+**Decision ID:** DEC-STORE-DESIGN-v0.3
+**Status:** Documentation-ready / real-world validation pending
 **Target Version:** v0.3.0 — Store Design
 
 ## Purpose
@@ -58,3 +58,7 @@ This master does not approve construction drawings, vendor selections, budgets, 
 ## Completion Standard
 
 v0.3 is complete when the flagship concept and store-design standards are documented, internally consistent with the approved brand, operationally usable, and ready to guide detailed design/procurement without ambiguity.
+
+## Current Gate
+
+The documentation standard is met subject to the [v0.3 Documentation Closure](../docs/v0.3-store-design-documentation-closure.md). Site validation, design-governance ownership, drawings, budgets, vendors, procurement, engineering, construction and handover remain separately gated.

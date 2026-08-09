@@ -1,7 +1,7 @@
 # K&S Customer & Commercial Master Decision
 
-**Master ID:** DEC-CUSTOMER-COMMERCIAL-v0.4  
-**Status:** Deferred / Designated Future Master  
+**Master ID:** DEC-CUSTOMER-COMMERCIAL-v0.4
+**Status:** Documentation-ready / activation pending
 **Target Version:** v0.4 Customer Experience, with selected commercial components extending into v0.7 Marketing and v0.8 Finance
 
 ## Purpose
@@ -47,5 +47,9 @@ The detailed policies, KPIs, processes and system requirements should be defined
 
 When activated, K&S has one coherent customer/commercial architecture rather than separate disconnected decisions for customer data, experience, channels, pricing, research and positioning.
 
-**Current Status:** Deferred to roadmap execution  
+## Canonical Implementation Reference
+
+[v0.4 Customer Experience System](../docs/v0.4-customer-experience-system.md) and its [activation checklist](../docs/v0.4-customer-experience-checklist.md) define the current implementation-level documentation. Real-customer validation and activation remain pending.
+
+**Current Status:** Documentation-ready / activation pending
 **v0.1 Impact:** Reference architecture only

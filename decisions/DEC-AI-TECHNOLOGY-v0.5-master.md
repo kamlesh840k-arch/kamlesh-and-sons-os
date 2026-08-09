@@ -1,7 +1,7 @@
 # DEC-AI-TECHNOLOGY-v0.5 — AI & Technology Master System
 
-**Decision ID:** DEC-AI-TECHNOLOGY-v0.5  
-**Status:** Deferred / Planned  
+**Decision ID:** DEC-AI-TECHNOLOGY-v0.5
+**Status:** Documentation-ready / architecture approval and implementation pending
 **Target Version:** v0.5.0 — AI & Technology
 
 ## Purpose
@@ -50,5 +50,9 @@ Earlier technology-related DEC records remain preserved as historical source mat
 
 K&S has a coherent, secure and maintainable technology architecture with governed AI capabilities, reliable integrations, useful digital products and measurable technology-enabled business value.
 
-**Decision Status:** Deferred / Planned  
+## Canonical Implementation Reference
+
+[v0.5 AI & Technology System](../docs/v0.5-ai-and-technology-system.md) and its [activation checklist](../docs/v0.5-ai-and-technology-checklist.md) define the current implementation-level documentation.
+
+**Decision Status:** Documentation-ready / implementation pending
 **Target Version:** `0.5.0`

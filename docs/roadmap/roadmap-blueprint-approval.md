@@ -1,9 +1,9 @@
 # K&S OS — Roadmap Blueprint Approval
 
-**Record ID:** DOC-ROADMAP-APPROVAL-001  
-**Date:** 2026-08-09  
-**Status:** Approved — documentation and sequencing  
-**Approval scope:** Roadmap blueprints v0.4 through v4.0
+**Record ID:** DOC-ROADMAP-APPROVAL-001
+**Date:** 2026-08-09
+**Status:** Approved — documentation and sequencing
+**Approval scope:** Roadmap architecture v0.4 through v4.0; canonical operating documentation through v1.0
 
 ## Decision
 
@@ -21,6 +21,7 @@ This approval confirms:
 - Roadmap sequencing and the current boundaries between milestones.
 - The blueprint documents as the official starting point for future work.
 - The use of the roadmap blueprint index as the navigation and governance reference.
+- The canonical v0.4–v0.9 systems and checklists, and the v1.0 release-candidate integration gate, as documentation-ready control references.
 
 ## What Remains Pending
 
@@ -29,10 +30,10 @@ This approval does **not** approve or assert:
 - Real-site accessibility, safety, building, engineering, or construction validation.
 - Vendor selection, contracts, budgets, procurement, or capital spending.
 - Customer, employee, financial, technology, legal, tax, privacy, or regulatory implementation.
-- Activation or closure of v0.4 through v4.0.
+- Operational activation or closure of v0.4 through v4.0, or final v1.0.0 release.
 - Any commitment to a specific number of stores, markets, technologies, partners, or investments.
 
-## Immediate Pending Item — v0.3
+## Open Real-World Gates — v0.3
 
 Before v0.3 Store Design may close:
 
@@ -52,4 +53,4 @@ For each future milestone, before activation:
 
 ## Result
 
-K&S now has an approved, complete documentation roadmap. Real-world implementation remains deliberately staged, evidence-based, and controlled.
+K&S now has an approved documentation roadmap and a complete v0.1–v1.0 documentation architecture. Real-world implementation remains deliberately staged, evidence-based, and controlled; `1.0.0-rc.1` is not a final Flagship Ready release.

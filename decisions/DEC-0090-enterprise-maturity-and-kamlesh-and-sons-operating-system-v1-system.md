@@ -1,8 +1,8 @@
 # DEC-0090 — Enterprise Maturity & KAMLESH & SONS Operating System v1 System
 
-**Decision ID:** DEC-0090  
-**Status:** Accepted  
-**Version:** 0.1.0  
+**Decision ID:** DEC-0090
+**Status:** Accepted
+**Version:** 0.1.0
 **Decision Date:** 2026-08-08
 
 ## Decision
@@ -65,5 +65,9 @@ K&S can grow in complexity while retaining clear ownership, reliable information
 5. Version material changes and preserve decision history.
 6. Use maturity evidence to determine readiness for each major growth stage.
 
-**Decision Status:** Accepted  
-**Current K&S OS Version:** `0.1.0`
+**Decision Status:** Accepted
+## v1.0 Release-Candidate Integration
+
+The [Integrated Flagship Operating Model](../docs/v1.0-integrated-flagship-operating-model.md) applies this decision to v0.1–v0.9. The [Flagship Readiness Gate](../docs/v1.0-flagship-readiness-gate.md) withholds final release until real-world evidence and founder approval exist.
+
+**Current K&S OS Version:** `1.0.0-rc.1`
