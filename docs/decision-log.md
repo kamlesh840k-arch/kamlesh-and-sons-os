@@ -2,7 +2,7 @@
 
 **Document ID:** DOC-DEC-001  
 **Version:** 0.1.0  
-**Status:** Foundation — Audit Reconciled
+**Status:** Foundation — Complete
 
 ## Purpose
 Provide a navigational index for significant K&S decisions. Individual `DEC-*` files remain authoritative historical records; the consolidation registry defines where deferred or overlapping decisions belong in the roadmap.
@@ -19,7 +19,7 @@ The repository contains decision records through `DEC-0101`.
 
 `DEC-0100` is the v0.1 foundation integration/readiness gate.
 
-`DEC-0101` is the v0.1 foundation completion/release gate.
+`DEC-0101` is the v0.1 foundation completion/release gate and has been accepted as the release decision for v0.1.0.
 
 ## Foundation Architecture
 The canonical v0.1 foundation set is defined in `docs/v0.1-foundation-decision-set.md`.
@@ -28,7 +28,7 @@ The consolidation and roadmap placement of the broader DEC history is defined in
 
 ## Roadmap Placement
 
-- `v0.1` — Foundation
+- `v0.1` — Foundation **(Complete)**
 - `v0.2` — Brand Identity
 - `v0.3` — Store Design
 - `v0.4` — Customer Experience
@@ -41,5 +41,12 @@ The consolidation and roadmap placement of the broader DEC history is defined in
 
 Deferred decisions remain part of the historical knowledge base and should be consolidated into the appropriate roadmap domain rather than deleted without traceability.
 
+## Release Status
+
+**v0.1.0 — COMPLETE**  
+**Release gate:** DEC-0101  
+**Next milestone:** v0.2.0 — Brand Identity
+
 ## Change History
 - 0.1.0 — Reconciled decision range, foundation architecture and roadmap placement.
+- 0.1.0 — DEC-0101 accepted; v0.1.0 foundation closed.
