@@ -29,6 +29,12 @@ This roadmap defines the planned evolution of K&S OS from its documentation foun
 
 These are strategic directions, not fixed commitments. The full blueprint index is in [docs/roadmap](docs/roadmap/README.md).
 
+## Documentation Approval
+
+The roadmap blueprint set and sequencing are approved for future activation. See [Roadmap Blueprint Approval](docs/roadmap/roadmap-blueprint-approval.md).
+
+This approval does not approve or close real-world implementation, spending, contracts, construction, regulated activity, or any future milestone.
+
 ## Completed Milestones
 
 ### v0.1 Foundation
@@ -44,10 +50,6 @@ Brand strategy, identity, typography, and visual standards are approved. The v0.
 The v0.3 concept standard set is active. It includes the flagship concept, zoning and customer-flow principles, visual merchandising, fixtures, wayfinding, environment, accessibility/safety, and reusable-store standards.
 
 v0.3 is not closed: site-specific validation, a design governance owner, and any detailed drawings, budgets, vendors, procurement, or construction require separate approval.
-
-## Roadmap Documentation Status
-
-The documentation blueprint now covers every remaining milestone through v4.0. This establishes scope, expected deliverables, dependencies, and closure gates. It does **not** mean those future milestones are operationally complete or approved.
 
 ## Status
 
