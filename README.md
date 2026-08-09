@@ -8,74 +8,38 @@
 
 Welcome to the official repository of **KAMLESH & SONS**.
 
-This repository is more than a collection of documents—it is the **operating system of the company**.
-
-Every strategic decision, operating procedure, design principle, innovation, process, and long-term vision is documented here to ensure the business can grow consistently, transparently, and sustainably.
+This repository is more than a collection of documents—it is the **operating system of the company**. Every strategic decision, operating procedure, design principle, innovation, process, and long-term vision is documented here to help the business grow consistently, transparently, and sustainably.
 
 This repository serves as the **single source of truth** for KAMLESH & SONS.
 
 # Roadmap
 
-Current planned milestones:
-
-* v0.1 – Foundation **(Complete)**
-* v0.2 – Brand Identity
-* v0.3 – Store Design
-* v0.4 – Customer Experience
-* v0.5 – AI & Technology
-* v0.6 – Operations
-* v0.7 – Marketing
-* v0.8 – Finance
-* v0.9 – Expansion
-* v1.0 – Flagship Ready
+- v0.1 — Foundation **(Complete)**
+- v0.2 — Brand Identity **(Complete)**
+- v0.3 — Store Design **(Active)**
+- v0.4 — Customer Experience
+- v0.5 — AI & Technology
+- v0.6 — Operations
+- v0.7 — Marketing
+- v0.8 — Finance
+- v0.9 — Expansion
+- v1.0 — Flagship Ready
 
 # Decision Records
 
-Every significant company decision receives a unique identifier. Decision records preserve reasoning and provide traceability over time.
+Decision records preserve reasoning and traceability over time.
 
-The repository currently contains decision records through **DEC-0101**.
-
-The v0.1 foundation decision architecture is defined in `docs/v0.1-foundation-decision-set.md`.
-
-The historical consolidation map is defined in `docs/decision-consolidation-registry.md`.
-
-The detailed inventory classification is defined in `docs/v0.1-decision-inventory-classification.md`.
-
-`DEC-0100` is the v0.1 foundation readiness gate and `DEC-0101` is the formal completion/release gate.
-
-# Repository Structure
-
-```text
-.
-├── README.md
-├── CHANGELOG.md
-├── VERSION
-├── ROADMAP.md
-├── CONTRIBUTING.md
-├── LICENSE.md
-├── docs/
-├── decisions/
-├── innovation/
-├── meetings/
-├── templates/
-├── architecture/
-├── assets/
-├── website/
-├── crm/
-├── product/
-└── ui-ux/
-```
+- v0.1 foundation: [Canonical Foundation](docs/v0.1-canonical-foundation.md)
+- v0.2 brand master: [DEC-BRAND-v0.2](decisions/DEC-BRAND-v0.2-master.md)
+- v0.3 store design master: [DEC-STORE-DESIGN-v0.3](decisions/DEC-STORE-DESIGN-v0.3-master.md)
+- Consolidation map: [Decision Consolidation Registry](docs/decision-consolidation-registry.md)
 
 # Current Status
 
-**Version:** `0.1.0`
+**Version:** `0.3.0`  
+**Milestone:** Store Design  
+**Status:** **Active — concept standards prepared; site-specific validation pending**
 
-**Milestone:** Foundation
-
-**Status:** **Complete — DEC-0101 release gate accepted**
-
-**Next Milestone:** `v0.2.0 — Brand Identity`
-
-The v0.1 foundation establishes the repository, governance, founding playbook, documentation standards, decision framework, innovation framework, recurring templates, and the consolidation structure required for future development.
+The current v0.3 work defines the flagship concept, customer flow, merchandising, fixtures, wayfinding, environmental, accessibility, and reusable-store principles. It does not approve construction drawings, vendors, budgets, or construction.
 
 > **We are not building a phone store. We are building Nepal's most trusted premium technology brand.**
