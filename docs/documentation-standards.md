@@ -24,6 +24,10 @@ Use clear language, explicit ownership, actionable statements and stable termino
 ## Naming
 Use descriptive lowercase filenames with hyphens where practical. Decision records use `DEC-####-title.md`; innovation records use `INV-####-title.md`.
 
+## Folder Placement
+
+Place release-specific documentation in `docs/milestones/vX.Y-milestone-name/`. Each milestone folder must include a `README.md` that states its status, controlling decision and purpose. Keep cross-cutting governance, decision indexes, founder material and long-range plans outside this hierarchy.
+
 ## Status Values
 Use controlled states such as Draft, Proposed, Accepted, Active, Deprecated and Archived.
 
@@ -45,5 +49,5 @@ Use semantic versioning for repository releases. Individual documents may use th
 Before publication verify accuracy, ownership, references, consistency, duplication risk and intended status.
 
 ## Change History
-- 1.0.0-rc.1 — Added roadmap maturity states separating documentation, approval and operational evidence.
+- 1.0.0-rc.2 — Added version-folder placement rules and roadmap maturity states separating documentation, approval and operational evidence.
 - 0.1.0 — Initial documentation standard.

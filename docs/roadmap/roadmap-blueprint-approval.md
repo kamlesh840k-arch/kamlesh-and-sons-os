@@ -53,4 +53,4 @@ For each future milestone, before activation:
 
 ## Result
 
-K&S now has an approved documentation roadmap and a complete v0.1–v1.0 documentation architecture. Real-world implementation remains deliberately staged, evidence-based, and controlled; `1.0.0-rc.1` is not a final Flagship Ready release.
+K&S now has an approved documentation roadmap and a complete v0.1–v1.0 documentation architecture. Real-world implementation remains deliberately staged, evidence-based, and controlled; `1.0.0-rc.2` is not a final Flagship Ready release.

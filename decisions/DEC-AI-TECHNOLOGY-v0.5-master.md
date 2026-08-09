@@ -52,7 +52,7 @@ K&S has a coherent, secure and maintainable technology architecture with governe
 
 ## Canonical Implementation Reference
 
-[v0.5 AI & Technology System](../docs/v0.5-ai-and-technology-system.md) and its [activation checklist](../docs/v0.5-ai-and-technology-checklist.md) define the current implementation-level documentation.
+[v0.5 AI & Technology System](../docs/milestones/v0.5-ai-and-technology/v0.5-ai-and-technology-system.md) and its [activation checklist](../docs/milestones/v0.5-ai-and-technology/v0.5-ai-and-technology-checklist.md) define the current implementation-level documentation.
 
 **Decision Status:** Documentation-ready / implementation pending
 **Target Version:** `0.5.0`

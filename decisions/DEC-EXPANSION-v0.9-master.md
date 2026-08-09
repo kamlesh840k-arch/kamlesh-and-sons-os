@@ -65,7 +65,7 @@ K&S can expand deliberately and repeatably while preserving brand trust, custome
 
 ## Canonical Implementation Reference
 
-[v0.9 Expansion System](../docs/v0.9-expansion-system.md) and its [activation checklist](../docs/v0.9-expansion-checklist.md) define the current implementation-level documentation.
+[v0.9 Expansion System](../docs/milestones/v0.9-expansion/v0.9-expansion-system.md) and its [activation checklist](../docs/milestones/v0.9-expansion/v0.9-expansion-checklist.md) define the current implementation-level documentation.
 
 **Decision Status:** Documentation-ready / expansion approval pending
 **Target Version:** `0.9.0`

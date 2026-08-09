@@ -61,4 +61,4 @@ v0.3 is complete when the flagship concept and store-design standards are docume
 
 ## Current Gate
 
-The documentation standard is met subject to the [v0.3 Documentation Closure](../docs/v0.3-store-design-documentation-closure.md). Site validation, design-governance ownership, drawings, budgets, vendors, procurement, engineering, construction and handover remain separately gated.
+The documentation standard is met subject to the [v0.3 Documentation Closure](../docs/milestones/v0.3-store-design/v0.3-store-design-documentation-closure.md). Site validation, design-governance ownership, drawings, budgets, vendors, procurement, engineering, construction and handover remain separately gated.

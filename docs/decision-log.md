@@ -1,7 +1,7 @@
 # K&S Decision Log
 
 **Document ID:** DOC-DEC-001
-**Version:** 1.0.0-rc.1
+**Version:** 1.0.0-rc.2
 **Status:** v0.1–v1.0 documentation architecture reconciled
 
 ## Purpose
@@ -22,9 +22,9 @@ The repository contains decision records through `DEC-0101`.
 `DEC-0101` is the v0.1 foundation completion/release gate and has been accepted as the release decision for v0.1.0.
 
 ## Foundation Architecture
-The canonical v0.1 foundation set is defined in `docs/v0.1-foundation-decision-set.md`.
+The canonical v0.1 foundation set is defined in `docs/milestones/v0.1-foundation/v0.1-foundation-decision-set.md`.
 
-The consolidation and roadmap placement of the broader DEC history is defined in `docs/decision-consolidation-registry.md` and `docs/v0.1-decision-inventory-classification.md`.
+The consolidation and roadmap placement of the broader DEC history is defined in `docs/decision-consolidation-registry.md` and `docs/milestones/v0.1-foundation/v0.1-decision-inventory-classification.md`.
 
 ## Roadmap Placement
 
@@ -43,11 +43,11 @@ Deferred decisions remain part of the historical knowledge base and should be co
 
 ## Release Status
 
-**Current repository version:** `1.0.0-rc.1`
+**Current repository version:** `1.0.0-rc.2`
 **Documentation coverage:** v0.1–v1.0 complete
 **Final release condition:** v1.0 real-world evidence gate and founder go/no-go acceptance
 
 ## Change History
-- 1.0.0-rc.1 — Reconciled roadmap masters, canonical systems, checklists and v1.0 integration gate.
+- 1.0.0-rc.2 — Reconciled roadmap masters, canonical systems, checklists and v1.0 integration gate.
 - 0.1.0 — Reconciled decision range, foundation architecture and roadmap placement.
 - 0.1.0 — DEC-0101 accepted; v0.1.0 foundation closed.

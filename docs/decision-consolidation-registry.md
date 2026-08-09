@@ -1,6 +1,6 @@
 # K&S OS — Decision Consolidation Registry
 
-**Version:** 1.0.0-rc.1
+**Version:** 1.0.0-rc.2
 **Status:** Roadmap masters and canonical systems reconciled through v1.0
 
 ## Purpose
@@ -11,9 +11,9 @@ This registry is the control layer between the historical DEC series and the act
 
 The active foundation is governed by:
 
-- `docs/DEC-FOUNDATION-v0.1.0-master.md` — consolidated foundation master
-- `docs/v0.1-foundation-decision-set.md` — governing scope rule
-- `docs/v0.1-decision-inventory-classification.md` — historical classification
+- `decisions/DEC-FOUNDATION-v0.1.0-master.md` — consolidated foundation master
+- `docs/milestones/v0.1-foundation/v0.1-foundation-decision-set.md` — governing scope rule
+- `docs/milestones/v0.1-foundation/v0.1-decision-inventory-classification.md` — historical classification
 - DEC-0100 — Foundation Integration & Completion Readiness
 - DEC-0101 — Foundation Completion Gate
 
@@ -49,14 +49,14 @@ The active foundation is governed by:
 
 ## Canonical Roadmap Systems and Gates
 
-- `docs/v0.3-store-design-documentation-closure.md`
-- `docs/v0.4-customer-experience-system.md` and `docs/v0.4-customer-experience-checklist.md`
-- `docs/v0.5-ai-and-technology-system.md` and `docs/v0.5-ai-and-technology-checklist.md`
-- `docs/v0.6-operations-and-people-system.md` and `docs/v0.6-operations-and-people-checklist.md`
-- `docs/v0.7-marketing-system.md` and `docs/v0.7-marketing-checklist.md`
-- `docs/v0.8-finance-system.md` and `docs/v0.8-finance-checklist.md`
-- `docs/v0.9-expansion-system.md` and `docs/v0.9-expansion-checklist.md`
-- `docs/v1.0-integrated-flagship-operating-model.md` and `docs/v1.0-flagship-readiness-gate.md`
+- `docs/milestones/v0.3-store-design/v0.3-store-design-documentation-closure.md`
+- `docs/milestones/v0.4-customer-experience/v0.4-customer-experience-system.md` and `docs/milestones/v0.4-customer-experience/v0.4-customer-experience-checklist.md`
+- `docs/milestones/v0.5-ai-and-technology/v0.5-ai-and-technology-system.md` and `docs/milestones/v0.5-ai-and-technology/v0.5-ai-and-technology-checklist.md`
+- `docs/milestones/v0.6-operations-and-people/v0.6-operations-and-people-system.md` and `docs/milestones/v0.6-operations-and-people/v0.6-operations-and-people-checklist.md`
+- `docs/milestones/v0.7-marketing/v0.7-marketing-system.md` and `docs/milestones/v0.7-marketing/v0.7-marketing-checklist.md`
+- `docs/milestones/v0.8-finance/v0.8-finance-system.md` and `docs/milestones/v0.8-finance/v0.8-finance-checklist.md`
+- `docs/milestones/v0.9-expansion/v0.9-expansion-system.md` and `docs/milestones/v0.9-expansion/v0.9-expansion-checklist.md`
+- `docs/milestones/v1.0-flagship-ready/v1.0-integrated-flagship-operating-model.md` and `docs/milestones/v1.0-flagship-ready/v1.0-flagship-readiness-gate.md`
 
 These records complete the documentation architecture. Their unchecked gates preserve required real-world evidence and approvals.
 

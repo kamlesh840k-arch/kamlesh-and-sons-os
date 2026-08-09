@@ -68,6 +68,6 @@ K&S can grow in complexity while retaining clear ownership, reliable information
 **Decision Status:** Accepted
 ## v1.0 Release-Candidate Integration
 
-The [Integrated Flagship Operating Model](../docs/v1.0-integrated-flagship-operating-model.md) applies this decision to v0.1–v0.9. The [Flagship Readiness Gate](../docs/v1.0-flagship-readiness-gate.md) withholds final release until real-world evidence and founder approval exist.
+The [Integrated Flagship Operating Model](../docs/milestones/v1.0-flagship-ready/v1.0-integrated-flagship-operating-model.md) applies this decision to v0.1–v0.9. The [Flagship Readiness Gate](../docs/milestones/v1.0-flagship-ready/v1.0-flagship-readiness-gate.md) withholds final release until real-world evidence and founder approval exist.
 
-**Current K&S OS Version:** `1.0.0-rc.1`
+**Current K&S OS Version:** `1.0.0-rc.2`

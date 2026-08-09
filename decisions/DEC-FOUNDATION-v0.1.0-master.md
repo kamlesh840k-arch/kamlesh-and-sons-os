@@ -43,7 +43,7 @@ These remain valid business needs but belong to later roadmap milestones.
 
 This master consolidates the foundation intent represented by the DEC history. Historical DEC files remain authoritative source records and are not deleted by this decision.
 
-The complete mapping is maintained in `docs/decision-consolidation-registry.md` and `docs/v0.1-decision-inventory-classification.md`.
+The complete mapping is maintained in `docs/decision-consolidation-registry.md` and `docs/milestones/v0.1-foundation/v0.1-decision-inventory-classification.md`.
 
 ## Release Gate
 

@@ -54,7 +54,7 @@ K&S has a measurable, trusted and repeatable marketing system that grows awarene
 
 ## Canonical Implementation Reference
 
-[v0.7 Marketing System](../docs/v0.7-marketing-system.md) and its [activation checklist](../docs/v0.7-marketing-checklist.md) define the current implementation-level documentation.
+[v0.7 Marketing System](../docs/milestones/v0.7-marketing/v0.7-marketing-system.md) and its [activation checklist](../docs/milestones/v0.7-marketing/v0.7-marketing-checklist.md) define the current implementation-level documentation.
 
 **Decision Status:** Documentation-ready / execution pending
 **Target Version:** `0.7.0`

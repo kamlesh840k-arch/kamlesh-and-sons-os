@@ -47,19 +47,19 @@ Brand strategy, identity, typography, and visual standards are approved. The v0.
 
 ## Documentation Milestones — v0.3 through v0.9
 
-The v0.3 concept standard set is documentation-ready. It includes the flagship concept, zoning and customer-flow principles, visual merchandising, fixtures, wayfinding, environment, accessibility/safety, and reusable-store standards. Its [documentation-closure record](docs/v0.3-store-design-documentation-closure.md) preserves all physical-delivery blockers.
+The v0.3 concept standard set is documentation-ready. It includes the flagship concept, zoning and customer-flow principles, visual merchandising, fixtures, wayfinding, environment, accessibility/safety, and reusable-store standards. Its [documentation-closure record](docs/milestones/v0.3-store-design/v0.3-store-design-documentation-closure.md) preserves all physical-delivery blockers.
 
 Canonical operating-system documents and checklists now cover v0.4 Customer Experience, v0.5 AI & Technology, v0.6 Operations & People, v0.7 Marketing, v0.8 Finance and v0.9 Expansion. These milestones are complete as documentation, not as implemented capabilities.
 
 ## Active Integration Gate — v1.0 Flagship Ready
 
-The [integrated flagship operating model](docs/v1.0-integrated-flagship-operating-model.md) and [readiness gate](docs/v1.0-flagship-readiness-gate.md) form release candidate `1.0.0-rc.1`. Final `1.0.0` requires actual-site, people, systems, finance, safety, legal/compliance and launch evidence plus a founder go/no-go decision.
+The [integrated flagship operating model](docs/milestones/v1.0-flagship-ready/v1.0-integrated-flagship-operating-model.md) and [readiness gate](docs/milestones/v1.0-flagship-ready/v1.0-flagship-readiness-gate.md) form release candidate `1.0.0-rc.2`. Final `1.0.0` requires actual-site, people, systems, finance, safety, legal/compliance and launch evidence plus a founder go/no-go decision.
 
-The [roadmap documentation audit](docs/v1.0-roadmap-documentation-audit.md) records completion and all remaining evidence/approval dependencies.
+The [roadmap documentation audit](docs/milestones/v1.0-flagship-ready/v1.0-roadmap-documentation-audit.md) records completion and all remaining evidence/approval dependencies.
 
 ## Status
 
-**Current Version:** `1.0.0-rc.1`
+**Current Version:** `1.0.0-rc.2`
 **Current Milestone:** Flagship Ready integration gate
 **Status:** **Documentation-ready release candidate — real-world evidence and founder approval pending**
 

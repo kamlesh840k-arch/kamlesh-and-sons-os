@@ -4,7 +4,7 @@ All notable changes to **KAMLESH & SONS OS** are documented in this file.
 
 The project follows [Semantic Versioning](https://semver.org/).
 
-## [1.0.0-rc.1] — Roadmap Documentation Integration
+## [1.0.0-rc.2] — Roadmap Documentation Integration
 
 ### Documentation completed serially
 
@@ -20,8 +20,9 @@ The project follows [Semantic Versioning](https://semver.org/).
 ### Reconciled
 
 - Updated roadmap blueprints, master decisions, decision indexes, documentation standards, README and roadmap index.
+- Organized all v0.1–v1.0 milestone records into `docs/milestones/vX.Y-*` folders with a repository and per-version navigation README.
 - Established controlled distinctions between documentation-ready, approval-ready and operationally validated.
-- Advanced `VERSION` to `1.0.0-rc.1`; final `1.0.0` remains withheld.
+- Advanced `VERSION` to `1.0.0-rc.2`; final `1.0.0` remains withheld.
 
 ### Status
 

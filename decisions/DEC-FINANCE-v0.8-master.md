@@ -54,7 +54,7 @@ K&S has reliable financial records, disciplined cash and spending controls, usef
 
 ## Canonical Implementation Reference
 
-[v0.8 Finance System](../docs/v0.8-finance-system.md) and its [activation checklist](../docs/v0.8-finance-checklist.md) define the current implementation-level documentation.
+[v0.8 Finance System](../docs/milestones/v0.8-finance/v0.8-finance-system.md) and its [activation checklist](../docs/milestones/v0.8-finance/v0.8-finance-checklist.md) define the current implementation-level documentation.
 
 **Decision Status:** Documentation-ready / professional review pending
 **Target Version:** `0.8.0`

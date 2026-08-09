@@ -49,7 +49,7 @@ When activated, K&S has one coherent customer/commercial architecture rather tha
 
 ## Canonical Implementation Reference
 
-[v0.4 Customer Experience System](../docs/v0.4-customer-experience-system.md) and its [activation checklist](../docs/v0.4-customer-experience-checklist.md) define the current implementation-level documentation. Real-customer validation and activation remain pending.
+[v0.4 Customer Experience System](../docs/milestones/v0.4-customer-experience/v0.4-customer-experience-system.md) and its [activation checklist](../docs/milestones/v0.4-customer-experience/v0.4-customer-experience-checklist.md) define the current implementation-level documentation. Real-customer validation and activation remain pending.
 
 **Current Status:** Documentation-ready / activation pending
 **v0.1 Impact:** Reference architecture only

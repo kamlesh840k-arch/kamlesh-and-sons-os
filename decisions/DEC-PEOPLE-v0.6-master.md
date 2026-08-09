@@ -51,7 +51,7 @@ K&S can recruit, develop, deploy, evaluate and retain capable people through a c
 
 ## Canonical Implementation Reference
 
-[v0.6 Operations & People System](../docs/v0.6-operations-and-people-system.md) and its [activation checklist](../docs/v0.6-operations-and-people-checklist.md) define the integrated people implementation documentation.
+[v0.6 Operations & People System](../docs/milestones/v0.6-operations-and-people/v0.6-operations-and-people-system.md) and its [activation checklist](../docs/milestones/v0.6-operations-and-people/v0.6-operations-and-people-checklist.md) define the integrated people implementation documentation.
 
 **Decision Status:** Documentation-ready / pilot pending
 **Target Version:** `0.6.0`
