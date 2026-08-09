@@ -17,13 +17,10 @@ This repository serves as the **single source of truth** for KAMLESH & SONS.
 - v0.1 — Foundation **(Complete)**
 - v0.2 — Brand Identity **(Complete)**
 - v0.3 — Store Design **(Active)**
-- v0.4 — Customer Experience
-- v0.5 — AI & Technology
-- v0.6 — Operations
-- v0.7 — Marketing
-- v0.8 — Finance
-- v0.9 — Expansion
-- v1.0 — Flagship Ready
+- v0.4–v1.0 — Detailed blueprints ready
+- v2.0–v4.0 — Long-term directional blueprints ready
+
+See the [Roadmap Blueprint Index](docs/roadmap/README.md) for every remaining milestone.
 
 # Decision Records
 
@@ -40,6 +37,6 @@ Decision records preserve reasoning and traceability over time.
 **Milestone:** Store Design  
 **Status:** **Active — concept standards prepared; site-specific validation pending**
 
-The current v0.3 work defines the flagship concept, customer flow, merchandising, fixtures, wayfinding, environmental, accessibility, and reusable-store principles. It does not approve construction drawings, vendors, budgets, or construction.
+All remaining roadmap stages are documented as governed blueprints. They remain planned until each has real evidence, a named owner, and the required approvals.
 
 > **We are not building a phone store. We are building Nepal's most trusted premium technology brand.**
