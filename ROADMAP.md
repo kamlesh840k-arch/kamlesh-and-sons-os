@@ -4,9 +4,7 @@
 
 ## Purpose
 
-This roadmap defines the planned evolution of K&S OS from its initial documentation foundation into a complete operating system for KAMLESH & SONS.
-
-The roadmap is directional. Major changes to company strategy or sequencing should be captured through a decision record and reflected in the changelog.
+This roadmap defines the planned evolution of K&S OS from its documentation foundation into a complete operating system for KAMLESH & SONS. Major changes to strategy or sequencing should be captured through a decision record and reflected in the changelog.
 
 ## Release Roadmap
 
@@ -23,54 +21,30 @@ The roadmap is directional. Major changes to company strategy or sequencing shou
 | **v0.9** | Expansion | Multi-store model, expansion framework, national growth |
 | **v1.0** | Flagship Ready | Integrated operating model ready for flagship execution |
 
-## Long-Term Direction
+## Completed Milestones
 
-After v1.0, the operating system is expected to evolve with the company:
+### v0.1 Foundation
 
-- **v2.0** — Multi-Store Operations
-- **v3.0** — AI-Native Retail Platform
-- **v4.0** — Nationwide Technology Ecosystem
+Repository and governance are complete, including the consolidated foundation architecture and DEC-0101 release gate.
 
-These future milestones are strategic directions rather than fixed commitments.
+### v0.2 Brand Identity
 
-## v0.1 Foundation — Completed
+Brand strategy, identity, typography, and visual standards are approved. The v0.2 master is the controlling reference for subsequent work.
 
-The v0.1 foundation establishes the repository and governance layer required for future operating-system development.
+## Active Milestone — v0.3 Store Design
 
-Completed areas:
+The v0.3 concept standard set is active. It includes the flagship concept, zoning and customer-flow principles, visual merchandising, fixtures, wayfinding, environment, accessibility/safety, and reusable-store standards.
 
-1. Repository foundation
-2. Founder's Playbook
-3. Decision Log
-4. Innovation Vault
-5. Documentation standards
-6. Repository governance
-7. Templates for recurring documentation
-8. Cross-referenced company knowledge
-9. Consolidated foundation decision architecture
-10. v0.1 release gate acceptance through DEC-0101
+v0.3 is not closed: site-specific validation, a design governance owner, and any detailed drawings, budgets, vendors, procurement, or construction require separate approval.
 
-## v0.2 Brand Identity — Completed
+## Status
 
-v0.2 has been approved and is now closed. Its governing master decision is `decisions/DEC-BRAND-v0.2-master.md`.
+**Current Version:** `0.3.0`  
+**Current Milestone:** Store Design  
+**Status:** **Active — concept standards prepared; site-specific validation pending**
 
-Completed scope:
-
-1. Brand strategy
-2. Brand identity
-3. Typography
-4. Visual standards
-
-The approved v0.2 brand foundation is the source for later v0.3, v0.4 and v0.7 work; later milestones must not redefine the brand independently.
-
-## v0.3 Store Design — Next
-
-v0.3 is the next milestone. Its primary focus is:
-
-1. Flagship concept
-2. Store layout
-3. Visual merchandising
-4. Store standards
+**Previous Milestone:** `v0.2.0 — Brand Identity (Complete)`  
+**Next Milestone:** `v0.4.0 — Customer Experience`
 
 ## Roadmap Principles
 
@@ -81,28 +55,3 @@ v0.3 is the next milestone. Its primary focus is:
 - Use semantic versioning for meaningful releases.
 - Cross-reference related documents, decisions, and innovations.
 - Treat the roadmap as a living document.
-
-## Change Management
-
-A significant roadmap change should be evaluated for its impact on:
-
-- Company strategy
-- Customer experience
-- Brand
-- Technology
-- Operations
-- Finance
-- Expansion
-- Existing decisions
-- Innovation initiatives
-
-Where a change represents a major strategic decision, create a corresponding `DEC-*` record and update the relevant documentation.
-
-## Status
-
-**Current Version:** `0.2.0`  
-**Current Milestone:** Brand Identity  
-**Status:** **Complete — Leadership Approved**
-
-**Previous Milestone:** `v0.1.0 — Foundation (Complete)`  
-**Next Milestone:** `v0.3.0 — Store Design`
