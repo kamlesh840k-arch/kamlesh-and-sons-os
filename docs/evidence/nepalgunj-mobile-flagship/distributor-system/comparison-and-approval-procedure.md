@@ -45,11 +45,10 @@ Do not give every brand a large opening order. Approve the portfolio by role:
 3. Offline/value alternative.
 4. Order-led/test brand.
 
-Set a maximum inventory amount, model count and ageing threshold for each approved brand. The combined approved orders must remain within the NPR 50–70 lakh inventory envelope and the sanctioned working-capital/BG limits.
+Set a maximum inventory amount, model count and ageing threshold for each approved brand. The combined approved orders must remain within the NPR 70 lakh planned facilities: NPR 60 lakh BG-supported distributor purchasing plus NPR 10 lakh OD. The BG credit conversion and OD availability must be confirmed in the signed bank and distributor terms. Preserve part of the OD as a liquidity buffer instead of automatically converting all facilities into stock.
 
 ## Approval record
 
 The Owner signs the decision summary showing selected distributor, gates, score, opening exposure, credit, BG usage, conditions, rejected alternatives and review date. Finance and legal reviews are attached where relevant.
 
 No employee may divide a purchase into smaller orders to avoid the approval limit.
-
