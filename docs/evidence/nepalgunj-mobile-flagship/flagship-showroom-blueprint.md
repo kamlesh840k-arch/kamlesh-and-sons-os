@@ -1,16 +1,32 @@
 # KAMLESH Mobile — Nepalgunj Flagship Showroom Blueprint
 
-**Document ID:** EVD-NPJ-FLAGSHIP-002  
-**Version:** 0.1.0  
-**Status:** Planning evidence — quotations, field validation and approvals pending  
-**Accountable owner:** Founder until site-specific owners are appointed  
+**Document ID:** EVD-NPJ-FLAGSHIP-002
+**Version:** 0.2.0
+**Status:** Planning evidence — quotations, field validation and approvals pending
+**Accountable owner:** Founder until site-specific owners are appointed
 **Canonical dependencies:** v0.3 Store Design, v0.4 Customer Experience, v0.6 Operations & People, v0.7 Marketing, v0.8 Finance and v1.0 Flagship Ready
 
-Planning date: August 2026  
-Target footprint: 800–1,200 sq ft  
-Reference layout: 1,000 sq ft  
-Proposed funding ceiling: NPR 1 crore  
+Planning date: August 2026
+Current working footprint: five connected shutters / approximately 720 sq ft
+Measurement status: concept only; verified internal survey and structural/services plan pending
+Proposed funding ceiling: NPR 1 crore
 Proposed distributor BG ceiling: NPR 60 lakh
+
+## Current working assumptions — not lease-approved facts
+
+The latest founder input establishes the following design basis:
+
+- All ten shutters are reportedly available; K&S intends to select five consecutive shutters including the highway-facing position.
+- The current concept assumes one highway-facing arrival and four gallery-facing fronts fitted with glass.
+- Reported shutter opening is approximately 12 ft wide × 10 ft high; reported ceiling height is approximately 10 ft.
+- Approximately 720 sq ft remains the planning-area assumption. Actual clear internal width, depth and usable area are unknown.
+- Existing partition walls are reported as approximately 4 in thick. No wall may be removed until the landlord and a competent site professional confirm in writing that it is non-structural and safe to remove.
+- No stair or toilet is reported inside the proposed unit. Staff/customer toilet access, drainage and hand-washing arrangements remain a lease condition/TBD.
+- Columns, beams, floor levels, slab loading, water ingress, electrical load, AC routes, internet and emergency egress remain TBD.
+- The landlord is reportedly open in principle to joining the five shutters; installing glass, ceiling, floor, signage, wiring, AC and CCTV; and requiring later restoration. Every permission and restoration obligation must be written into the lease before work begins.
+- A commercial wood-look floor is acceptable in principle. The preferred low-maintenance option is parquet-look vitrified/porcelain tile or, after subfloor/moisture review, commercial-grade SPC—not untreated timber parquet.
+
+These inputs authorise design development only. They do not authorise a lease, demolition, debt drawdown, purchase order or construction contract.
 
 ## Executive decision
 
@@ -30,22 +46,25 @@ The recommended brand architecture is:
 
 The store should feel curated, not crowded. Every stocked model must have a defined customer, comparison and reorder rule.
 
-## 1. Funding and BG guardrails
+## 1. Funding and BG/OD guardrails
 
 A bank guarantee is a contingent bank liability, not free capital. If the distributor calls the guarantee, the bank pays and the business owes the bank. Commission, collateral/margin requirements and documentation also apply.
 
-Because the complete project is expected to be debt-funded, the safest structure is:
+The founder's current facility concept is an NPR 60 lakh BG plus an NPR 40 lakh OD/loan ceiling. The intended direction is to use BG-supported authorised channels principally for approved Apple, Samsung, Nothing or similar distributor relationships, while the NPR 40 lakh facility covers fit-out, accessories, smaller-brand authorised inventory and startup needs. This is an intended structure, not a confirmed bank or distributor arrangement.
 
-- Obtain a facility ceiling of up to NPR 1 crore if the bank approves it.
-- Initially utilise only approximately NPR 65–75 lakh.
-- Preserve NPR 25–35 lakh as undrawn capacity and liquidity protection.
-- Set the distributor BG ceiling at NPR 60 lakh, but initially limit handset exposure under it to approximately NPR 35–42 lakh.
+Because the complete project is expected to be debt-funded, the safer opening structure is:
+
+- Obtain a combined facility ceiling of up to NPR 1 crore only if the bank approves the exact structure and downside case.
+- Initially utilise only approximately NPR 60–70 lakh across funded and contingent exposure.
+- Preserve NPR 30–40 lakh as undrawn capacity and liquidity protection.
+- Set the distributor BG ceiling at NPR 60 lakh, but initially limit BG-supported anchor/halo handset exposure to approximately NPR 30–35 lakh.
+- Target initial OD/loan utilisation of approximately NPR 30–35 lakh, including NPR 6–8 lakh of other authorised handset/laptop inventory, while retaining at least NPR 5–10 lakh of that line for commissioning gaps, stock replenishment and downside protection.
 - Increase utilisation only after 30-day sell-through exceeds 70%, total handset ageing stays below 45 days and cash-flow reporting is reliable.
 
 ### Match finance to asset life
 
 - **Term loan:** durable fit-out, furniture, electrical work, AC, power backup, security and service equipment.
-- **OD/working-capital line:** accessories, payroll cycle, approved short-term stock and operating timing gaps.
+- **OD/working-capital line:** accessories, approved fast-turn authorised stock, payroll cycle and operating timing gaps. Fit-out use must be explicitly permitted by the bank and repaid on a schedule suited to the asset life; otherwise use a term-loan component.
 - **BG:** authorised-distributor handset purchases under clearly documented credit and settlement terms.
 - Do not finance slow handset stock with a long-term loan merely to fill shelves.
 
@@ -62,66 +81,58 @@ Do not fully proceed unless the financial model demonstrates:
 
 Model interest sensitivity at the actual sanctioned rate and at two percentage points above it. Bank commission, renewal fees, collateral valuation, insurance and personal-guarantee exposure must be shown separately.
 
-## 2. NPR 1 crore allocation
+## 2. NPR 1 crore exposure allocation
 
 This is a facility allocation, not an instruction to spend the full amount on day one.
 
-| Use | Ceiling | Opening utilisation guideline |
+| Use | Combined ceiling | Opening utilisation guideline |
 |---|---:|---:|
-| Authorised handset inventory | NPR 42 lakh | NPR 35–42 lakh |
-| Accessories and wearables | NPR 8 lakh | NPR 6–8 lakh |
-| Interior, counters, lighting and signage | NPR 15 lakh | NPR 12–15 lakh |
-| Service Lounge tools, intake equipment and initial parts | NPR 5 lakh | NPR 3–5 lakh |
-| POS, inventory system, CCTV, safe, networking and power backup | NPR 5 lakh | NPR 4–5 lakh |
-| Lease deposit, registration, insurance and professional fees | NPR 4 lakh | NPR 3–4 lakh |
-| Pre-launch and launch marketing | NPR 5 lakh | NPR 2–3 lakh initially |
-| Recruitment, uniforms and training | NPR 3 lakh | NPR 2–3 lakh |
-| Interest and working-capital protection | NPR 8 lakh | Preserve wherever possible |
-| Contingency | NPR 5 lakh | Keep undrawn unless approved |
-| **Total facility allocation** | **NPR 1 crore** | **Target initial utilisation: NPR 65–75 lakh** |
+| BG-supported authorised anchor/halo handset exposure | NPR 60 lakh | NPR 30–35 lakh; supplier eligibility and terms TBD |
+| Five-shutter shell, glazing, ceiling, floor, electrical, AC, fixtures and signage | Within NPR 40 lakh funded line | Target NPR 9–12 lakh; quotation gate required |
+| POS, IMEI/inventory system, CCTV, alarm, safe, networking and power backup | Within NPR 40 lakh funded line | Target NPR 3–4 lakh |
+| Premium original accessories and wearables | Within NPR 40 lakh funded line | Target NPR 4–5 lakh |
+| Authorised smaller-brand phones/laptops outside BG arrangements | Within NPR 40 lakh funded line | Target NPR 6–8 lakh within the total NPR 35–42 lakh opening device envelope; order-led where practical |
+| K&S Care intake tools and setup/service equipment | Within NPR 40 lakh funded line | Target NPR 1–2 lakh initially |
+| Lease deposit, registration, insurance and professional fees | Within NPR 40 lakh funded line | Target NPR 2–3 lakh; lease terms TBD |
+| Pre-launch, recruitment, uniforms and training | Within NPR 40 lakh funded line | Target NPR 1.5–2.5 lakh |
+| Undrawn OD/loan protection | NPR 40 lakh line balance | Preserve at least NPR 5–10 lakh at opening |
+| **Total combined ceiling** | **NPR 1 crore** | **Target initial exposure: NPR 60–70 lakh** |
 
-Every line requires two or three local quotations before approval. Interior ambition must not consume the stock and cash reserve.
+Every line requires two or three comparable local quotations before approval. The ranges are envelopes, not entitlements. Interior ambition must not consume the stock and cash reserve. Any supplier that cannot provide documented authenticity, warranty, price protection, rotation/return treatment and workable after-sales support starts as order-led or is excluded.
 
-## 3. Reference floor plan — 1,000 sq ft
+## 3. Five-shutter flagship architecture — approximately 720 sq ft
 
-Suggested shell: approximately 25 ft frontage × 40 ft depth.
+The design treats the five connected shutters as one continuous customer experience. It does not assume that each opening equals a clear internal bay. A measured drawing must set final wall lengths, fixture sizes and aisle widths.
 
 | Zone | Approx. area | Purpose |
 |---|---:|---|
-| Entrance and launch window | 60 sq ft | New launches, one clear campaign and store promise |
-| Main Android gallery | 260 sq ft | Samsung, Redmi/Xiaomi and comparison tables |
-| Premium studio | 80 sq ft | Apple, Nothing and selective flagship demonstrations |
-| Accessories wall | 100 sq ft | Cases, protection, power, audio and wearables |
-| Service Lounge | 120 sq ft | Setup, transfer, software help, warranty and repair booking |
-| Billing, finance and membership | 60 sq ft | VAT billing, EMI, advance orders and KAMLESH Care |
-| Online order and dispatch point | 35 sq ft | WhatsApp orders, delivery and pickup/drop chain of custody |
-| Secure stockroom | 80 sq ft | IMEI-controlled inventory, safe and receiving bench |
-| Staff/back office | 45 sq ft | Lockers, records and breaks |
-| Customer circulation and accessible movement | 160 sq ft | Comfortable browsing and queue control |
-| **Total** | **1,000 sq ft** | |
+| K&S arrival, launch and welcome | 65–80 sq ft | Highway-facing arrival, campaign story, host point and immediate sight line into the whole store |
+| Apple ecosystem and premium consultation | 75–90 sq ft | Selective demos, seated advice, advance orders and unboxing |
+| Samsung ecosystem and comparison tables | 120–145 sq ft | Phones, wearables and guided comparisons across price bands |
+| Android and computing discovery | 95–120 sq ft | Nothing, Xiaomi, Vivo, OPPO, Realme, Honor and selective HP/Dell/Lenovo/Asus demo or order-led range |
+| Premium original accessories gallery | 70–90 sq ft | Protection, power, audio, wearables and compatible bundles |
+| K&S Care, setup and consultation | 70–90 sq ft | Setup, transfer, warranty intake, repair booking and member support; visible but privacy-controlled |
+| Billing, secure inventory, dispatch and staff control | 110–135 sq ft | IMEI stock, safe, receiving, cash, online orders and records behind controlled access |
+| Clear circulation allowance | 85–110 sq ft | Comfortable browsing, consultation and queue management |
+| **Planning total** | **Approximately 720 sq ft** | Ranges overlap at shared counters/walls and must be resolved by measured plan |
 
 ### Indicative layout
 
 ```text
-STREET / 25 FT FRONTAGE
-┌────────────────────────────────────────────────────┐
-│ Launch window        Main entrance      Pickup bay │
-├────────────────────────────────────────────────────┤
-│ Samsung wall     Comparison tables      Redmi wall │
-│                                                    │
-│ Android gallery / guided selling / demo security   │
-├──────────────────────┬─────────────────────────────┤
-│ Premium studio       │ Accessories wall            │
-│ Apple + Nothing      │ Case • glass • power • audio│
-├──────────────────────┼─────────────────────────────┤
-│ SERVICE LOUNGE       │ Billing • EMI • Membership  │
-│ Setup • transfer     │ Advance orders • checkout   │
-│ Warranty • repairs   │                             │
-├──────────────────────┼─────────────────────────────┤
-│ Secure stockroom     │ Dispatch + staff/back office│
-└──────────────────────┴─────────────────────────────┘
-REAR / CONTROLLED STAFF ACCESS
+HIGHWAY-FACING ARRIVAL
+┌─────────────────────────────────────────────────────────────┐
+│ K&S ARRIVAL │ APPLE / PREMIUM │ SAMSUNG │ ANDROID / COMPUTE │
+│ launch      │ consult/unbox   │ compare │ curated discovery │
+├─────────────┴───────────┬──────┴─────────┬───────────────────┤
+│ shared comparison path │ ACCESSORIES    │ K&S CARE / SETUP  │
+│ and open circulation   │ premium/orig.  │ visible + private │
+├────────────────────────┴──────────┬──────┴───────────────────┤
+│ BILLING / EMI / DISPATCH          │ SECURE STOCK + CONTROL  │
+└───────────────────────────────────┴──────────────────────────┘
+FOUR GALLERY-FACING GLASS FRONTS / FINAL ORIENTATION TBD
 ```
+
+This is a relationship diagram, not a dimensioned floor plan. The final arrangement may rotate or mirror after the five selected shutters are surveyed.
 
 ### Interior concept
 
@@ -135,6 +146,11 @@ REAR / CONTROLLED STAFF ACCESS
 - No overfilled glass counters at the entrance
 - Clear sight lines from billing to the entrance, tables and stockroom door
 - Secure receiving bench where every incoming IMEI is scanned before shelving
+- Continuous visual identity across all five shutters; no visible leftover bay divisions unless used deliberately as architectural rhythm
+- Four gallery-side glazed fronts using laminated/tempered safety glass to the engineer/vendor specification, with manifestation at visible height and a secured after-hours layer
+- A shallow, replaceable ceiling and wall system; avoid expensive curves, bespoke imported panels and brand-specific permanent construction
+- Warm wood appearance through commercial parquet-look vitrified/porcelain tile or qualified SPC after subfloor testing; avoid true timber parquet for this cost- and maintenance-sensitive opening
+- Retain code-compliant exit width and avoid converting the four glazed shutters into sealed obstacles without an approved emergency-egress plan
 
 ## 4. Product zones
 
@@ -142,7 +158,7 @@ REAR / CONTROLLED STAFF ACCESS
 
 One current story only: a launch, a value comparison or an authorised-warranty message. Change at least every two weeks.
 
-### Zone 2 — Android volume gallery
+### Zone 2 — Samsung ecosystem and Android volume gallery
 
 Organise by customer need and price, not only by brand:
 
@@ -156,6 +172,10 @@ Organise by customer need and price, not only by brand:
 ### Zone 3 — Premium studio
 
 Apple, Nothing and selected Samsung flagships. Hold demonstrations and limited sealed stock; fulfil variants through advance orders and deposits.
+
+### Zone 3A — Selective computing
+
+HP, Dell, Lenovo and Asus can widen the technology promise, but laptops must not crowd the phone-led opening or consume working capital before local demand is proven. Open with a small comparison set, digital catalogue and written advance-order process. Expand only after authorised sourcing, warranty handling, service routing and 30-day sell-through are demonstrated.
 
 ### Zone 4 — Accessories and protection
 
@@ -184,7 +204,7 @@ Dedicated shelf and chain-of-custody workflow for WhatsApp orders, advance order
 
 ## 5. Opening handset inventory
 
-Target approximately 120 sale units plus controlled demonstration units, with an opening handset cost ceiling near NPR 42 lakh.
+Target approximately 120 sale units plus controlled demonstration units, with a combined opening handset cost ceiling of NPR 35–42 lakh. Within that total, plan approximately NPR 30–35 lakh of BG-supported anchor/halo stock and NPR 6–8 lakh of other authorised stock funded from the OD/loan side; the final mix must stay within the combined ceiling rather than adding both maximums mechanically.
 
 ### Price-tier allocation
 
@@ -259,7 +279,7 @@ Preferred negotiation position: written protection for MRP reductions occurring 
 
 ## 7. Accessories and service inventory
 
-Allocate up to NPR 8 lakh across:
+Target NPR 4–5 lakh at opening, with any increase toward NPR 8 lakh requiring attachment-rate and sell-through evidence, across:
 
 - Screen protection and installation consumables
 - Cases for the top 25 stocked models
@@ -275,20 +295,20 @@ No accessory category should be purchased merely to fill a wall. Track attachmen
 
 ## 8. Staffing structure
 
-### Opening team
+### Lean opening team
 
 | Role | Count | Primary responsibility |
 |---|---:|---|
-| Owner/general manager | 1 | Banking, distributor terms, controls and culture |
-| Store manager | 1 | Daily sales, staffing and customer resolution |
-| Sales advisers | 3 | Android, premium and accessories; cross-trained |
-| Service adviser | 1 | Intake, setup, warranties and member desk |
-| Technician | 1 or partner | Diagnosis and approved repairs |
-| Cashier/inventory controller | 1 | Billing, IMEI control, cash and reconciliation |
-| Content/WhatsApp coordinator | 1 | Catalogue, leads, videos and order status |
-| Delivery runner | Contract/1 | Delivery and pickup/drop chain of custody |
+| Owner/general manager | 1 | Banking, distributor terms, approval controls and culture |
+| Store lead | 1 | Floor leadership, roster, customer resolution and opening/closing control |
+| Sales advisers | 3 | Apple/premium, Samsung/Android and accessories/computing; cross-trained |
+| K&S Care/service adviser | 1 | Intake, setup, transfer, warranties and member desk |
+| Cashier/inventory controller | 1 | Billing, IMEI control, cash, dispatch and reconciliation |
+| Content/WhatsApp coordinator | 0.5–1 | Catalogue, leads, videos, appointments and order status; may begin part-time but not hold inventory-control authority |
+| Technician | Approved partner initially | Diagnosis and authorised repairs until demand and competency justify an employee |
+| Delivery/peak security | Contract | Controlled delivery chain and opening-week crowd/security support |
 
-Some roles can be combined during the first three months, but the same person should not independently purchase, receive, sell and reconcile inventory.
+Target founder-led opening roster: seven core people plus part-time/contract support. Some roles can be combined during the first three months, but the same person must not independently purchase, receive, sell and reconcile inventory. At least two authorised people must be present for opening, closing, high-value receiving and safe access. Final headcount, salary and statutory cost remain TBD until operating hours and workload are approved.
 
 ### Required training
 
@@ -301,6 +321,22 @@ Some roles can be combined during the first three months, but the same person sh
 - Repair intake and condition photography
 - Fraud, counterfeit accessory and payment warning signs
 - KAMLESH Care benefit and cap explanation
+
+### Security and loss-prevention concept
+
+Security must be designed into the joinery and wiring before finishing work, not added after stock arrives.
+
+- Maintain an unobstructed sight line from the controlled billing point to the highway arrival, comparison tables and K&S Care intake.
+- Keep all sealed phones and laptops in a rear secure stockroom; front-of-house devices are tethered/locked demonstrations or the single unit actively being handed over.
+- Use individual logins and role permissions for POS, inventory, refunds and discounts. Record every IMEI at receiving, transfer, sale, return and service intake.
+- Install a quotation-designed CCTV layout covering every entrance, glass frontage, demo table, billing point, receiving bench and stockroom approach, with no camera aimed into private customer data screens. Retention period and notice signage remain subject to legal/insurer review.
+- Provide intrusion alarm, shutter/door contacts, glass-break or equivalent perimeter detection where appropriate, a staff panic method, secured network recorder, UPS and tested incident-call list.
+- Use an anchored safe or rated cabinet, dual-control safe access, daily cash limits and bank/cash-pickup routines. Do not keep display boxes that appear stocked unless clearly controlled.
+- Maintain key/credential register, visitor/contractor log, seal register, twice-daily high-value count and end-of-day exception report.
+- Provide fire extinguishers appropriate to electrical risks, emergency lighting, marked exits, first-aid kit and staff drills after competent fire/safety review.
+- Use an opening-week guard/crowd controller. Decide ongoing guard coverage only after insurer requirements, common-property security, operating hours and incident-risk review are known.
+
+Security budget cannot be reduced below insurer, fire/life-safety or inventory-control requirements to preserve decorative finishes.
 
 ## 9. First-year sales targets
 
@@ -437,10 +473,34 @@ Before the main launch campaign begins, the project dashboard must show:
 
 Do not train the audience to respond only to discounts. Demonstrate expertise, authorised sourcing and problem resolution.
 
-## 11. Launch plan
+## 11. Pre-Dashain 2026 opening plan
+
+The planning target is a public opening during 2–4 October 2026, before Ghatasthapana on 11 October 2026. This is a stretch target, not a committed opening date. Lease, finance, safety, authorised supply and commissioning gates take priority over the festival deadline.
+
+### Critical-path calendar
+
+| Window | Required outcome | Hard evidence/gate |
+|---|---|---|
+| 10–16 August | Select the five-shutter option for negotiation; obtain internal survey; issue landlord, bank, distributor and contractor requests | Measured plan; permission schedule; at least two early fit-out estimates; bank/distributor meetings booked |
+| 17–23 August | Freeze functional layout and commercial heads; inspect structure, electrical supply, water/flood risk, glass and AC routes | Signed heads of terms or redline; engineer/qualified contractor findings; initial base/downside model |
+| 24–30 August | Sign only an approved lease; award controlled fit-out; freeze lean material palette and security wiring | Written landlord permissions; three comparable quotations or documented exception; insurance/security review |
+| 31 August–13 September | Join shutters only after approval; complete electrical, network, AC routes, ceiling/floor preparation, glass and first-fix security | Weekly site acceptance; variation log; concealed-work photographs; no stock on site |
+| 14–20 September | Complete fixtures, lighting, signage, floor, CCTV/alarm, stockroom and fire/life-safety work | Snag list; electrical test; CCTV/alarm/UPS test; exit and glass-safety review |
+| 21–27 September | Install POS/inventory; receive demo units and controlled stock; train staff; rehearse every service | IMEI test, payment/refund test, cash/stock reconciliation, privacy and emergency drills |
+| 28 September–1 October | Appointment-only soft opening | Daily defects log; zero unexplained IMEI/cash variance; customer-flow correction |
+| 2–4 October | Public opening window if every red gate is passed | Founder go/no-go sign-off; authorised stock and offers; opening-week security/crowd plan |
+| 5–10 October | Stabilise and replenish only proven sellers | Daily cash/stock control; supplier-funded festival offers; appointment control |
+
+### Red gates and contingency rule
+
+- If the lease, written alteration permissions, measured survey and safe structural/electrical route are not approved by 30 August, do not force the full flagship build for Dashain.
+- If tested power, CCTV/alarm, stockroom, POS/IMEI controls, staff competency, insurance and authorised inventory are not ready by 27 September, do not hold a public launch.
+- A delay is preferable to opening a premium store with unfinished finishes, exposed inventory, unclear warranty or unsafe circulation.
+- If the full opening gate fails, continue research, appointment capture and educational marketing; announce a revised date only after the critical path is credible. Do not advertise a provisional date as confirmed.
 
 ### Soft opening — 7 days
 
+- Use the 28 September–1 October appointment window above and extend it if testing identifies material defects.
 - Invite small appointment groups.
 - Test billing, IMEI matching, WhatsApp response, delivery and repair intake.
 - Correct bottlenecks before the public event.
@@ -453,6 +513,8 @@ Do not train the audience to respond only to discounts. Demonstrate expertise, a
 - Demonstrate live MDMS checking and data transfer.
 - Schedule premium consultations and advance-order collection separately.
 - Give every visitor a clear service menu and WhatsApp contact.
+- Use timed premium consultations, a queue host and contract security/crowd control during peak periods.
+- Keep opening stock narrow and replenishable; do not buy extra colours or slow variants only to make the store appear full.
 
 ### First 90 days
 

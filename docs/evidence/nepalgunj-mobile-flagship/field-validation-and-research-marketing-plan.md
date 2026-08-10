@@ -1,8 +1,8 @@
 # Nepalgunj Field Validation and Research-Led Marketing Plan
 
-**Document ID:** EVD-NPJ-FLAGSHIP-004  
-**Version:** 0.1.0  
-**Status:** Execution plan — no field activity marked complete  
+**Document ID:** EVD-NPJ-FLAGSHIP-004
+**Version:** 0.2.0
+**Status:** Execution plan — no field activity marked complete
 **Accountable owner:** Founder until Research and Marketing Owners are appointed
 
 ## Purpose
@@ -65,8 +65,8 @@ Locations:
 2. Setu B.K. Chowk/New Road
 3. Pushpalal Chowk/Bus Park area
 
-Times: 10:00, 14:00 and 18:00.  
-Days: two ordinary weekdays and one Saturday.  
+Times: 10:00, 14:00 and 18:00.
+Days: two ordinary weekdays and one Saturday.
 Minimum: 27 comparable sessions.
 
 For each 30-minute session, count pedestrians, two-wheelers stopping, people entering technology/mobile shops, observed purchases where visible, parking availability, obstruction, weather and unusual events. Do not infer sales from general traffic alone.
@@ -142,29 +142,43 @@ Label each response as documentary, system-export, verbal recall or estimate. Ag
 
 Publish aggregate customer-facing insights only. Do not disclose sensitive unit economics or use competitor allegations as engagement content.
 
-## Three-month sequence
+## Compressed pre-Dashain 2026 sequence
 
-### Month minus three
+The current planning target is a conditional public opening during 2–4 October 2026. Because the remaining calendar is shorter than the original three-month plan, evidence thresholds are not reduced; workstreams must run in parallel. If the lease, finance, authorised supply, safety or commissioning gates miss the dates in the flagship blueprint, move the opening rather than marking incomplete research as complete.
+
+### 10–23 August — evidence sprint and site gate
 
 - Launch social profiles and opted-in WhatsApp waitlist.
 - Begin distributor quotation requests, competitor basket audit, traffic counts and property comparison.
 - Launch the customer survey.
 - Publish education on MDMS, warranty, budgets, battery health, scam prevention and backups.
+- Measure the exact five proposed shutters and run the landlord script, alteration schedule and utility/safety inspection.
+- Shortlist contractors and obtain scope-matched fit-out, security and systems quotations.
 
-### Month minus two
+### 24 August–13 September — build evidence and audience
 
 - Complete customer interviews and sell-through discussions.
 - Publish anonymous interim findings.
 - Introduce the Service Lounge and customer-policy design.
 - Update the proposed assortment, property shortlist and financial model.
+- Publish the location only after the lease and construction critical path are approved.
+- Continue research while construction runs; no survey, competitor or distributor item is marked complete without its required record.
 
-### Month minus one
+### 14 September–1 October — prove readiness
 
-- Finalise location only after evidence and approval.
 - Publish confirmed authorised brands and service scope.
 - Open controlled advance orders under written terms.
 - Announce KAMLESH Care after benefits and liability review.
 - Publish the You Asked, We Designed summary.
+- Introduce trained staff and demonstrate authenticity, setup, transfer, privacy, warranty intake and screen-protector installation.
+- Collect timed soft-opening appointments and rehearse crowd/queue handling.
+
+### 2–10 October — conditional opening and stabilisation
+
+- Open publicly only after the blueprint's red gates are signed off.
+- Use supplier-funded or margin-approved festival bundles; do not promise stock, EMI, trade-in value or gifts before written confirmation.
+- Publish live hours, appointment options, service capacity and sold-out status accurately.
+- Replenish proven sellers; do not expand BG/OD use merely because opening traffic is high.
 
 ## Handoff to the financial model
 

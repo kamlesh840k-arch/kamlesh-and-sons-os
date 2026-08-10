@@ -1,40 +1,44 @@
 # Nepalgunj Flagship Financial Model and Funding Guardrails
 
-**Document ID:** EVD-NPJ-FLAGSHIP-005  
-**Version:** 0.1.0  
-**Status:** Planning model — bank, distributor, rent, payroll and professional inputs pending  
+**Document ID:** EVD-NPJ-FLAGSHIP-005
+**Version:** 0.2.0
+**Status:** Planning model — bank, distributor, rent, payroll and professional inputs pending
 **Accountable owner:** Founder until Finance Owner is appointed
 
 ## Funding concept
 
 - Proposed total bank-facility ceiling: NPR 1 crore
 - Proposed distributor bank-guarantee ceiling: NPR 60 lakh
-- Recommended initial total utilisation: NPR 65–75 lakh
-- Recommended initial BG-supported handset exposure: NPR 35–42 lakh
-- Recommended undrawn/liquidity protection: NPR 25–35 lakh
+- Proposed OD/loan ceiling: NPR 40 lakh
+- Recommended initial total utilisation: NPR 60–70 lakh
+- Recommended initial BG-supported anchor/halo handset exposure: NPR 30–35 lakh
+- Recommended undrawn/liquidity protection: NPR 30–40 lakh
+
+The founder currently intends the BG side for approved authorised anchor/halo distributors such as Apple, Samsung, Nothing or equivalent relationships, and the NPR 40 lakh side for the five-shutter build, premium original accessories, smaller-brand authorised inventory and startup needs. The bank and each distributor must confirm eligibility; naming a brand here does not establish supply, credit or BG acceptance.
 
 A bank guarantee is a contingent liability, not free stock capital. Invocation creates an obligation to the bank. Commission, collateral/margin, expiry, renewal and claim procedures must be modelled separately.
 
-## Facility allocation
+## Controlled opening allocation
 
-| Use | Facility ceiling | Opening guideline |
+| Use | Facility source | Opening guideline |
 |---|---:|---:|
-| Authorised handset inventory | NPR 42 lakh | NPR 35–42 lakh |
-| Accessories and wearables | NPR 8 lakh | NPR 6–8 lakh |
-| Interior, counters, lighting and signage | NPR 15 lakh | NPR 12–15 lakh |
-| Service Lounge tools and initial parts | NPR 5 lakh | NPR 3–5 lakh |
-| POS, CCTV, safe, networking and power backup | NPR 5 lakh | NPR 4–5 lakh |
-| Lease, registration, insurance and professional fees | NPR 4 lakh | NPR 3–4 lakh |
-| Pre-launch and launch marketing | NPR 5 lakh | NPR 2–3 lakh initially |
-| Recruitment, uniforms and training | NPR 3 lakh | NPR 2–3 lakh |
-| Interest and working-capital protection | NPR 8 lakh | Preserve where possible |
-| Contingency | NPR 5 lakh | Keep undrawn unless approved |
-| **Total** | **NPR 1 crore** | **Initial utilisation NPR 65–75 lakh** |
+| Authorised anchor/halo handset exposure | BG ceiling NPR 60 lakh | NPR 30–35 lakh initially |
+| Five-shutter shell, glazing, ceiling, floor, electrical, AC, fixtures and signage | NPR 40 lakh OD/loan side | NPR 9–12 lakh target |
+| POS, IMEI/inventory system, CCTV, alarm, safe, networking and backup | NPR 40 lakh OD/loan side | NPR 3–4 lakh target |
+| Premium original accessories and wearables | NPR 40 lakh OD/loan side | NPR 4–5 lakh target |
+| Authorised smaller-brand handset/laptop inventory | NPR 40 lakh OD/loan side | NPR 6–8 lakh within the NPR 35–42 lakh total device envelope |
+| K&S Care tools and initial consumables | NPR 40 lakh OD/loan side | NPR 1–2 lakh initially |
+| Lease, registration, insurance and professional fees | NPR 40 lakh OD/loan side | NPR 2–3 lakh; terms TBD |
+| Pre-launch, recruitment, uniform and training | NPR 40 lakh OD/loan side | NPR 1.5–2.5 lakh |
+| OD/loan capacity retained at opening | NPR 40 lakh line balance | Minimum NPR 5–10 lakh |
+| **Combined ceiling** | **NPR 1 crore** | **Initial exposure target NPR 60–70 lakh** |
+
+The funded-side target envelopes total approximately NPR 26.5–36.5 lakh before retained capacity, but the opening draw target is NPR 30–35 lakh. Do not force every category to the top of its range. If essential fit-out, security, lease or opening inventory quotations would consume the full NPR 40 lakh, reduce assortment and decorative scope before reducing the liquidity floor.
 
 ## Finance-to-asset matching
 
 - Term loan funds durable fit-out, electrical work, AC, power backup, security and service equipment.
-- OD funds approved short-cycle working capital and timing gaps.
+- OD funds approved short-cycle working capital and timing gaps. Durable fit-out should not remain indefinitely in an expensive callable OD; obtain a term-loan component or documented conversion plan if the bank permits.
 - BG supports authorised distributor purchases under documented credit and settlement terms.
 - Slow or premium handset inventory is not justified merely because the facility is available.
 
@@ -47,6 +51,8 @@ A bank guarantee is a contingent liability, not free stock capital. Invocation c
 | Accessory gross margin | 35–45% | Supplier quotation and test sales |
 | Service contribution margin | 50–70% | Technician/parts model |
 | Rent | Not approved | Five quotations and selected lease |
+| Five-shutter usable area | Approximately 720 sq ft planning value | Measured internal survey |
+| Fit-out | NPR 9–12 lakh target envelope | Scope-aligned local quotations and variation allowance |
 | Payroll | Not approved | Approved roles, salary and statutory cost |
 | Interest/BG cost | Not approved | Bank term sheet and sensitivity |
 | Stock ageing | Under 45 days target | Live inventory reports |
@@ -90,6 +96,7 @@ Targets do not authorise debt drawdown. BG/OD expansion requires gross profit, c
 - Daily IMEI stock reconciliation
 - Separate purchase approval, receiving, payment and reconciliation where practical
 - Written authority for discounts, refunds, write-offs and emergency purchases
+- No use of debt or BG for a brand until authorised-channel status, warranty route, invoicing, settlement, price protection and stock-rotation exposure are documented
 
 ## Expansion and stop rules
 
