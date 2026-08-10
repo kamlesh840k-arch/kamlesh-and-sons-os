@@ -16,6 +16,7 @@ This system lets KAMLESH qualify, compare, appoint and manage several brand dist
 ## Working files
 
 - `KAMLESH-Distributor-Operating-System.xlsx` — daily working register with qualification, comparison, master data, purchases, claims, documents and the 90-day checklist.
+- [Distributor qualification and commercial proposal form](./distributor-qualification-and-commercial-proposal-form.md) — the supplier-facing form to send to every distributor.
 - [Qualification and quotation procedure](./qualification-and-quotation-procedure.md)
 - [Comparison and approval procedure](./comparison-and-approval-procedure.md)
 - [Brand master-file standard](./brand-master-file-standard.md)
