@@ -1,8 +1,8 @@
 # Nepalgunj Mobile Flagship Sources and Assumptions Register
 
-**Document ID:** EVD-NPJ-FLAGSHIP-006  
-**Version:** 0.1.0  
-**Status:** Active research register  
+**Document ID:** EVD-NPJ-FLAGSHIP-006
+**Version:** 0.2.0
+**Status:** Active research register
 **Last updated:** 2026-08-10
 
 ## Source hierarchy
@@ -41,6 +41,27 @@ Lower-level sources do not override higher-level evidence. Reviews, directory en
 | MDMS | [NTA MDMS portal](https://mdms.nta.gov.np/public?lang=en) | Official registration/legality requirements |
 | PAN/VAT guidance | [IRD FAQ](https://ird.gov.np/faq/?gid=96) | Registration guidance; obtain qualified current advice |
 | Consumer protection | [Consumer Protection Act](https://doc.gov.np/content/39/consumer-protection-act--2075/) | Policy/legal baseline; lawyer review required |
+| Dashain 2083 timing | [Ministry of Home Affairs public-holiday notice](https://moha.gov.np/en/page/government-and-public-holidays-in-2083) | Official holiday-calendar basis for the 2026 pre-Dashain critical path; recheck if the government revises the notice |
+
+## Founder-provided current working inputs
+
+These are first-party planning inputs recorded on 2026-08-10. They are not independent measurements, written landlord commitments, bank sanctions or supplier approvals.
+
+| Topic | Current working input | Treatment until verified |
+|---|---|---|
+| Property availability | All ten shutters reportedly available; K&S plans to choose five consecutive shutters including the highway-facing position | Confirm exact unit numbers and exclusivity in signed heads of terms |
+| Store configuration | Five connected shutters; approximately 720 sq ft working total; one highway-facing arrival and four gallery-facing glazed fronts | Use for concept only; replace with measured drawing |
+| Opening/height | Shutter opening reportedly approximately 12 ft wide × 10 ft high; ceiling approximately 10 ft | Site measure and record clear finished dimensions |
+| Internal dimensions | Actual clear internal width and depth not available | TBD; no final fixture order before survey |
+| Partitions/structure | Walls reportedly approximately 4 in; columns/beams and whether partitions can be removed are unknown | Landlord plus competent structural/site review required before demolition |
+| Internal amenities | No stair and no toilet reported within the unit | Confirm accessible staff/customer toilet and hand-washing arrangement before lease |
+| Alterations | Glass, ceiling, floor, signage, wiring, AC and CCTV reportedly possible; restoration may be required | Convert every permission, cost owner and restoration standard into lease wording |
+| Floor preference | Premium wood/parquet appearance desired at low cost | Quote commercial parquet-look vitrified/porcelain tile and qualified SPC; approve after subfloor/moisture test |
+| Funding concept | NPR 60 lakh BG plus NPR 40 lakh OD/loan ceiling | Bank sanction, security, permitted use, commission, interest and downside model TBD |
+| Sourcing | Authorised channels only; preference for warranty, guarantee and after-sales support | Written distributor appointment/authorisation and service terms required |
+| Brand scope | Apple, Samsung, Nothing, Xiaomi, Vivo, OPPO, Realme, Honor; selective HP, Dell, Lenovo, Asus and other qualified brands | Final opening assortment and BG eligibility TBD; use order-led range where sell-through is unproven |
+| Accessories | Premium and original assortment | Supplier authenticity, compatibility, warranty, margin and return terms required |
+| Opening services | EMI, trade-in/exchange, data transfer, device setup, screen-protector installation, repair/service support and related launch services are intended | Each service remains conditional on partner, legal, insurer, process and staff-readiness approval |
 
 ## Current assumptions requiring replacement
 
@@ -56,6 +77,12 @@ Lower-level sources do not override higher-level evidence. Reviews, directory en
 | KAMLESH Care demand | 300 year-one target | Survey, waitlist and paid members | CX/Marketing | Open |
 | Service margin | 50–70% planning range | Technician/parts contract and pilot | Service/Finance | Open |
 | Pickup/drop liability | Unapproved | Legal and insurer sign-off | CX/Legal | Open |
+| Five-shutter usable area | Approximately 720 sq ft | Signed measured survey showing clear internal dimensions | Founder/Design | Open |
+| Rent for five shutters | Approximately NPR 1 lakh/month has been discussed previously, but is not approved | Written landlord offer, comparables and signed lease | Founder/Finance | Open |
+| Lease economics | Deposit, advance, escalation, term, break option, fit-out period and common charges unknown | Landlord term sheet and lease review | Founder/Legal | Open |
+| Electricity/infrastructure | Load, phase, meter, backup, AC route, internet and fire/egress readiness unknown | Utility records and qualified site inspection | Operations/Design | Open |
+| Structure and alterations | Partition removability, columns, beams and final restoration scope unknown | Written landlord permission and competent technical review | Founder/Design | Open |
+| Pre-Dashain public opening | Target 2–4 October 2026 | Critical-path gate review; announce only after readiness is evidenced | Founder/Project Lead | Open |
 
 ## Change-control rule
 

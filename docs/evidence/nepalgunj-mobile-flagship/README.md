@@ -10,6 +10,7 @@ This folder contains the working commercial and operating blueprint for a propos
 - [Field validation and research-led marketing](./field-validation-and-research-marketing-plan.md) — distributor quotations, competitor basket, traffic counts, 100-customer study, rent and sell-through evidence.
 - [Financial model and funding guardrails](./financial-model-and-funding-guardrails.md) — NPR 1 crore facility, NPR 60 lakh BG, capital allocation, break-even and stop/scale rules.
 - [Sources and assumptions register](./sources-and-assumptions-register.md) — traceable sources, limitations and open evidence items.
+- [Landlord negotiation and lease-verification script](./landlord-negotiation-and-lease-verification-script.md) — a founder-ready conversation script, permission schedule and pre-signing checklist for the five-shutter site.
 
 ## Governance
 
@@ -21,9 +22,12 @@ No fieldwork item, quotation, legal review, bank approval or distributor term is
 
 The recommended concept is an authorised multi-brand flagship, not a Samsung–Apple–Nothing-only store.
 
+The current site hypothesis is five connected shutters with approximately 720 sq ft of planning area, one highway-facing arrival and four gallery-facing glazed fronts. This is a working design basis only: internal dimensions, structure, services, lease economics and landlord permissions still require measurement and written confirmation.
+
 - Samsung and Xiaomi/Redmi are the principal volume anchors.
 - Apple and Nothing are halo brands and should be stocked selectively.
-- Realme, OPPO, Vivo and Infinix/itel fill essential value and offline-sales segments.
+- Realme, OPPO, Vivo, Honor and other authorised brands fill essential value and offline-sales segments when warranty, rotation and after-sales terms pass the K&S supplier gate.
+- HP, Dell, Lenovo and Asus may be represented selectively, preferably through demonstration and advance-order ranges until laptop demand and working-capital performance are proven.
 - The store competes through documented authenticity, customer education and dependable after-sales service.
 
 All commercial figures are planning assumptions. Distributor quotations, bank sanction terms, rent quotations and legal/tax review must replace them before commitments are signed.
