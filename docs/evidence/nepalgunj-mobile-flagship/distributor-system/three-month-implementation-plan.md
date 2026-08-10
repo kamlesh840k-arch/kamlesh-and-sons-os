@@ -24,7 +24,7 @@
 - Negotiate volume anchors first.
 - Select at most one or two principal offline/value partners for opening depth.
 - Keep unproven/niche brands order-led or on small test quantities.
-- Approve brand and category inventory caps within NPR 50–70 lakh.
+- Approve brand and category inventory caps within NPR 70 lakh of planned facilities: NPR 60 lakh BG-supported distributor purchasing plus NPR 10 lakh OD.
 
 ## Weeks 5–8 — establish controls
 
@@ -51,5 +51,4 @@
 
 ## Stop conditions
 
-Delay or reduce purchasing when financing is unsigned, BG language is unacceptable, authorisation is unverified, warranty/DOA is unclear, price-protection exposure is excessive, expected sell-through exceeds payment terms, or combined commitments exceed the approved inventory envelope.
-
+Delay or reduce purchasing when financing is unsigned, BG language is unacceptable, authorisation is unverified, warranty/DOA is unclear, price-protection exposure is excessive, expected sell-through exceeds payment terms, combined commitments exceed NPR 70 lakh, or planned stock use would leave insufficient OD liquidity for payments and operations.
