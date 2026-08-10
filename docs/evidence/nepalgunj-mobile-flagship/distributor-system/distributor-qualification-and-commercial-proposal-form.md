@@ -121,7 +121,7 @@ Clarify whether margins and incentives are before or after VAT: ________________
 
 ## F. Credit and proposed bank guarantee
 
-KAMLESH is considering a proposed BG of approximately **NPR 60 lakh**, subject to bank sanction and legal/financial approval.
+KAMLESH is considering **NPR 60 lakh of BG-supported distributor purchasing plus an NPR 10 lakh OD facility**, subject to bank sanction and legal/financial approval. The distributor should quote only the credit supported by the BG; the OD remains KAMLESH's separate banking/liquidity facility.
 
 | Credit/BG term | Distributor response |
 |---|---|
@@ -327,4 +327,3 @@ We confirm that the information supplied in this form and its attachments is acc
 | Decision | Pending / Approved / Conditional / Rejected |
 | Conditions, owners and deadlines | |
 | Owner signature/date | |
-
