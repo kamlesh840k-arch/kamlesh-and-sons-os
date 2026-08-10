@@ -35,6 +35,10 @@ Decision records preserve reasoning and traceability over time.
 - completion audit: [v1.0 Roadmap Documentation Audit](docs/milestones/v1.0-flagship-ready/v1.0-roadmap-documentation-audit.md)
 - Consolidation map: [Decision Consolidation Registry](docs/decision-consolidation-registry.md)
 
+# Current Flagship Evidence
+
+The active Nepalgunj implementation evidence package is indexed at [Nepalgunj Mobile Flagship Evidence](docs/evidence/nepalgunj-mobile-flagship/README.md). It contains desk research and controlled implementation plans; distributor quotations, fieldwork, bank/legal approvals, site evidence and founder go/no-go remain open.
+
 # Current Status
 
 **Version:** `1.0.0-rc.2`
