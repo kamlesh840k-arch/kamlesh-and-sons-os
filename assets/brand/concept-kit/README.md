@@ -11,7 +11,7 @@
 - `logo/symbol-first/`: a reset after the typography-only directions were rejected; these use non-letter symbols that can become a recognisable storefront/device badge.
 - `id-card/`: editable staff identity-card sample with intentionally fictitious data.
 - `uniform/`: visual reference for a graphite uniform with precise cobalt detailing and black lanyard.
-- `store/`: a conceptual zoning diagram plus flagship reference views for the storefront, product discovery, consultation, and service zone.
+- `store/`: a conceptual zoning diagram, general flagship references, and three Nepalgunj-specific five-shutter concept views covering the overall interior, storefront and axonometric layout.
 - `deck/`: the earlier `KNS_Brand_and_Store_Direction.pptx` presentation, also opened in Canva for editable presentation work.
 
 ## Locked direction for this concept set
@@ -34,3 +34,11 @@
 ## Source relationship
 
 This kit implements the direction in [`docs/milestones/v0.2-brand-identity/v0.2-brand-identity-spec.md`](../../../docs/milestones/v0.2-brand-identity/v0.2-brand-identity-spec.md) and the store-design gate in [`docs/milestones/v0.3-store-design/`](../../../docs/milestones/v0.3-store-design/). The raster imagery is generated concept reference, not architectural documentation or product photography.
+
+## Nepalgunj five-shutter concept set
+
+- [`kns-nepalgunj-five-shutter-storefront-v1.png`](./store/kns-nepalgunj-five-shutter-storefront-v1.png) — one arrival bay plus four glazed display bays.
+- [`kns-nepalgunj-five-shutter-overall-interior-v1.png`](./store/kns-nepalgunj-five-shutter-overall-interior-v1.png) — compact premium-but-buildable overall interior direction.
+- [`kns-nepalgunj-five-shutter-axonometric-v1.png`](./store/kns-nepalgunj-five-shutter-axonometric-v1.png) — operating-zone relationship and circulation concept.
+
+These images use the approximately 720 sq ft / 10 ft ceiling working assumptions. They do not establish exact dimensions, structural feasibility, fixture quantities, egress compliance or construction scope.

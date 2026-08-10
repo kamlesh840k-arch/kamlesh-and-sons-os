@@ -134,6 +134,16 @@ FOUR GALLERY-FACING GLASS FRONTS / FINAL ORIENTATION TBD
 
 This is a relationship diagram, not a dimensioned floor plan. The final arrangement may rotate or mirror after the five selected shutters are surveyed.
 
+### Current visual concepts
+
+![Five-shutter storefront concept](../../../assets/brand/concept-kit/store/kns-nepalgunj-five-shutter-storefront-v1.png)
+
+![Compact overall interior concept](../../../assets/brand/concept-kit/store/kns-nepalgunj-five-shutter-overall-interior-v1.png)
+
+![Axonometric operating-zone concept](../../../assets/brand/concept-kit/store/kns-nepalgunj-five-shutter-axonometric-v1.png)
+
+These are AI-generated design references, not measured architectural drawings. They communicate frontage rhythm, atmosphere, zoning and material direction only. A measured survey, structural/services review, egress check and quotation-aligned drawing must replace them before construction.
+
 ### Interior concept
 
 - Warm premium technology environment rather than a cold appliance shop
