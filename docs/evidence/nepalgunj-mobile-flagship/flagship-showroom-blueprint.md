@@ -1,13 +1,13 @@
 # KAMLESH Mobile — Nepalgunj Flagship Showroom Blueprint
 
 **Document ID:** EVD-NPJ-FLAGSHIP-002
-**Version:** 0.2.0
+**Version:** 0.3.0
 **Status:** Planning evidence — quotations, field validation and approvals pending
 **Accountable owner:** Founder until site-specific owners are appointed
 **Canonical dependencies:** v0.3 Store Design, v0.4 Customer Experience, v0.6 Operations & People, v0.7 Marketing, v0.8 Finance and v1.0 Flagship Ready
 
 Planning date: August 2026
-Current working footprint: five connected shutters / approximately 720 sq ft
+Current working footprint: approximately 60 ft long × 12 ft wide / five connected bays / approximately 720 sq ft
 Measurement status: concept only; verified internal survey and structural/services plan pending
 Proposed funding ceiling: NPR 1 crore
 Proposed distributor BG ceiling: NPR 60 lakh
@@ -17,9 +17,10 @@ Proposed distributor BG ceiling: NPR 60 lakh
 The latest founder input establishes the following design basis:
 
 - All ten shutters are reportedly available; K&S intends to select five consecutive shutters including the highway-facing position.
-- The current concept assumes one highway-facing arrival and four gallery-facing fronts fitted with glass.
+- The footprint is reported as a long, shallow strip of approximately 60 ft × 12 ft: five approximate 12 ft × 12 ft bays in one straight row.
+- Only the 12 ft short-end shutter faces the highway and forms the principal arrival. The remaining four shutters are on the perpendicular long side beside the covered gallery—not on the outer highway side—and would be fitted with glass.
 - Reported shutter opening is approximately 12 ft wide × 10 ft high; reported ceiling height is approximately 10 ft.
-- Approximately 720 sq ft remains the planning-area assumption. Actual clear internal width, depth and usable area are unknown.
+- Approximately 720 sq ft remains the planning-area assumption. The stated 60 ft × 12 ft dimensions are approximate; clear finished dimensions and usable area remain unverified.
 - Existing partition walls are reported as approximately 4 in thick. No wall may be removed until the landlord and a competent site professional confirm in writing that it is non-structural and safe to remove.
 - No stair or toilet is reported inside the proposed unit. Staff/customer toilet access, drainage and hand-washing arrangements remain a lease condition/TBD.
 - Columns, beams, floor levels, slab loading, water ingress, electrical load, AC routes, internet and emergency egress remain TBD.
@@ -102,7 +103,7 @@ Every line requires two or three comparable local quotations before approval. Th
 
 ## 3. Five-shutter flagship architecture — approximately 720 sq ft
 
-The design treats the five connected shutters as one continuous customer experience. It does not assume that each opening equals a clear internal bay. A measured drawing must set final wall lengths, fixture sizes and aisle widths.
+The design treats the five connected shutters as one continuous linear customer experience. The working geometry is a 5:1 strip—approximately 60 ft long and only 12 ft wide—so zones must progress along the length. Large tables cannot be placed side by side across the narrow dimension. A measured drawing must set final wall lengths, fixture sizes and aisle widths.
 
 | Zone | Approx. area | Purpose |
 |---|---:|---|
@@ -119,28 +120,32 @@ The design treats the five connected shutters as one continuous customer experie
 ### Indicative layout
 
 ```text
-HIGHWAY-FACING ARRIVAL
-┌─────────────────────────────────────────────────────────────┐
-│ K&S ARRIVAL │ APPLE / PREMIUM │ SAMSUNG │ ANDROID / COMPUTE │
-│ launch      │ consult/unbox   │ compare │ curated discovery │
-├─────────────┴───────────┬──────┴─────────┬───────────────────┤
-│ shared comparison path │ ACCESSORIES    │ K&S CARE / SETUP  │
-│ and open circulation   │ premium/orig.  │ visible + private │
-├────────────────────────┴──────────┬──────┴───────────────────┤
-│ BILLING / EMI / DISPATCH          │ SECURE STOCK + CONTROL  │
-└───────────────────────────────────┴──────────────────────────┘
-FOUR GALLERY-FACING GLASS FRONTS / FINAL ORIENTATION TBD
+HIGHWAY
+   → 12 FT SHORT-END ENTRANCE
+┌────────────┬────────────┬────────────┬────────────┬────────────┐
+│ BAY 1      │ BAY 2      │ BAY 3      │ BAY 4      │ BAY 5      │
+│ K&S ARRIVAL│ SAMSUNG /  │ ANDROID /  │ PREMIUM    │ K&S CARE / │
+│ + PREMIUM  │ COMPARISON │ COMPUTING  │ ACCESSORIES│ BILLING +  │
+│ CONSULT    │            │            │            │ SECURE STOCK│
+└────────────┴════════════┴════════════┴════════════┴════════════┘
+  SOLID SIDE   GLASS 1      GLASS 2      GLASS 3      GLASS 4
+               COVERED GALLERY ALONG BAYS 2–5
+
+<---------------------- APPROX. 60 FT ------------------------>
+Depth across every bay: approximately 12 ft
 ```
 
-This is a relationship diagram, not a dimensioned floor plan. The final arrangement may rotate or mirror after the five selected shutters are surveyed.
+This is a relationship diagram, not a dimensioned floor plan. The highway/gallery orientation is now fixed in the working concept; exact fixture positions may change after the five selected shutters are surveyed.
 
 ### Current visual concepts
 
-![Five-shutter storefront concept](../../../assets/brand/concept-kit/store/kns-nepalgunj-five-shutter-storefront-v1.png)
+![Scaled five-shutter working plan](../../../assets/brand/concept-kit/store/kns-nepalgunj-five-shutter-working-plan-v2.svg)
 
-![Compact overall interior concept](../../../assets/brand/concept-kit/store/kns-nepalgunj-five-shutter-overall-interior-v1.png)
+![Highway-end and gallery-side exterior concept](../../../assets/brand/concept-kit/store/kns-nepalgunj-five-shutter-storefront-v2.png)
 
-![Axonometric operating-zone concept](../../../assets/brand/concept-kit/store/kns-nepalgunj-five-shutter-axonometric-v1.png)
+![Long narrow overall interior concept](../../../assets/brand/concept-kit/store/kns-nepalgunj-five-shutter-overall-interior-v2.png)
+
+![Axonometric highway-and-gallery orientation concept](../../../assets/brand/concept-kit/store/kns-nepalgunj-five-shutter-axonometric-v2.png)
 
 These are AI-generated design references, not measured architectural drawings. They communicate frontage rhythm, atmosphere, zoning and material direction only. A measured survey, structural/services review, egress check and quotation-aligned drawing must replace them before construction.
 

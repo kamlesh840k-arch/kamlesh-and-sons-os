@@ -1,7 +1,7 @@
 # Nepalgunj Flagship Financial Model and Funding Guardrails
 
 **Document ID:** EVD-NPJ-FLAGSHIP-005
-**Version:** 0.2.0
+**Version:** 0.3.0
 **Status:** Planning model — bank, distributor, rent, payroll and professional inputs pending
 **Accountable owner:** Founder until Finance Owner is appointed
 
@@ -51,7 +51,7 @@ The funded-side target envelopes total approximately NPR 26.5–36.5 lakh before
 | Accessory gross margin | 35–45% | Supplier quotation and test sales |
 | Service contribution margin | 50–70% | Technician/parts model |
 | Rent | Not approved | Five quotations and selected lease |
-| Five-shutter usable area | Approximately 720 sq ft planning value | Measured internal survey |
+| Five-shutter usable area | Approximately 60 ft × 12 ft / 720 sq ft planning value | Measured internal survey confirming clear dimensions and orientation |
 | Fit-out | NPR 9–12 lakh target envelope | Scope-aligned local quotations and variation allowance |
 | Payroll | Not approved | Approved roles, salary and statutory cost |
 | Interest/BG cost | Not approved | Bank term sheet and sensitivity |

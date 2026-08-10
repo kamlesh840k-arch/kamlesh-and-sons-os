@@ -1,7 +1,7 @@
 # Nepalgunj Mobile Flagship Sources and Assumptions Register
 
 **Document ID:** EVD-NPJ-FLAGSHIP-006
-**Version:** 0.2.0
+**Version:** 0.3.0
 **Status:** Active research register
 **Last updated:** 2026-08-10
 
@@ -50,9 +50,10 @@ These are first-party planning inputs recorded on 2026-08-10. They are not indep
 | Topic | Current working input | Treatment until verified |
 |---|---|---|
 | Property availability | All ten shutters reportedly available; K&S plans to choose five consecutive shutters including the highway-facing position | Confirm exact unit numbers and exclusivity in signed heads of terms |
-| Store configuration | Five connected shutters; approximately 720 sq ft working total; one highway-facing arrival and four gallery-facing glazed fronts | Use for concept only; replace with measured drawing |
+| Store configuration | Long shallow strip approximately 60 ft × 12 ft / 720 sq ft; five approximate 12 ft × 12 ft bays in one row | Use for concept only; replace with measured drawing |
+| Frontage orientation | Only the 12 ft short-end shutter faces the highway; four shutters run beside the covered gallery on the perpendicular long side and would receive glass | Confirm the exact highway/gallery relationship on the measured site plan and lease annexure |
 | Opening/height | Shutter opening reportedly approximately 12 ft wide × 10 ft high; ceiling approximately 10 ft | Site measure and record clear finished dimensions |
-| Internal dimensions | Actual clear internal width and depth not available | TBD; no final fixture order before survey |
+| Internal dimensions | Approximate overall 60 ft × 12 ft provided; actual clear finished length, width and bay divisions unavailable | TBD; no final fixture order before survey |
 | Partitions/structure | Walls reportedly approximately 4 in; columns/beams and whether partitions can be removed are unknown | Landlord plus competent structural/site review required before demolition |
 | Internal amenities | No stair and no toilet reported within the unit | Confirm accessible staff/customer toilet and hand-washing arrangement before lease |
 | Alterations | Glass, ceiling, floor, signage, wiring, AC and CCTV reportedly possible; restoration may be required | Convert every permission, cost owner and restoration standard into lease wording |
@@ -77,7 +78,7 @@ These are first-party planning inputs recorded on 2026-08-10. They are not indep
 | KAMLESH Care demand | 300 year-one target | Survey, waitlist and paid members | CX/Marketing | Open |
 | Service margin | 50–70% planning range | Technician/parts contract and pilot | Service/Finance | Open |
 | Pickup/drop liability | Unapproved | Legal and insurer sign-off | CX/Legal | Open |
-| Five-shutter usable area | Approximately 720 sq ft | Signed measured survey showing clear internal dimensions | Founder/Design | Open |
+| Five-shutter usable area | Approximately 60 ft × 12 ft / 720 sq ft | Signed measured survey showing clear internal dimensions and the highway/gallery orientation | Founder/Design | Open |
 | Rent for five shutters | Approximately NPR 1 lakh/month has been discussed previously, but is not approved | Written landlord offer, comparables and signed lease | Founder/Finance | Open |
 | Lease economics | Deposit, advance, escalation, term, break option, fit-out period and common charges unknown | Landlord term sheet and lease review | Founder/Legal | Open |
 | Electricity/infrastructure | Load, phase, meter, backup, AC route, internet and fire/egress readiness unknown | Utility records and qualified site inspection | Operations/Design | Open |

@@ -1,7 +1,7 @@
 # KAMLESH & SONS — Landlord Negotiation and Lease-Verification Script
 
 **Document ID:** EVD-NPJ-FLAGSHIP-007
-**Version:** 0.1.0
+**Version:** 0.2.0
 **Status:** Founder working script — commercial, technical and legal verification pending
 **Accountable owner:** Founder until Property/Legal Owners are appointed
 **Last updated:** 2026-08-10
@@ -10,7 +10,7 @@
 
 Use this document to negotiate the proposed five connected shutters without accidentally treating a verbal indication as a final right. Record the landlord's answer beside every item and transfer the agreed terms into a lawyer-reviewed lease and signed alteration schedule.
 
-Current planning basis only: all ten shutters are reportedly available; K&S intends to select five consecutive shutters including the highway-facing position; approximately 720 sq ft is assumed; one arrival is highway-facing and four gallery-facing shutters would receive glass. Internal measurements, rent and every material lease term remain unapproved.
+Current planning basis only: all ten shutters are reportedly available; K&S intends to select five connected shutters forming an approximately 60 ft × 12 ft strip. Only the 12 ft short-end shutter faces the highway and forms the principal entrance. The remaining four shutters run beside the covered gallery on the perpendicular long side and would receive glass. Approximately 720 sq ft is assumed. Clear internal measurements, exact orientation, rent and every material lease term remain unapproved.
 
 ## Before the meeting
 

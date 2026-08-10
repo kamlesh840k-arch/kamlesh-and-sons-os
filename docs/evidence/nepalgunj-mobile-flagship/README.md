@@ -22,7 +22,7 @@ No fieldwork item, quotation, legal review, bank approval or distributor term is
 
 The recommended concept is an authorised multi-brand flagship, not a Samsung–Apple–Nothing-only store.
 
-The current site hypothesis is five connected shutters with approximately 720 sq ft of planning area, one highway-facing arrival and four gallery-facing glazed fronts. This is a working design basis only: internal dimensions, structure, services, lease economics and landlord permissions still require measurement and written confirmation.
+The current site hypothesis is a long, shallow strip of approximately 60 ft × 12 ft (about 720 sq ft), formed from five connected 12 ft × 12 ft shutter bays. Only the 12 ft short end faces the highway; the other four shutters run beside the covered gallery, perpendicular to the highway-facing entrance, and would receive glass. This is a working design basis only: clear internal dimensions, structure, services, lease economics and landlord permissions still require measurement and written confirmation.
 
 - Samsung and Xiaomi/Redmi are the principal volume anchors.
 - Apple and Nothing are halo brands and should be stocked selectively.

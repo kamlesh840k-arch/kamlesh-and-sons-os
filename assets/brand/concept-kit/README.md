@@ -37,8 +37,9 @@ This kit implements the direction in [`docs/milestones/v0.2-brand-identity/v0.2-
 
 ## Nepalgunj five-shutter concept set
 
-- [`kns-nepalgunj-five-shutter-storefront-v1.png`](./store/kns-nepalgunj-five-shutter-storefront-v1.png) — one arrival bay plus four glazed display bays.
-- [`kns-nepalgunj-five-shutter-overall-interior-v1.png`](./store/kns-nepalgunj-five-shutter-overall-interior-v1.png) — compact premium-but-buildable overall interior direction.
-- [`kns-nepalgunj-five-shutter-axonometric-v1.png`](./store/kns-nepalgunj-five-shutter-axonometric-v1.png) — operating-zone relationship and circulation concept.
+- [`kns-nepalgunj-five-shutter-working-plan-v2.svg`](./store/kns-nepalgunj-five-shutter-working-plan-v2.svg) — scaled working plan showing the approximate 60 ft × 12 ft strip, highway-facing short end and four gallery-facing shutters.
+- [`kns-nepalgunj-five-shutter-storefront-v2.png`](./store/kns-nepalgunj-five-shutter-storefront-v2.png) — corner view showing only the 12 ft end facing the highway and the other four shutters beside the gallery.
+- [`kns-nepalgunj-five-shutter-overall-interior-v2.png`](./store/kns-nepalgunj-five-shutter-overall-interior-v2.png) — long narrow interior viewed from the highway-end entrance.
+- [`kns-nepalgunj-five-shutter-axonometric-v2.png`](./store/kns-nepalgunj-five-shutter-axonometric-v2.png) — operating-zone and highway/gallery orientation concept.
 
-These images use the approximately 720 sq ft / 10 ft ceiling working assumptions. They do not establish exact dimensions, structural feasibility, fixture quantities, egress compliance or construction scope.
+These images use the approximately 60 ft × 12 ft / 720 sq ft / 10 ft ceiling working assumptions. They do not establish clear finished dimensions, structural feasibility, fixture quantities, egress compliance or construction scope.
