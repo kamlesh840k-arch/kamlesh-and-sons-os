@@ -121,12 +121,13 @@ Clarify whether margins and incentives are before or after VAT: ________________
 
 ## F. Credit and proposed bank guarantee
 
-KAMLESH is considering **NPR 60 lakh of BG-supported distributor purchasing plus an NPR 10 lakh OD facility**, subject to bank sanction and legal/financial approval. The distributor should quote only the credit supported by the BG; the OD remains KAMLESH's separate banking/liquidity facility.
+KAMLESH may use an approved bank guarantee and separate working-capital facilities, subject to bank sanction and legal/financial approval. The distributor must state its own BG requirement, credit conversion and commercial conditions. KAMLESH's internal facility limits are confidential and are not disclosed through this form.
 
 | Credit/BG term | Distributor response |
 |---|---|
 | Credit limit available without BG, NPR | |
-| Credit limit against NPR 60 lakh BG, NPR | |
+| Credit limit offered against the distributor's required BG, NPR | |
+| BG amount required by distributor, NPR | |
 | Credit period in days | |
 | Credit starts from invoice/dispatch/delivery | |
 | Early-payment discount | |
