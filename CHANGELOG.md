@@ -4,6 +4,13 @@ All notable changes to **KAMLESH & SONS OS** are documented in this file.
 
 The project follows [Semantic Versioning](https://semver.org/).
 
+## [Unreleased]
+
+### Added
+
+- K&S Care service promise and customer-service playbook, including a consent-based setup and data-transfer procedure.
+- Partner-led EMI operating model covering transparent customer disclosure, K&S/partner responsibilities, privacy, reconciliation and the approval gate.
+
 ## [1.0.0-rc.2] — Roadmap Documentation Integration
 
 ### Documentation completed serially

@@ -4,4 +4,4 @@
 
 **Controlling decision:** [Finance master](../../../decisions/DEC-FINANCE-v0.8-master.md)
 
-Start with the blueprint, finance system and activation checklist. Qualified accounting, tax, legal and banking review remains required before financial controls are treated as operating.
+Start with the blueprint, finance system, [EMI partner operating model](v0.8-emi-partner-operating-model.md) and activation checklist. Qualified accounting, tax, legal and banking review remains required before financial controls are treated as operating.

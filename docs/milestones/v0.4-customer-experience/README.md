@@ -4,4 +4,4 @@
 
 **Controlling decision:** [Customer & Commercial master](../../../decisions/DEC-CUSTOMER-COMMERCIAL-v0.4-master.md)
 
-Start with the blueprint, canonical customer-experience system and activation checklist. Real customer evidence, ownership, training, systems and pilot outcomes are required before operational closure.
+Start with the blueprint, canonical customer-experience system, [K&S Care service playbook](ks-care-service-playbook.md) and activation checklist. Real customer evidence, ownership, training, systems and pilot outcomes are required before operational closure.
