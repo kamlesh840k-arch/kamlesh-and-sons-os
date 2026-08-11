@@ -11,7 +11,7 @@
 - `logo/symbol-first/`: a reset after the typography-only directions were rejected; these use non-letter symbols that can become a recognisable storefront/device badge.
 - `id-card/`: editable staff identity-card sample with intentionally fictitious data.
 - `uniform/`: visual reference for a graphite uniform with precise cobalt detailing and black lanyard.
-- `store/`: a conceptual zoning diagram, general flagship references, and three Nepalgunj-specific five-shutter concept views covering the overall interior, storefront and axonometric layout.
+- `store/`: conceptual zoning, general flagship references, and a detailed Nepalgunj five-shutter design set covering the exact working geometry, exterior, brand zones, accessories, Care and security/control areas.
 - `deck/`: the earlier `KNS_Brand_and_Store_Direction.pptx` presentation, also opened in Canva for editable presentation work.
 
 ## Locked direction for this concept set
@@ -37,9 +37,18 @@ This kit implements the direction in [`docs/milestones/v0.2-brand-identity/v0.2-
 
 ## Nepalgunj five-shutter concept set
 
+- [`kns-nepalgunj-five-shutter-detailed-plan-v3.svg`](./store/kns-nepalgunj-five-shutter-detailed-plan-v3.svg) — primary exact-relationship plan: approximately 60 ft × 12 ft, highway-facing short-end entrance, covered gallery along bays 2–5, fixtures and every operating zone.
+- [`kns-nepalgunj-five-shutter-exterior-v3.png`](./store/kns-nepalgunj-five-shutter-exterior-v3.png) — corrected corner exterior: only the front shutter faces the highway; four glazed shutters continue inside the covered gallery.
+- [`kns-nepalgunj-five-shutter-detailed-overview-v3.png`](./store/kns-nepalgunj-five-shutter-detailed-overview-v3.png) — detailed five-bay operating overview.
+- [`kns-nepalgunj-five-shutter-brand-zones-v3.png`](./store/kns-nepalgunj-five-shutter-brand-zones-v3.png) — Apple/premium, Samsung, Android and computing discovery reference.
+- [`kns-nepalgunj-five-shutter-accessories-v3.png`](./store/kns-nepalgunj-five-shutter-accessories-v3.png) — cases, screen-protector installation, charging, power, audio, wearables and device-care reference.
+- [`kns-nepalgunj-five-shutter-care-control-v3.png`](./store/kns-nepalgunj-five-shutter-care-control-v3.png) — K&amp;S Care, billing, consultation, dispatch, stock security and CCTV/control reference.
+
+Earlier `v2` files are retained as the simpler geometry-correction set:
+
 - [`kns-nepalgunj-five-shutter-working-plan-v2.svg`](./store/kns-nepalgunj-five-shutter-working-plan-v2.svg) — scaled working plan showing the approximate 60 ft × 12 ft strip, highway-facing short end and four gallery-facing shutters.
 - [`kns-nepalgunj-five-shutter-storefront-v2.png`](./store/kns-nepalgunj-five-shutter-storefront-v2.png) — corner view showing only the 12 ft end facing the highway and the other four shutters beside the gallery.
 - [`kns-nepalgunj-five-shutter-overall-interior-v2.png`](./store/kns-nepalgunj-five-shutter-overall-interior-v2.png) — long narrow interior viewed from the highway-end entrance.
 - [`kns-nepalgunj-five-shutter-axonometric-v2.png`](./store/kns-nepalgunj-five-shutter-axonometric-v2.png) — operating-zone and highway/gallery orientation concept.
 
-These images use the approximately 60 ft × 12 ft / 720 sq ft / 10 ft ceiling working assumptions. They do not establish clear finished dimensions, structural feasibility, fixture quantities, egress compliance or construction scope.
+The `v3` plan is the controlling design relationship when a generated perspective appears ambiguous. All images use the approximately 60 ft × 12 ft / 720 sq ft / 10 ft ceiling working assumptions. They do not establish clear finished dimensions, structural feasibility, fixture quantities, egress compliance or construction scope.

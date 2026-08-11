@@ -1,7 +1,7 @@
 # KAMLESH Mobile — Nepalgunj Flagship Showroom Blueprint
 
 **Document ID:** EVD-NPJ-FLAGSHIP-002
-**Version:** 0.3.0
+**Version:** 0.4.0
 **Status:** Planning evidence — quotations, field validation and approvals pending
 **Accountable owner:** Founder until site-specific owners are appointed
 **Canonical dependencies:** v0.3 Store Design, v0.4 Customer Experience, v0.6 Operations & People, v0.7 Marketing, v0.8 Finance and v1.0 Flagship Ready
@@ -139,15 +139,29 @@ This is a relationship diagram, not a dimensioned floor plan. The highway/galler
 
 ### Current visual concepts
 
-![Scaled five-shutter working plan](../../../assets/brand/concept-kit/store/kns-nepalgunj-five-shutter-working-plan-v2.svg)
+![Detailed five-shutter working plan](../../../assets/brand/concept-kit/store/kns-nepalgunj-five-shutter-detailed-plan-v3.svg)
 
-![Highway-end and gallery-side exterior concept](../../../assets/brand/concept-kit/store/kns-nepalgunj-five-shutter-storefront-v2.png)
+![Corrected highway-end and gallery-side exterior](../../../assets/brand/concept-kit/store/kns-nepalgunj-five-shutter-exterior-v3.png)
 
-![Long narrow overall interior concept](../../../assets/brand/concept-kit/store/kns-nepalgunj-five-shutter-overall-interior-v2.png)
+![Detailed five-bay operating overview](../../../assets/brand/concept-kit/store/kns-nepalgunj-five-shutter-detailed-overview-v3.png)
 
-![Axonometric highway-and-gallery orientation concept](../../../assets/brand/concept-kit/store/kns-nepalgunj-five-shutter-axonometric-v2.png)
+![Brand and computing zones](../../../assets/brand/concept-kit/store/kns-nepalgunj-five-shutter-brand-zones-v3.png)
 
-These are AI-generated design references, not measured architectural drawings. They communicate frontage rhythm, atmosphere, zoning and material direction only. A measured survey, structural/services review, egress check and quotation-aligned drawing must replace them before construction.
+![Premium accessories and installation zone](../../../assets/brand/concept-kit/store/kns-nepalgunj-five-shutter-accessories-v3.png)
+
+![K&amp;S Care, billing, stock and control zone](../../../assets/brand/concept-kit/store/kns-nepalgunj-five-shutter-care-control-v3.png)
+
+The SVG plan controls geometry and zone relationships; raster renders communicate atmosphere and fixture intent and may contain minor perspective or small-label distortion. These are design references, not measured architectural drawings. A measured survey, structural/services review, accessibility and egress check, glass specification, and quotation-aligned drawing must replace them before construction.
+
+### Detailed bay programme
+
+| Bay | Customer-facing programme | Controlled/back-of-house programme |
+|---|---|---|
+| 1 — highway arrival | K&amp;S welcome, launch/value story, authorised-channel trust, Apple/premium demos, consultation and unboxing | Host control and advance-order/deposit guidance |
+| 2 — Samsung | Phones across price tiers, tablets, wearables, buds, powered demos and comparison table | Replaceable brand panels, tether/power management and warranty route |
+| 3 — Android/computing | Nothing, Xiaomi/Redmi/Poco, vivo, OPPO, realme, Honor; HP, Dell, Lenovo and Asus comparison demos | Order-led catalogue and documented authorised service routing |
+| 4 — accessories | Cases by model; protectors and installation; chargers, cables, power banks; audio; wearables; storage, hubs, adapters; creator/car accessories; cleaning/device care | Compatibility, authenticity and warranty controls |
+| 5 — Care/control | Setup, transfer, software help, warranty intake, repair booking, trade-in inspection, billing, VAT, EMI and membership | WhatsApp dispatch, restricted IMEI stockroom, safe, receiving scan, network/CCTV and records |
 
 ### Interior concept
 

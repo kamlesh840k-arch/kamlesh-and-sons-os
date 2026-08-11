@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1080" viewBox="0 0 1800 1080">
+  <style>
+    .title{font:700 30px Arial;fill:#f5f6f7}.sub{font:16px Arial;fill:#a7adb5}.bay{font:700 18px Arial;fill:#f5f6f7}.head{font:700 16px Arial;fill:#2f63d8}.txt{font:14px Arial;fill:#292d32}.small{font:12px Arial;fill:#5d646d}.dim{font:700 15px Arial;fill:#f5f6f7}.note{font:14px Arial;fill:#f5f6f7}.fixture{fill:#e9edf2;stroke:#a7adb5;stroke-width:2}.wall{fill:#f7f4ee;stroke:#111315;stroke-width:5}.glass{stroke:#2f63d8;stroke-width:10;stroke-dasharray:20 8}.route{fill:none;stroke:#2f63d8;stroke-width:4;stroke-dasharray:10 8;marker-end:url(#arrow)}
+  </style>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2f63d8"/></marker></defs>
+  <rect width="1800" height="1080" fill="#111315"/>
+  <text x="70" y="62" class="title">KAMLESH &amp; SONS — DETAILED FIVE-SHUTTER WORKING PLAN</text>
+  <text x="70" y="92" class="sub">Approx. 60 ft × 12 ft • five connected approx. 12 ft bays • 10 ft ceiling • concept only, measured survey TBD</text>
+
+  <!-- exact relationship plan: 5:1 strip -->
+  <rect x="150" y="170" width="1500" height="300" class="wall"/>
+  <line x1="450" y1="170" x2="450" y2="470" stroke="#a7adb5" stroke-width="3"/>
+  <line x1="750" y1="170" x2="750" y2="470" stroke="#a7adb5" stroke-width="3"/>
+  <line x1="1050" y1="170" x2="1050" y2="470" stroke="#a7adb5" stroke-width="3"/>
+  <line x1="1350" y1="170" x2="1350" y2="470" stroke="#a7adb5" stroke-width="3"/>
+
+  <!-- highway short end -->
+  <line x1="150" y1="242" x2="150" y2="398" stroke="#2f63d8" stroke-width="12"/>
+  <path d="M148 320 A82 82 0 0 1 230 402" fill="none" stroke="#2f63d8" stroke-width="3"/>
+  <text x="35" y="250" class="dim">HIGHWAY</text><text x="35" y="277" class="note">ONLY THIS</text><text x="35" y="299" class="note">12 ft END</text><text x="35" y="321" class="note">IS EXPOSED</text>
+  <path d="M75 348 H140" class="route"/>
+
+  <!-- gallery glazing only bays 2-5 -->
+  <line x1="470" y1="470" x2="730" y2="470" class="glass"/>
+  <line x1="770" y1="470" x2="1030" y2="470" class="glass"/>
+  <line x1="1070" y1="470" x2="1330" y2="470" class="glass"/>
+  <line x1="1370" y1="470" x2="1630" y2="470" class="glass"/>
+  <rect x="450" y="492" width="1200" height="54" rx="8" fill="#292d32"/>
+  <text x="815" y="525" class="dim">COVERED GALLERY — FOUR GLAZED SHUTTER OPENINGS, NOT HIGHWAY FRONTAGE</text>
+
+  <!-- fixtures and clear linear route -->
+  <rect x="176" y="190" width="250" height="54" rx="6" class="fixture"/><text x="198" y="224" class="txt">Launch / authorised story wall</text>
+  <rect x="176" y="408" width="250" height="38" rx="6" class="fixture"/><text x="202" y="433" class="txt">Apple / premium wall</text>
+  <rect x="490" y="190" width="220" height="54" rx="6" class="fixture"/><text x="529" y="224" class="txt">Samsung ecosystem</text>
+  <rect x="540" y="285" width="120" height="76" rx="8" class="fixture"/><text x="559" y="318" class="txt">Phone +</text><text x="552" y="338" class="txt">comparison</text>
+  <rect x="790" y="190" width="220" height="54" rx="6" class="fixture"/><text x="816" y="216" class="txt">Android brand wall</text><text x="825" y="236" class="small">Nothing • Xiaomi • vivo • OPPO</text>
+  <rect x="840" y="285" width="120" height="76" rx="8" class="fixture"/><text x="861" y="318" class="txt">Laptop +</text><text x="861" y="338" class="txt">device table</text>
+  <rect x="1090" y="190" width="220" height="54" rx="6" class="fixture"/><text x="1121" y="216" class="txt">Cases + protection wall</text><text x="1123" y="236" class="small">by model / compatibility</text>
+  <rect x="1090" y="403" width="220" height="43" rx="6" class="fixture"/><text x="1123" y="430" class="txt">Power • audio • wearables</text>
+  <rect x="1390" y="190" width="220" height="54" rx="6" class="fixture"/><text x="1438" y="224" class="txt">Secure IMEI stock</text>
+  <rect x="1390" y="285" width="100" height="76" rx="8" class="fixture"/><text x="1411" y="318" class="txt">K&amp;S</text><text x="1405" y="338" class="txt">Care</text>
+  <rect x="1510" y="285" width="100" height="76" rx="8" class="fixture"/><text x="1531" y="318" class="txt">POS /</text><text x="1526" y="338" class="txt">billing</text>
+  <rect x="1390" y="403" width="220" height="43" rx="6" class="fixture"/><text x="1417" y="430" class="txt">Dispatch • safe • network</text>
+  <path d="M235 323 H530 H830 H1130 H1430" class="route"/>
+  <text x="680" y="392" class="head">TARGET CLEAR CUSTOMER ROUTE — FINAL WIDTH / ACCESSIBILITY / EGRESS TBD BY SURVEY</text>
+
+  <!-- dimensions -->
+  <line x1="150" y1="135" x2="1650" y2="135" stroke="#f5f6f7" stroke-width="2"/><line x1="150" y1="125" x2="150" y2="145" stroke="#f5f6f7" stroke-width="2"/><line x1="1650" y1="125" x2="1650" y2="145" stroke="#f5f6f7" stroke-width="2"/><text x="773" y="127" class="dim">APPROX. 60 FT TOTAL LENGTH</text>
+  <line x1="1685" y1="170" x2="1685" y2="470" stroke="#f5f6f7" stroke-width="2"/><line x1="1675" y1="170" x2="1695" y2="170" stroke="#f5f6f7" stroke-width="2"/><line x1="1675" y1="470" x2="1695" y2="470" stroke="#f5f6f7" stroke-width="2"/><text x="1708" y="330" class="dim" transform="rotate(90 1708 330)">APPROX. 12 FT WIDTH</text>
+
+  <!-- detailed bay cards -->
+  <g transform="translate(70 610)">
+    <rect width="320" height="390" rx="12" fill="#f5f6f7"/><rect width="320" height="48" rx="12" fill="#2f63d8"/><text x="18" y="31" class="bay">BAY 1 — ARRIVAL + PREMIUM</text>
+    <text x="18" y="82" class="head">Highway entrance / K&amp;S arrival</text><text x="18" y="110" class="txt">• Welcome + customer triage</text><text x="18" y="134" class="txt">• Current launch / value campaign</text><text x="18" y="158" class="txt">• Authorised-channel trust story</text><text x="18" y="182" class="txt">• Apple ecosystem (selective demo)</text><text x="18" y="206" class="txt">• Premium consultation + unboxing</text><text x="18" y="230" class="txt">• Advance order / deposit guidance</text><text x="18" y="270" class="small">Keep entrance open; no crowded glass</text><text x="18" y="290" class="small">counter. Exact door swing and accessible</text><text x="18" y="310" class="small">threshold remain survey / code TBD.</text>
+  </g>
+  <g transform="translate(410 610)">
+    <rect width="320" height="390" rx="12" fill="#f5f6f7"/><rect width="320" height="48" rx="12" fill="#292d32"/><text x="18" y="31" class="bay">BAY 2 — SAMSUNG</text>
+    <text x="18" y="82" class="head">Ecosystem + comparison</text><text x="18" y="110" class="txt">• Entry / mid / flagship phones</text><text x="18" y="134" class="txt">• Tablets and selective laptops</text><text x="18" y="158" class="txt">• Watches, buds + ecosystem links</text><text x="18" y="182" class="txt">• Guided phone comparison table</text><text x="18" y="206" class="txt">• Powered demos + security tethers</text><text x="18" y="230" class="txt">• Spec cards and warranty route</text><text x="18" y="270" class="small">Gallery glazing begins here. Fixtures</text><text x="18" y="290" class="small">must preserve sight lines and avoid</text><text x="18" y="310" class="small">blocking any approved emergency exit.</text>
+  </g>
+  <g transform="translate(750 610)">
+    <rect width="320" height="390" rx="12" fill="#f5f6f7"/><rect width="320" height="48" rx="12" fill="#292d32"/><text x="18" y="31" class="bay">BAY 3 — ANDROID + COMPUTING</text>
+    <text x="18" y="82" class="head">Curated multi-brand discovery</text><text x="18" y="110" class="txt">• Nothing • Xiaomi / Redmi / Poco</text><text x="18" y="134" class="txt">• vivo • OPPO • realme • Honor</text><text x="18" y="158" class="txt">• Need/price-led comparison stories</text><text x="18" y="182" class="txt">• HP • Dell • Lenovo • Asus demos</text><text x="18" y="206" class="txt">• Order-led laptop catalogue</text><text x="18" y="230" class="txt">• Cross-brand comparison table</text><text x="18" y="270" class="small">Brand panels should be replaceable,</text><text x="18" y="290" class="small">not permanently built. Only authorised</text><text x="18" y="310" class="small">stock with documented support.</text>
+  </g>
+  <g transform="translate(1090 610)">
+    <rect width="320" height="390" rx="12" fill="#f5f6f7"/><rect width="320" height="48" rx="12" fill="#292d32"/><text x="18" y="31" class="bay">BAY 4 — ACCESSORIES</text>
+    <text x="18" y="82" class="head">Premium original gallery</text><text x="18" y="110" class="txt">• Cases organised by exact model</text><text x="18" y="134" class="txt">• Screen protectors + installation</text><text x="18" y="158" class="txt">• Chargers • cables • power banks</text><text x="18" y="182" class="txt">• TWS / headphones / speakers</text><text x="18" y="206" class="txt">• Smartwatches + wearables</text><text x="18" y="230" class="txt">• Storage • hubs • adapters</text><text x="18" y="254" class="txt">• Creator + car accessories</text><text x="18" y="278" class="txt">• Cleaning and device-care kits</text><text x="18" y="318" class="small">Show compatibility, warranty and</text><text x="18" y="338" class="small">good/better/best choice clearly.</text>
+  </g>
+  <g transform="translate(1430 610)">
+    <rect width="300" height="390" rx="12" fill="#f5f6f7"/><rect width="300" height="48" rx="12" fill="#2f63d8"/><text x="18" y="31" class="bay">BAY 5 — CARE + CONTROL</text>
+    <text x="18" y="82" class="head">Service / transaction / security</text><text x="18" y="110" class="txt">• Setup + data transfer</text><text x="18" y="134" class="txt">• Software help + warranty intake</text><text x="18" y="158" class="txt">• Repair booking + trade-in check</text><text x="18" y="182" class="txt">• Billing • VAT • EMI • membership</text><text x="18" y="206" class="txt">• WhatsApp pickup / dispatch shelf</text><text x="18" y="230" class="txt">• Restricted IMEI stockroom + safe</text><text x="18" y="254" class="txt">• Receiving scan + network / CCTV</text><text x="18" y="294" class="small">Customer-facing Care stays visible;</text><text x="18" y="314" class="small">cash, stock and network remain behind</text><text x="18" y="334" class="small">controlled access and camera coverage.</text>
+  </g>
+  <text x="70" y="1052" class="sub">NOT FOR CONSTRUCTION • verify selected shutters, clear dimensions, columns/beams, structure, services, fire/egress, accessibility, glass specification and landlord permissions before procurement.</text>
+</svg>
