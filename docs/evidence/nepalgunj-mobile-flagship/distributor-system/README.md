@@ -25,6 +25,7 @@ The intended financing structure is NPR 60 lakh of BG-supported distributor purc
 - [Brand master-file standard](./brand-master-file-standard.md)
 - [Purchase and claims control procedure](./purchase-and-claims-control-procedure.md)
 - [Three-month implementation plan](./three-month-implementation-plan.md)
+- [Supply, accessories and service system](./supply-service/README.md) — current distributor leads, accessory sourcing, Apple merchandising/storage and Nepalgunj repair-partner validation.
 
 ## Recommended opening portfolio
 
