@@ -114,7 +114,7 @@ For each 30-minute session, count pedestrians, two-wheelers stopping, people ent
 
 ## Customer-friction and willingness-to-pay fieldwork
 
-Use the complete screening, phone/laptop strata, event codes, questionnaire order, randomized stated-choice pilot, consent, data-quality, analysis and interpretation controls in [RESEARCH-CX-001](../../research/customer-phone-buying-experience-and-price-hypothesis.md). Do not create a separate shortened survey from this plan.
+Use the complete screening, phone/laptop strata, event codes, questionnaire order, randomized stated-choice pilot, consent, data-quality, analysis and interpretation controls in [RESEARCH-CX-001](../../research/customer-phone-buying-experience-and-price-hypothesis.md). Apply the exact-price, unaided/considered/purchased-brand and mutually exclusive origin rules in [RESEARCH-SEGMENT-001](../../research/western-nepal-device-demand-segments-and-catchment.md). Do not create a separate shortened survey from this plan or label the directional sample as population share.
 
 Sequence:
 

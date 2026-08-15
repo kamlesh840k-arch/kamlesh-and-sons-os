@@ -2,7 +2,7 @@
 
 **Document ID:** RESEARCH-FLAGSHIP-001
 
-**Version:** 0.3.0
+**Version:** 0.4.0
 
 **Status:** Integrated desk-evidence and decision-model baseline complete; local demand, commercial and operating evidence open
 
@@ -16,7 +16,7 @@
 
 **Field evidence system:** [Field evidence activation and data-governance protocol](field-evidence-activation-and-data-governance-protocol.md) and [KAMLESH Field Evidence Collection System](../evidence/nepalgunj-mobile-flagship/KAMLESH-Field-Evidence-Collection-System.xlsx)
 
-**Evidence dependencies:** [market feasibility](../evidence/nepalgunj-mobile-flagship/nepalgunj-market-feasibility-research.md), [financial guardrails](../evidence/nepalgunj-mobile-flagship/financial-model-and-funding-guardrails.md), [competitor matrix](competitor-experience-matrix.md), [customer-friction/WTP study](customer-phone-buying-experience-and-price-hypothesis.md), [official/grey/border study](nepal-official-grey-border-buying-and-price-gap.md), [institutional demand/procurement study](western-nepal-institutional-device-demand-and-procurement.md), [supplier/inventory-finance study](../finance/supplier-credit-and-consignment-strategy.md), [brand-support study](brand-funded-retail-visibility.md), [ownership-support study](trade-in-and-ownership-support-economics.md) and [value proposition](why-buy-from-k-and-s-value-proposition.md)
+**Evidence dependencies:** [market feasibility](../evidence/nepalgunj-mobile-flagship/nepalgunj-market-feasibility-research.md), [consumer demand segments/catchment](western-nepal-device-demand-segments-and-catchment.md), [financial guardrails](../evidence/nepalgunj-mobile-flagship/financial-model-and-funding-guardrails.md), [competitor matrix](competitor-experience-matrix.md), [customer-friction/WTP study](customer-phone-buying-experience-and-price-hypothesis.md), [official/grey/border study](nepal-official-grey-border-buying-and-price-gap.md), [institutional demand/procurement study](western-nepal-institutional-device-demand-and-procurement.md), [supplier/inventory-finance study](../finance/supplier-credit-and-consignment-strategy.md), [brand-support study](brand-funded-retail-visibility.md), [ownership-support study](trade-in-and-ownership-support-economics.md) and [value proposition](why-buy-from-k-and-s-value-proposition.md)
 
 ## Decision question and evidence labels
 
@@ -35,7 +35,7 @@ What market evidence, assortment structure and operating advantages would make t
 3. **E:** Allocating national smartphone imports mechanically by Nepalgunj's share of the 2021 national population gives approximately 12,800 phones per year, or 1,065–1,066 per month. This remains a scale check—not local TAM, SAM or a sales forecast.
 4. **E/H:** The existing month-three target of 70 phones would equal roughly 6.6% of that city-only proxy; the year-one target of about 1,070 phones would equal roughly 8.4%. Those percentages are not defensible market-share claims because the denominator omits regional inflow, channel leakage, inventory timing and local replacement behavior.
 5. **V:** No current authoritative public source located reports Nepalgunj phone/laptop retail units, price-band mix, retailer share or model sell-through. The 2018 National Economic Census can describe an older establishment base, but it cannot substitute for a 2026 technology-retail denominator.
-6. **H:** The opening commercial centre should remain phone-led and value-led, with deep evidence requirements below NPR 35,000, shallow stock above that band, laptops and premium devices mainly demonstration/order-led, and accessories tied to observed attachment rather than shelf breadth.
+6. **V/H:** MICS reports high smartphone/internet access but materially lower computer access/use in Lumbini Urban. A phone-led, value-sensitive opening with selective/order-led laptops and premium devices remains a working architecture—not a verified price-band or volume result.
 7. **H:** The defensible proposition is not a collection of EMI, exchange, setup and warranty services. Public competitor evidence shows those are table stakes. The stronger candidate is a repeatable **Decision-to-Ownership Confidence System** that joins advice, true-cost disclosure, verified handover, privacy-safe migration, traceable case ownership and a controlled upgrade path.
 8. **H:** The flagship should reach founder review only when market demand, store capture capacity, contribution, inventory exposure and execution readiness agree. A large theoretical market cannot rescue an unprofitable basket; a profitable basket cannot rescue insufficient traffic or demand.
 
@@ -45,6 +45,7 @@ What market evidence, assortment structure and operating advantages would make t
 |---|---|---|
 | Nepalgunj population and households | Resident scale and sampling frame | Annual device demand, regional catchment or retailer share |
 | Household smartphone/computer/internet access | Installed-base and category-relevance signal | Devices per household, age, replacement timing or purchase channel |
+| MICS Lumbini Urban/Rural access and use | Current phone-versus-computer context and sampling hypotheses | Nepalgunj prevalence, replacement cycle, price band, brand or purchase volume |
 | National customs units/value | National category flow and broad value signal | Local units, retail price, brand/price-band mix or grey-market volume |
 | NTA subscriptions | Connectivity/use context | Unique people, unique devices, purchase rate or Nepalgunj demand |
 | Public directories and 2018 Economic Census | Competitor/establishment discovery and older structural context | Current active stores, category turnover, sales quality or 2026 market size |
@@ -196,7 +197,7 @@ No weighted score overrides:
 - **Demonstration/order-led:** phones above NPR 80,000, premium Apple/Samsung/Nothing variants, creator/gaming/premium laptops, tablets and long-tail ecosystem products.
 - **Field-led inclusion:** feature phones and rural-use devices; retain only if current local demand, authorised supply and support justify them.
 
-The earlier 120-phone opening table and brand percentages remain planning hypotheses. Replace them with the workbook's SKU-level gate after actual distributor and demand inputs are loaded.
+The earlier 120-phone opening table and brand percentages have no evidentiary basis as an allocation. Replace them with the workbook's SKU-level gate after actual distributor and demand inputs are loaded. Use [RESEARCH-SEGMENT-001](western-nepal-device-demand-segments-and-catchment.md) for price-band, brand and origin coding; its strata are research controls, not demand shares.
 
 ## Flagship-defensibility framework
 

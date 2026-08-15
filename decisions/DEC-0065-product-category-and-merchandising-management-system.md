@@ -6,7 +6,7 @@
 **Version:** 0.1.0  
 **Decision Date:** 2026-08-08  
 **Owner:** KAMLESH & SONS
-**Related Research:** [Integrated market size, assortment and flagship defensibility](../docs/research/integrated-market-size-assortment-and-flagship-defensibility.md)
+**Related Research:** [Consumer demand segments and catchment](../docs/research/western-nepal-device-demand-segments-and-catchment.md), [Integrated market size, assortment and flagship defensibility](../docs/research/integrated-market-size-assortment-and-flagship-defensibility.md)
 
 ---
 

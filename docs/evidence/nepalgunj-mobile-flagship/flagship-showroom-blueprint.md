@@ -1,12 +1,12 @@
 # KAMLESH Mobile — Nepalgunj Flagship Showroom Blueprint
 
 **Document ID:** EVD-NPJ-FLAGSHIP-002
-**Version:** 0.5.0
+**Version:** 0.6.0
 **Status:** Planning evidence — quotations, field validation and approvals pending
 **Accountable owner:** Founder until site-specific owners are appointed
 **Canonical dependencies:** v0.3 Store Design, v0.4 Customer Experience, v0.6 Operations & People, v0.7 Marketing, v0.8 Finance and v1.0 Flagship Ready
 
-**Related research/model:** [Integrated market size, assortment and flagship defensibility](../../research/integrated-market-size-assortment-and-flagship-defensibility.md) and [KAMLESH Flagship Commercial Evidence Model](./KAMLESH-Flagship-Commercial-Evidence-Model.xlsx)
+**Related research/model:** [Consumer demand segments and catchment](../../research/western-nepal-device-demand-segments-and-catchment.md), [Integrated market size, assortment and flagship defensibility](../../research/integrated-market-size-assortment-and-flagship-defensibility.md) and [KAMLESH Flagship Commercial Evidence Model](./KAMLESH-Flagship-Commercial-Evidence-Model.xlsx)
 
 Planning date: August 2026
 Current working footprint: approximately 60 ft long × 12 ft wide / five connected bays / approximately 720 sq ft
@@ -237,34 +237,31 @@ Dedicated shelf and chain-of-custody workflow for WhatsApp orders, advance order
 
 The earlier target of approximately 120 sale units plus controlled demonstration units, with a combined opening handset cost ceiling of NPR 35–42 lakh, is a planning hypothesis to test—not a market finding, approved allocation or purchase authority. Rebuild the opening quantity and brand mix through the canonical workbook's SKU gate using actual demand, contribution, days cover, authorised terms and downside liquidity. Within any later founder-approved total, BG-supported and other authorised stock must remain inside one combined ceiling rather than adding maximums mechanically.
 
-### Price-tier allocation
+### Price-tier research strata
 
-| Retail price band | Units | Approx. stock cost/value envelope | Rule |
-|---|---:|---:|---|
-| Below NPR 15,000 | 6 | NPR 0.8 lakh | First smartphone and severe budget |
-| NPR 15,000–20,000 | 25 | NPR 4.5 lakh | High-volume entry replacement |
-| NPR 20,000–30,000 | 48 | NPR 12 lakh | Largest core category |
-| NPR 30,000–50,000 | 25 | NPR 9.8 lakh | Upgrade and 5G step-up |
-| NPR 50,000–80,000 | 10 | NPR 6.5 lakh | Selective aspirational inventory |
-| NPR 80,000–120,000 | 2 | NPR 2 lakh | Demonstration and limited stock |
-| Above NPR 120,000 | 4 | NPR 6.4 lakh | Halo stock; most variants order-led |
-| **Scenario total—not approved** | **120** | **Approximately NPR 42 lakh** | Replace through exact-SKU evidence gate |
+| Retail price band | Job hypothesis | Treatment until local evidence |
+|---|---|---|
+| Below NPR 15,000 | First smartphone, secondary phone or severe budget | Test exact demand, durability, support and contribution |
+| NPR 15,000–24,999 | Value replacement | Candidate core only after comparable sell-through and funnel evidence |
+| NPR 25,000–34,999 | Feature/value step-up | Candidate core only after exact-SKU evidence |
+| NPR 35,000–49,999 | Upgrade/productivity | Shallow/order-led until repeat conversion is observed |
+| NPR 50,000–79,999 | Upper-mid/premium step-up | Demonstration/shallow stock subject to downside gate |
+| NPR 80,000–99,999 | Premium | Demonstration/order-led until repeat executable demand |
+| NPR 100,000 and above | Premium/halo/ecosystem | Demonstration and advance order unless approved evidence supports stock |
 
-The cost/value envelope must be rebuilt using actual distributor net prices, tax treatment and credit notes.
+These are field coding strata, not demand shares or an opening purchase order. Any unit/cost envelope must be rebuilt using actual demand, distributor net prices, tax treatment, credit notes, contribution, ageing and downside liquidity.
 
-### Brand capital allocation
+### Brand-role hypotheses
 
-| Brand group | Share of handset capital | Role |
-|---|---:|---|
-| Xiaomi/Redmi/Poco | 30% | Value-volume anchor |
-| Samsung | 25% | Trust, service support and full price ladder |
-| Apple | 10% | Halo and premium; advance-order led |
-| Nothing | 5% | Design/technology identity; selective |
-| Realme | 8% | Value and youth alternatives |
-| OPPO | 8% | Offline sales and camera/style buyers |
-| Vivo | 6% | Offline recognition and step-up buyers |
-| Infinix/itel | 6% | Budget and rural catchment |
-| Honor/OnePlus/other | 2% | Controlled tests only |
+| Brand group | Role to test | Allocation rule |
+|---|---|---|
+| Xiaomi/Redmi/Poco | Value/feature comparison | No percentage; pass exact-SKU gate |
+| Samsung | Broad ladder, trust and service | No percentage; pass demand, terms and service gate |
+| Apple | Ecosystem/halo/premium | Advance-order led unless repeat demand supports stock |
+| Nothing | Design/technology identity | Controlled order-led experiment |
+| Realme, OPPO and Vivo | Value, camera/style and offline alternatives | Compare actual consideration, sell-through and support |
+| Infinix/itel | Budget and wider-catchment use | Test durability, service and contribution |
+| Honor/OnePlus/other qualified brands | Controlled alternatives | No allocation without repeated local evidence |
 
 ### Core opening families
 

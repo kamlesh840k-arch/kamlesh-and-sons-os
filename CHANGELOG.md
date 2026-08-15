@@ -24,6 +24,7 @@ The project follows [Semantic Versioning](https://semver.org/).
 - Field evidence activation and data-governance protocol covering non-identifying IDs, voluntary consent, contact separation, translation/version control, evidence custody, access classes, daily QA and analysis handoff.
 - Formula-driven 18-sheet KAMLESH Field Evidence Collection System for approach disposition, customer/friction/choice records, competitor and price baskets, sell-through, institutions, traffic, funnel, purchase/service cases, evidence custody and completion controls.
 - Western Nepal institutional device-demand and procurement study covering official Banke/Nepalgunj/Kohalpur education and health account bases, local tender evidence, procurement states, twelve-account field protocol, commercial gates and exposure controls.
+- Western Nepal consumer device-demand and catchment study covering official ICT access/use, affordability and local segment frames; exact price/brand/origin field protocols; and explicit premium/underserved evidence gates.
 
 ### Changed
 
@@ -38,6 +39,7 @@ The project follows [Semantic Versioning](https://semver.org/).
 - Reclassified the 70-phone month-three target, approximately 1,070-phone year-one target, 120-unit opening table and brand percentages as explicit model hypotheses requiring local demand, funnel, contribution and exact-SKU evidence.
 - Replaced the generic “start fieldwork” backlog with one governed execution system that keeps identifiers and restricted evidence out of GitHub, separates instrument versions and consent types, and prevents workbook completion from becoming a market claim or founder decision.
 - Replaced the undifferentiated institutional-demand assumption with sector/geography quotas and separate completed, confirmed, documented-plan, verbal and exploratory states; institution/student/facility counts are now explicitly prohibited as device-unit multipliers.
+- Reclassified the NPR 15,000–35,000 “strongest band,” sub-NPR-30,000 centre of gravity and brand-percentage table as hypotheses/field inputs; public access, poverty, customs and census data are now explicitly prohibited as local price-band, brand-share, premium-demand or catchment proof.
 
 ## [1.0.0-rc.2] — Roadmap Documentation Integration
 

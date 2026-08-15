@@ -1,12 +1,12 @@
 # Nepalgunj Phone, Laptop and Accessories Market Feasibility Research
 
 **Document ID:** EVD-NPJ-FLAGSHIP-001  
-**Version:** 0.4.0
+**Version:** 0.5.0
 **Research date:** 2026-08-15
 **Status:** Desk-research evidence — local sell-through, quotations and fieldwork pending  
 **Accountable owner:** Founder until Research/Commercial Owner is appointed
 
-**Related research/model:** [Integrated market size, assortment and flagship defensibility](../../research/integrated-market-size-assortment-and-flagship-defensibility.md) and [KAMLESH Flagship Commercial Evidence Model](./KAMLESH-Flagship-Commercial-Evidence-Model.xlsx)
+**Related research/model:** [Consumer demand segments and catchment](../../research/western-nepal-device-demand-segments-and-catchment.md), [Integrated market size, assortment and flagship defensibility](../../research/integrated-market-size-assortment-and-flagship-defensibility.md) and [KAMLESH Flagship Commercial Evidence Model](./KAMLESH-Flagship-Commercial-Evidence-Model.xlsx)
 
 ## Decision summary
 
@@ -30,9 +30,9 @@ No public authoritative source reports Nepalgunj store-level units or model-leve
 - Nepalgunj has 86,001 residents aged 15–44, approximately 52.3% of the population.
 - Nepalgunj household smartphone access was 73.9% in the 2021 census.
 - The same census recorded computer/laptop access in 6,347 of 34,565 Nepalgunj households, or 18.4%, and home internet in 16,335 households, or 47.3%.
-- The 2024–25 national household survey reports smartphone access in 91.1% of Lumbini urban households and home internet access in 90.2%.
+- The 2024–25 MICS reports smartphone access in 91.1%, computer access in 19.8% and home internet in 90.2% of Lumbini Urban households. Among Lumbini Urban people aged 15–49, 78.6% owned a smartphone and 16.7% had used a computer in the previous three months.
 
-The city figure and later province-urban figure are not directly comparable samples. The local figures are household access/installed-base indicators, not annual device sales. Together they indicate a mature phone replacement-and-upgrade market and a materially narrower, but still meaningful, base for computers and laptops.
+The city figure and later province-urban figure are not directly comparable samples. Household access is not individual ownership, a unique-device count, annual sales or replacement timing. The evidence supports a phone-led research frame and a materially narrower computing-use frame; it does not by itself establish replacement or laptop demand.
 
 Local household source: [NSO NPHC 2021 Table 10 household-facilities dataset](https://censusresults.nsonepal.gov.np/files/longform-dataset/Hhld10_HouseholdFacility.csv). In that table, the relevant columns are smart mobile phone, computer/laptop and internet at home.
 
@@ -61,7 +61,7 @@ NTA reported approximately 27.73 million mobile-broadband subscriptions and 26.9
 
 ## Affordability
 
-The NSO Living Standards Survey reported Lumbini Urban poverty incidence at 24.08% in 2022/23. High smartphone access therefore coexists with strong price sensitivity. The commercial centre of gravity should remain below NPR 30,000, supported by financing, repair, trade-in and accessories.
+The NSO Living Standards Survey reported Lumbini Urban poverty incidence at 24.08% in 2022/23 and an annual per-person basic-needs poverty line of NPR 75,468. That threshold is not average income, household disposable cash, EMI capacity or a device budget. **H:** affordability is heterogeneous and likely makes value, repair-versus-replace, transparent finance and total ownership cost material—but the commercial centre of gravity cannot be inferred from poverty or access data.
 
 ## Scale check
 
@@ -69,9 +69,9 @@ Applying the national FY 2025/26 smartphone-import rate mechanically to Nepalgun
 
 A new store selling 70–90 phones per month would equal roughly 6.6–8.5% of this city-only pro-rata quantity. Those are arithmetic comparisons, not market-share estimates: the denominator excludes catchment inflow, channel leakage and local replacement behavior. The [integrated study](../../research/integrated-market-size-assortment-and-flagship-defensibility.md) defines the local evidence and capture bridge required before the target can be treated as commercially credible.
 
-## Expected fast-moving assortment
+## Working phone assortment hypothesis
 
-The strongest opening band is NPR 15,000–35,000. Current candidate families include:
+**H:** NPR 15,000–35,000 is a priority field stratum, not a verified strongest band. Current candidate families for exact-SKU testing include:
 
 - Redmi A-series, Redmi 15C and Redmi 15
 - Samsung Galaxy A07, M17 and A17
@@ -84,23 +84,21 @@ The strongest opening band is NPR 15,000–35,000. Current candidate families in
 
 Apple, Samsung flagships, foldables and other devices above NPR 100,000 should be mainly demonstration- and advance-order-led.
 
-### Brand architecture
+### Brand-role hypotheses
 
-| Brand group | Working share hypothesis—not an approved allocation | Role |
-|---|---:|---|
-| Xiaomi/Redmi/Poco | 30% | Value-volume anchor |
-| Samsung | 25% | Trust, service support and complete price ladder |
-| Apple | 10% | Halo and premium, largely order-led |
-| Nothing | 5% | Design and technology halo |
-| Realme | 8% | Value and youth alternative |
-| OPPO | 8% | Offline and camera/style segment |
-| Vivo | 6% | Offline recognition and step-up segment |
-| Infinix/itel | 6% | Budget and rural catchment |
-| Honor/OnePlus/testing | 2% | Controlled experiments |
+| Brand group | Role hypothesis | Opening treatment until evidence |
+|---|---|---|
+| Xiaomi/Redmi/Poco | Value/feature comparison candidate | Exact-SKU demand, authorised terms and contribution gate |
+| Samsung | Broad price ladder, trust and service candidate | Exact-SKU demand plus documented service/terms |
+| Apple | Ecosystem/halo/premium candidate | Demonstration and advance order unless repeat demand supports stock |
+| Nothing | Design/technology-halo candidate | Controlled order-led experiment |
+| Realme, OPPO and Vivo | Value, camera/style and offline-comparison candidates | Compare actual consideration, quotes, sell-through and support |
+| Infinix/itel | Budget/rural-catchment candidate | Test device job, durability, service and contribution |
+| Honor/OnePlus/other qualified brands | Controlled test candidates | No allocation without repeat local evidence and authorised support |
 
-Samsung, Apple and Nothing alone are not recommended because that range would under-serve the main NPR 15,000–30,000 market.
+**H:** a Samsung/Apple/Nothing-only range may under-serve hard-budget value buyers. The size of that effect is unverified.
 
-These percentages and the earlier 120-unit opening concept must be rebuilt at exact-SKU level in the canonical commercial evidence model. They do not authorise a purchase order.
+Earlier brand percentages and the 120-unit opening concept have no evidentiary basis for allocation. Replace them at exact-SKU level in the canonical commercial evidence model; they do not authorise a purchase order.
 
 ## Laptop demand and opening role
 

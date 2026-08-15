@@ -1,12 +1,12 @@
 # Customer Phone/Laptop Buying Friction and Willingness-to-Pay Study
 
 **Document ID:** RESEARCH-CX-001
-**Version:** 0.4.0
+**Version:** 0.5.0
 **Status:** Desk evidence and field instrument complete — execution and founder decisions open
 **Owner:** Founder until a Research/Commercial Owner is appointed
 **Created:** 2026-08-14
 **Last updated:** 2026-08-15
-**Related research:** [Competitor Experience Matrix](competitor-experience-matrix.md), [Official/Grey/India-border Study](nepal-official-grey-border-buying-and-price-gap.md), [EMI/BNPL Study](nepal-emi-bnpl-partner-and-merchant-economics.md), [Value Proposition](why-buy-from-k-and-s-value-proposition.md)
+**Related research:** [Consumer demand segments and catchment](western-nepal-device-demand-segments-and-catchment.md), [Competitor Experience Matrix](competitor-experience-matrix.md), [Official/Grey/India-border Study](nepal-official-grey-border-buying-and-price-gap.md), [EMI/BNPL Study](nepal-emi-bnpl-partner-and-merchant-economics.md), [Value Proposition](why-buy-from-k-and-s-value-proposition.md)
 
 **Execution system:** [Field evidence activation and data-governance protocol](field-evidence-activation-and-data-governance-protocol.md) and [KAMLESH Field Evidence Collection System](../evidence/nepalgunj-mobile-flagship/KAMLESH-Field-Evidence-Collection-System.xlsx)
 **Related decisions:** [DEC-0017](../../decisions/DEC-0017-research-and-market-intelligence-strategy.md), [DEC-0046](../../decisions/DEC-0046-customer-experience-and-service-excellence-system.md), [DEC-0048](../../decisions/DEC-0048-sales-crm-and-customer-relationship-management-system.md), [DEC-0054](../../decisions/DEC-0054-customer-service-support-warranty-and-after-sales-experience-system.md), [DEC-0067](../../decisions/DEC-0067-customer-loyalty-retention-and-community-management-system.md)
@@ -163,6 +163,8 @@ Ask about the latest phone/laptop purchase first, then the next intended purchas
 | B07 | Intended device/job | Phone/laptop and primary jobs: communication, study, work, business, camera, gaming/creation, other |
 | B08 | Intended budget | Exact range; enumerator maps to quota after answer |
 | B09 | Timing/urgency | Expected month and whether replacement can wait |
+| B10 | Unaided brand consideration | First brand considered for the stated job, then every other brand genuinely considered; “none/no preference” allowed |
+| B11 | Brand choice/rejection | Chosen and rejected brands with unprompted reasons; prompt price, fit, ecosystem, service, warranty, resale and recommendation only afterward |
 
 ### O — unprompted experience
 
@@ -271,6 +273,7 @@ Maintain a disposition log: approached, screened, eligible, refused, partial, co
 - For each event report occurrence, median severity, time/cost distributions, unresolved count and trust effect; do not collapse unlike burdens into an unexplained score.
 - Cross-tab only where cells are large enough to display responsibly: device, budget stratum, recent/intended buyer, documented channel class and geography.
 - Report recent-purchase cases separately from future-buyer opinions.
+- Report last-owned brand, unaided consideration, considered set, final purchase and rejection separately; never label the purposive sample as Nepalgunj brand share.
 
 ### Choice evidence
 
