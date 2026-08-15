@@ -16,6 +16,7 @@ This folder contains the working commercial and operating blueprint for a propos
 - [Landlord negotiation and lease-verification script](./landlord-negotiation-and-lease-verification-script.md) — a founder-ready conversation script, permission schedule and pre-signing checklist for the five-shutter site.
 - [K&S research program index](../../research/README.md) — canonical coverage map, evidence taxonomy and sequenced backlog across all flagship studies.
 - [Competitor experience matrix](../../research/competitor-experience-matrix.md) — public-evidence benchmark for Nepalgunj, Kohalpur, Rupaidiha, Kathmandu and major Indian retailers, with the field mystery-shopping protocol still open.
+- [Nepal EMI/BNPL partner and merchant-economics study](../../research/nepal-emi-bnpl-partner-and-merchant-economics.md) — current public partner routes, customer eligibility, merchant-cost risk, proposal schedule and controlled launch sequence.
 
 ## Governance
 

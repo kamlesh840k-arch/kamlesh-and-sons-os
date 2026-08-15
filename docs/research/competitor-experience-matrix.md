@@ -2,7 +2,7 @@
 
 **Document ID:** RESEARCH-COMP-001
 
-**Version:** 0.1.0
+**Version:** 0.1.1
 
 **Status:** Desk-research baseline complete — mystery shopping and field validation open
 
@@ -10,7 +10,7 @@
 
 **Research date:** 2026-08-15
 
-**Related research:** [Research index](README.md), [phone-buying experience](customer-phone-buying-experience-and-price-hypothesis.md), [K&S value proposition](why-buy-from-k-and-s-value-proposition.md), [Nepalgunj feasibility](../evidence/nepalgunj-mobile-flagship/nepalgunj-market-feasibility-research.md)
+**Related research:** [Research index](README.md), [phone-buying experience](customer-phone-buying-experience-and-price-hypothesis.md), [K&S value proposition](why-buy-from-k-and-s-value-proposition.md), [Nepalgunj feasibility](../evidence/nepalgunj-mobile-flagship/nepalgunj-market-feasibility-research.md), [Nepal EMI/BNPL partner and merchant economics](nepal-emi-bnpl-partner-and-merchant-economics.md)
 
 **Related decisions:** DEC-0006, DEC-0009, DEC-0016, DEC-0018, DEC-0039, DEC-0054, DEC-0092, DEC-0093
 
@@ -303,5 +303,5 @@ Record `not offered`, `claimed`, `shown`, `documented` and `successfully tested`
 
 1. Execute the local/Kathmandu mystery-shopping protocol.
 2. Extend the Nepalgunj market study for laptops and accessories.
-3. Build the current Nepal EMI/BNPL partner and merchant-economics matrix.
+3. Obtain comparable written partner proposals and run the controlled checks specified in the completed [Nepal EMI/BNPL desk study](nepal-emi-bnpl-partner-and-merchant-economics.md).
 4. Run local customer interviews and ten service-case interviews using the friction hypotheses above.

@@ -1,7 +1,7 @@
 # Nepalgunj Technology Flagship Sources and Assumptions Register
 
 **Document ID:** EVD-NPJ-FLAGSHIP-006
-**Version:** 0.4.0
+**Version:** 0.5.0
 **Status:** Active research register
 **Last updated:** 2026-08-15
 
@@ -77,6 +77,10 @@ These are first-party planning inputs recorded on 2026-08-10. They are not indep
 | Monthly phone demand | 70 by month three | Fieldwork, preorders and actual sales | Commercial | Open |
 | Monthly laptop/tablet demand | Unapproved | Comparable retailer/distributor data, institutional interviews, waitlist and actual sales | Commercial | Open |
 | Laptop effective margin | Unapproved | Three current authorised term sheets including target, demo and credit-note conditions | Commercial/Finance | Open |
+| EMI/BNPL partner | None approved | Four comparable written proposals plus licence, legal/compliance and founder review | Founder/Finance | Open |
+| EMI merchant cost/subsidy | Unknown; “0%” is not treated as zero merchant cost | Signed schedule separating MDR, EMI fee/subsidy, co-funding, tax and clawback by offer | Finance | Open |
+| EMI settlement/refund | Unknown | Test authorisation, settlement, cancellation and refund plus signed SLA/accounting flow | Finance/Operations | Open |
+| EMI approval/conversion | No Nepalgunj rate assumed | Partner data or controlled pilot split by route without unnecessary customer decision data | Commercial/Finance | Open |
 | Accessory attachment | 65% target | Pilot transaction evidence | Store Manager | Open |
 | Accessories gross margin | 35–45% planning range | Supplier invoices, shrink/DOA/warranty cost and actual transaction margin by family | Commercial/Finance | Open |
 | Accessory opening depth | Unapproved | Six-item competitor basket, local attachment evidence, supplier MOQ/rotation and SKU aging model | Commercial | Open |

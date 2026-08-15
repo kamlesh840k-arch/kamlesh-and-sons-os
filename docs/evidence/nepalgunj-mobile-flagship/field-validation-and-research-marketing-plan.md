@@ -1,7 +1,7 @@
 # Nepalgunj Field Validation and Research-Led Marketing Plan
 
 **Document ID:** EVD-NPJ-FLAGSHIP-004
-**Version:** 0.3.0
+**Version:** 0.4.0
 **Status:** Execution plan — no field activity marked complete
 **Accountable owner:** Founder until Research and Marketing Owners are appointed
 
@@ -16,6 +16,7 @@ Confidential distributor margins, credit limits, individual retailer sales, myst
 | Workstream | Minimum evidence | Status |
 |---|---:|---|
 | Authorised distributors | 3 complete written quotations | Open |
+| EMI/finance partners | 4 complete comparable written proposals | Open |
 | Competitors | 6 local checks with one standard 12-phone, 3-laptop and 6-accessory basket | Open |
 | Traffic | 27 sessions: 3 locations × 3 times × 3 days | Open |
 | Customers | 100 valid, deduplicated interviews | Open |
@@ -44,6 +45,12 @@ Request the same schedule from at least three authorised distributors:
 - Termination and unsold-stock treatment
 
 Record documentary, verbal and inferred items separately. No verbal protection counts as an approval condition.
+
+## EMI/BNPL proposal request
+
+Use the common legal, customer, merchant-economics, settlement, refund, data and complaint schedule in the [Nepal EMI/BNPL partner study](../../research/nepal-emi-bnpl-partner-and-merchant-economics.md). Obtain at least four complete proposals, including a locally deployed card programme, a customer-controlled conversion route, a QR/app BNPL route and a premium/product-specific route.
+
+Do not combine ordinary POS/QR acceptance with an approved K&S EMI offer. Record customer fee and merchant cost separately; “0%” or “no fee” for the customer does not prove zero cost to K&S.
 
 ## Standard phone, laptop and accessory mystery-shopping basket
 
