@@ -9,6 +9,7 @@ This folder contains the working commercial and operating blueprint for a propos
 - [Customer policies and service operations](./customer-policies-and-service-operations.md) — exchange, warranty, repair, WhatsApp orders, advance orders, delivery, pickup/drop and KAMLESH Care membership terms.
 - [Field validation and research-led marketing](./field-validation-and-research-marketing-plan.md) — distributor quotations, competitor basket, traffic counts, 100-customer study, rent and sell-through evidence.
 - [Financial model and funding guardrails](./financial-model-and-funding-guardrails.md) — NPR 1 crore facility, NPR 60 lakh BG, capital allocation, break-even and stop/scale rules.
+- [Staffing manual](./staffing/README.md) — opening organization, detailed role scorecards, hiring, training, shifts, compensation, performance, RACI and handoffs.
 - [Sources and assumptions register](./sources-and-assumptions-register.md) — traceable sources, limitations and open evidence items.
 - [Landlord negotiation and lease-verification script](./landlord-negotiation-and-lease-verification-script.md) — a founder-ready conversation script, permission schedule and pre-signing checklist for the five-shutter site.
 
