@@ -13,6 +13,11 @@ The project follows [Semantic Versioning](https://semver.org/).
 - Canonical research-program index, evidence taxonomy, coverage audit and sequenced backlog.
 - Competitor experience matrix for Nepalgunj, Kohalpur, Rupaidiha, Kathmandu and major Indian retailers, including a standardized mystery-shopping scorecard.
 
+### Changed
+
+- Extended the Nepalgunj market study from smartphones into laptops, tablets and accessories using official FY 2082/83 customs data, local census access indicators and explicit field-validation gates.
+- Expanded the local evidence plan with a three-laptop/six-accessory competitor basket and twelve institutional device-procurement interviews.
+
 ## [1.0.0-rc.2] — Roadmap Documentation Integration
 
 ### Documentation completed serially

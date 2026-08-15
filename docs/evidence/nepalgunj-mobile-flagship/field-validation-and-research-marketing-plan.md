@@ -1,7 +1,7 @@
 # Nepalgunj Field Validation and Research-Led Marketing Plan
 
 **Document ID:** EVD-NPJ-FLAGSHIP-004
-**Version:** 0.2.0
+**Version:** 0.3.0
 **Status:** Execution plan — no field activity marked complete
 **Accountable owner:** Founder until Research and Marketing Owners are appointed
 
@@ -16,11 +16,12 @@ Confidential distributor margins, credit limits, individual retailer sales, myst
 | Workstream | Minimum evidence | Status |
 |---|---:|---|
 | Authorised distributors | 3 complete written quotations | Open |
-| Competitors | 6 checked with one standard 12-phone basket | Open |
+| Competitors | 6 local checks with one standard 12-phone, 3-laptop and 6-accessory basket | Open |
 | Traffic | 27 sessions: 3 locations × 3 times × 3 days | Open |
 | Customers | 100 valid, deduplicated interviews | Open |
 | Properties | 5 comparable written rent quotations | Open |
 | Sell-through | 8–10 retailer/distributor discussions | Open |
+| Institutions | 12 structured device-procurement interviews | Open |
 | Financial model | Actual rent, payroll, margin, credit, interest and BG terms entered | Open |
 
 ## Distributor quotation request
@@ -44,7 +45,7 @@ Request the same schedule from at least three authorised distributors:
 
 Record documentary, verbal and inferred items separately. No verbal protection counts as an approval condition.
 
-## Standard 12-phone mystery-shopping basket
+## Standard phone, laptop and accessory mystery-shopping basket
 
 Build one current basket immediately before execution, covering:
 
@@ -56,6 +57,8 @@ Build one current basket immediately before execution, covering:
 - One Samsung premium device
 
 At six competitors, record the same fields: quoted price, stock/colour, VAT invoice, MDMS/warranty explanation, gift/bundle, EMI, trade-in, setup, delivery, repair/warranty handling and staff follow-up. Record date and time. Do not secretly record private conversations where consent is required, and do not publish named negative comparisons.
+
+Add three comparable laptops—student/value, mainstream work and premium/performance—and six accessories—case, screen protection, charger, cable, power bank and earphone/headphone. For laptops record configuration, operating-system licence, authorised warranty, DOA route, upgradeability and promised service time. For accessories record brand/authenticity, specifications, compatibility check, installation, written warranty and return terms.
 
 ## Traffic-count method
 
@@ -84,19 +87,21 @@ Use a consented phone-number duplicate check or anonymous code. Store identity s
 
 Core questions:
 
-1. Current phone, age and condition
-2. Expected replacement timing
-3. Maximum budget and acceptable monthly EMI
-4. Preferred and rejected brands
-5. Cash, card, EMI or mixed payment
-6. Trade-in interest and current-device expectation
-7. Most important buying factors
-8. Warranty, authenticity and repair concerns
-9. Previous local shopping/service experience
-10. Preferred location and shopping time
-11. Delivery or pickup/drop interest
-12. Most valuable KAMLESH Care benefits
-13. Permission for future contact and channel preference
+1. Current phone and laptop/tablet ownership, age and condition
+2. Expected replacement timing by device
+3. Main device job: study, work, business, gaming/creation, communication or other
+4. Maximum budget and acceptable monthly EMI by intended device
+5. Preferred and rejected brands
+6. Cash, card, EMI or mixed payment
+7. Trade-in interest and current-device expectation
+8. Most important buying factors
+9. Expected accessory basket and compatibility/installation needs
+10. Warranty, authenticity, data privacy and repair concerns
+11. Previous local, online, Kathmandu or India-border shopping/service experience
+12. Preferred location and shopping time
+13. Delivery or pickup/drop interest
+14. Most valuable KAMLESH Care benefits
+15. Permission for future contact and channel preference
 
 Participation does not guarantee a discount, loan, job or stock allocation.
 
@@ -121,6 +126,7 @@ Do not publish offers during negotiation.
 
 Ask 8–10 distributors or retailers privately for units by:
 
+- Category: phone, laptop, tablet and accessory family
 - Price band
 - Brand
 - Model family
@@ -130,6 +136,20 @@ Ask 8–10 distributors or retailers privately for units by:
 - Returns/DOA
 
 Label each response as documentary, system-export, verbal recall or estimate. Aggregate only comparable periods and preserve confidentiality.
+
+## Institutional device-demand interviews
+
+Complete at least twelve interviews across schools/campuses, hospitals/clinics, NGOs/INGOs and local SMEs. Use the same schedule:
+
+- Devices purchased in the last 12 months and expected in the next 12 months
+- Configuration and price band
+- Procurement route, VAT/tender requirements and decision owner
+- Payment timing, credit or financing need
+- Setup, data migration, software and network requirements
+- Warranty, repair turnaround and replacement/loaner expectations
+- Current supplier strengths, failures and reasons for switching
+
+Separate written procurement records from verbal estimates. Do not add institutional units to a consumer-market estimate without a visible category split and duplicate check.
 
 ## Research-led content series
 

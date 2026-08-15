@@ -2,7 +2,7 @@
 
 **Document ID:** RESEARCH-INDEX-001
 
-**Version:** 0.1.0
+**Version:** 0.2.0
 
 **Status:** Active canonical index and backlog
 
@@ -37,7 +37,7 @@ Historical conversation notes and planning files can shape research questions, b
 
 | Research topic | Canonical current document(s) | Coverage on 2026-08-15 | Evidence status | Next gap |
 |---|---|---|---|---|
-| 1. Nepalgunj phone/laptop/accessories market | [Market feasibility](../evidence/nepalgunj-mobile-flagship/nepalgunj-market-feasibility-research.md), [accessory assortment](../evidence/nepalgunj-mobile-flagship/distributor-system/supply-service/accessory-sourcing-and-assortment.md) | Smartphone market and launch economics are substantial; laptop and accessory demand are lighter | V/E/H mixed | Add laptop and accessory category sizing; obtain local sell-through |
+| 1. Nepalgunj phone/laptop/accessories market | [Market feasibility](../evidence/nepalgunj-mobile-flagship/nepalgunj-market-feasibility-research.md), [accessory assortment](../evidence/nepalgunj-mobile-flagship/distributor-system/supply-service/accessory-sourcing-and-assortment.md) | Desk baseline now covers local installed-base signals, national phone/laptop/tablet/accessory imports, category roles and sizing methods | V/E/H mixed | Obtain local sell-through, basket, institutional and customer evidence |
 | 2. Nepalgunj/Kohalpur/Rupaidiha/Kathmandu competitors | [Competitor experience matrix](competitor-experience-matrix.md) | Desk-research baseline complete; field execution open | V/P/S plus open fieldwork | Complete standardized mystery shops and price basket |
 | 3. Indian premium/mobile retail benchmark | [Competitor experience matrix](competitor-experience-matrix.md) | Croma, Reliance Digital/resQ, Vijay Sales, Sangeetha, Poorvika and Value Plus baseline complete | Predominantly P from official retailer pages | Validate store execution and unit economics through interviews/visits |
 | 4. Customer frustrations before/during/after purchase | [Phone-buying experience](customer-phone-buying-experience-and-price-hypothesis.md), [value proposition](why-buy-from-k-and-s-value-proposition.md) | Journey and ten core uncertainty themes defined | Literature signals plus H | Run 100-customer local study and service-case interviews |
@@ -48,8 +48,8 @@ Historical conversation notes and planning files can shape research questions, b
 | 9. Trade-in/buyback | [Customer policies](../evidence/nepalgunj-mobile-flagship/customer-policies-and-service-operations.md), [competitor matrix](competitor-experience-matrix.md) | Service concept and benchmarks exist | P/H | Model inspection, fraud, resale, tax, warranty and price-risk economics |
 | 10. Warranty/service/repair concierge/loaner | [Customer policies](../evidence/nepalgunj-mobile-flagship/customer-policies-and-service-operations.md), [repair network field check](../evidence/nepalgunj-mobile-flagship/distributor-system/supply-service/nepalgunj-repair-network-and-field-check.md), [competitor matrix](competitor-experience-matrix.md) | Workflow and benchmark features defined | D/H/P | Verify partner SLAs, custody liability, pickup/drop and loaner economics |
 | 11. Pricing vs experience / willingness to pay | [Phone-buying experience](customer-phone-buying-experience-and-price-hypothesis.md), [value proposition](why-buy-from-k-and-s-value-proposition.md) | Testable 0–3% price-gap hypothesis exists | H | Execute conjoint/choice tests and track conversion/lost-sale reasons |
-| 12. Demand by price segment/brand/underserved segment | [Market feasibility](../evidence/nepalgunj-mobile-flagship/nepalgunj-market-feasibility-research.md) | National and demographic signals exist; local sell-through absent | V/E/H | Collect distributor/retailer last-30-day units and customer sample |
-| 13. Local market sizing methods/data access | [Field validation plan](../evidence/nepalgunj-mobile-flagship/field-validation-and-research-marketing-plan.md), [sources register](../evidence/nepalgunj-mobile-flagship/sources-and-assumptions-register.md) | Initial methods exist | Method approved as execution plan; data open | Build data-request map for banks, customs, MDMS, distributors and surveys |
+| 12. Demand by price segment/brand/underserved segment | [Market feasibility](../evidence/nepalgunj-mobile-flagship/nepalgunj-market-feasibility-research.md) | National category and local household-access signals exist; phone/laptop research strata defined; local sell-through absent | V/E/H | Collect distributor/retailer last-30/90-day units, institutional demand and customer sample |
+| 13. Local market sizing methods/data access | [Field validation plan](../evidence/nepalgunj-mobile-flagship/field-validation-and-research-marketing-plan.md), [sources register](../evidence/nepalgunj-mobile-flagship/sources-and-assumptions-register.md) | Phone/laptop/accessory sell-through, basket, customer, institutional, service and waitlist methods defined | Method approved as execution plan; data open | Execute data requests; add bank/MDMS access constraints in EMI and border batches |
 | 14. Store differentiation/whitespace | [Value proposition](why-buy-from-k-and-s-value-proposition.md), [competitor matrix](competitor-experience-matrix.md) | Whitespace hypotheses defined | H | Rank by customer value, cost, operational difficulty and defensibility |
 | 15. Other commercial-defensibility research | This backlog | Not exhaustive | Open | Add only when a decision or risk requires it |
 
@@ -61,8 +61,8 @@ The sequence is risk-led rather than purely thematic. Existing work is updated b
 |---:|---|---|---|
 | 1 | Repository audit, research index and evidence taxonomy | Stops duplication and false certainty across every later study | **Complete — 2026-08-15** |
 | 2 | Competitor experience matrix: Nepalgunj, Kohalpur, Rupaidiha, Kathmandu and India | Tests whether proposed services are table stakes or genuine whitespace | **Desk research complete; field validation active** |
-| 3 | Nepalgunj laptop/accessory demand extension and segment sizing | Completes the existing smartphone-heavy market study | Next |
-| 4 | EMI/BNPL partner, eligibility and merchant-economics study | Financing is launch-critical and can destroy margin if subsidy/fees are misunderstood | Queued |
+| 3 | Nepalgunj laptop/accessory demand extension and segment sizing | Completes the existing smartphone-heavy market study | **Desk research complete; field validation active — 2026-08-15** |
+| 4 | EMI/BNPL partner, eligibility and merchant-economics study | Financing is launch-critical and can destroy margin if subsidy/fees are misunderstood | **Next** |
 | 5 | Official/grey/border behavior and price-gap study | Tests a central strategic threat without assuming enforcement remains constant | Queued |
 | 6 | Customer frustration and willingness-to-pay field study | Converts general hypotheses into local evidence | Field instrument partly defined; execution open |
 | 7 | Supplier credit, protection and brand-support commercial evidence | Replaces negotiation hypotheses with term sheets | Execution-dependent |
@@ -80,6 +80,7 @@ These items require real-world access and must not be marked complete from desk 
 5. Three or more written distributor term sheets and four or more bank/finance proposals.
 6. Five comparable rent quotations and the proposed-site measured survey.
 7. Ten completed service-case interviews covering warranty approval, delays, repair status, data privacy and repeat failure.
+8. Twelve institutional device-procurement interviews across education, healthcare, NGOs/INGOs and local SMEs.
 
 ## Historical-context source status
 

@@ -1,9 +1,9 @@
-# Nepalgunj Mobile Flagship Sources and Assumptions Register
+# Nepalgunj Technology Flagship Sources and Assumptions Register
 
 **Document ID:** EVD-NPJ-FLAGSHIP-006
-**Version:** 0.3.0
+**Version:** 0.4.0
 **Status:** Active research register
-**Last updated:** 2026-08-10
+**Last updated:** 2026-08-15
 
 ## Source hierarchy
 
@@ -22,11 +22,11 @@ Lower-level sources do not override higher-level evidence. Reviews, directory en
 |---|---|---|
 | Nepalgunj/Banke population | [NSO population CSV](https://censusresults.nsonepal.gov.np/files/longform-dataset/Indv01_PopulationBySex.csv) | Official 2021 population and household base |
 | Nepalgunj age profile | [NSO age CSV](https://censusresults.nsonepal.gov.np/files/longform-dataset/Indv04_PopulationByFiveYear.csv) | Official age-band calculation |
-| Household smartphone/internet | [NSO household-facilities CSV](https://censusresults.nsonepal.gov.np/files/longform-dataset/Hhld10_HouseholdFacility.csv) | 2021 local household access; not sales |
+| Household smartphone/computer/internet | [NSO household-facilities CSV](https://censusresults.nsonepal.gov.np/files/longform-dataset/Hhld10_HouseholdFacility.csv) | Official 2021 local household access: Nepalgunj 34,565 households, including 25,535 with a smartphone, 6,347 with a computer/laptop and 16,335 with home internet; installed base, not sales |
 | Lumbini ICT access | [Nepal MICS 2024–25](https://giwmscdntwo.gov.np/media/pdf_upload/Nepal%20Multiple%20Indicator%20Cluster%20Survey%202024-25_ybpuo5x.pdf) | Later province/domain evidence; not Nepalgunj-specific |
 | Living standards and poverty | [NSO NLSS-IV summary](https://data.nsonepal.gov.np/dataset/b6c3c19b-4b15-44bf-8653-1571e76dad14/resource/46e9357a-143c-4a70-98c9-c7a29aba7b70/download/nepal-living-standard-survey.pdf) | Lumbini Urban affordability context |
 | Mobile subscriptions | [NTA Ashadh 2083 indicators](https://www.nta.gov.np/uploads/contents/MIS%20_Ashadh%202083.pdf) | National subscriptions, not unique devices or local sales |
-| FY 2025/26 smartphone imports | [Rising Nepal citing Customs](https://risingnepaldaily.com/news/84130) | National import quantity/value; not retail sell-through |
+| FY 2025/26 phones, laptops, tablets and selected accessory imports | [Department of Customs statistics page](https://customs.gov.np/content/450/foreign-trade-statistics-came-208-83/) and [annual commodity workbook](https://giwmscdnone.gov.np/media/files/FTS_Upto_Ashadh_82_83_gdfkmo9.xlsx) | Primary preliminary ASYCUDA quantity, import-value and revenue data from 24 major customs offices; not retail price, quality tier or local sell-through |
 | Price-band and margin signal | [Clickmandu](https://english.clickmandu.com/2026/02/6647/) | Industry-reporting signal; retailer terms require quotation |
 | Current authorised MRPs | [FNMB price list](https://fnmba.org.np/mobile-price-in-nepal-2026) | Opening-range reference; prices/promotions can change |
 
@@ -72,9 +72,14 @@ These are first-party planning inputs recorded on 2026-08-10. They are not indep
 | Handset margin | 5.5% base | Three distributor term sheets | Commercial | Open |
 | Distributor credit/BG | NPR 60 lakh ceiling proposed | Bank and distributor documents | Founder/Finance | Open |
 | Initial handset exposure | NPR 35–42 lakh | Opening SKU purchase order | Commercial/Finance | Open |
+| Initial laptop exposure | Unapproved; selective/order-led concept only | Last-30/90-day local sell-through, three authorised quotations and approved SKU purchase order | Commercial/Finance | Open |
 | Payroll | Unapproved | Staffing plan and signed offers | People/Finance | Open |
 | Monthly phone demand | 70 by month three | Fieldwork, preorders and actual sales | Commercial | Open |
+| Monthly laptop/tablet demand | Unapproved | Comparable retailer/distributor data, institutional interviews, waitlist and actual sales | Commercial | Open |
+| Laptop effective margin | Unapproved | Three current authorised term sheets including target, demo and credit-note conditions | Commercial/Finance | Open |
 | Accessory attachment | 65% target | Pilot transaction evidence | Store Manager | Open |
+| Accessories gross margin | 35–45% planning range | Supplier invoices, shrink/DOA/warranty cost and actual transaction margin by family | Commercial/Finance | Open |
+| Accessory opening depth | Unapproved | Six-item competitor basket, local attachment evidence, supplier MOQ/rotation and SKU aging model | Commercial | Open |
 | KAMLESH Care demand | 300 year-one target | Survey, waitlist and paid members | CX/Marketing | Open |
 | Service margin | 50–70% planning range | Technician/parts contract and pilot | Service/Finance | Open |
 | Pickup/drop liability | Unapproved | Legal and insurer sign-off | CX/Legal | Open |

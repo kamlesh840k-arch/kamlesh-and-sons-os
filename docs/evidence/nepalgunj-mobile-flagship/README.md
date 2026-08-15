@@ -1,6 +1,6 @@
-# KAMLESH Mobile Flagship Project
+# KAMLESH Technology Flagship Project
 
-This folder contains the working commercial and operating blueprint for a proposed mobile-phone flagship showroom in Nepalgunj.
+This folder contains the working commercial and operating blueprint for a proposed phone-led technology flagship showroom in Nepalgunj, with selective laptops, accessories and ownership support.
 
 ## Evidence package
 
