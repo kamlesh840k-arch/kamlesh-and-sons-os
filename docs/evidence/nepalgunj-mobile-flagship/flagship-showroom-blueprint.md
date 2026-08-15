@@ -1,10 +1,12 @@
 # KAMLESH Mobile — Nepalgunj Flagship Showroom Blueprint
 
 **Document ID:** EVD-NPJ-FLAGSHIP-002
-**Version:** 0.4.0
+**Version:** 0.6.0
 **Status:** Planning evidence — quotations, field validation and approvals pending
 **Accountable owner:** Founder until site-specific owners are appointed
 **Canonical dependencies:** v0.3 Store Design, v0.4 Customer Experience, v0.6 Operations & People, v0.7 Marketing, v0.8 Finance and v1.0 Flagship Ready
+
+**Related research/model:** [Consumer demand segments and catchment](../../research/western-nepal-device-demand-segments-and-catchment.md), [Integrated market size, assortment and flagship defensibility](../../research/integrated-market-size-assortment-and-flagship-defensibility.md) and [KAMLESH Flagship Commercial Evidence Model](./KAMLESH-Flagship-Commercial-Evidence-Model.xlsx)
 
 Planning date: August 2026
 Current working footprint: approximately 60 ft long × 12 ft wide / five connected bays / approximately 720 sq ft
@@ -47,11 +49,11 @@ The recommended brand architecture is:
 
 The store should feel curated, not crowded. Every stocked model must have a defined customer, comparison and reorder rule.
 
-## 1. Funding and BG/OD guardrails
+## 1. Funding, BG and working-capital guardrails
 
 A bank guarantee is a contingent bank liability, not free capital. If the distributor calls the guarantee, the bank pays and the business owes the bank. Commission, collateral/margin requirements and documentation also apply.
 
-The founder's current facility concept is an NPR 60 lakh BG plus an NPR 40 lakh OD/loan ceiling. The intended direction is to use BG-supported authorised channels principally for approved Apple, Samsung, Nothing or similar distributor relationships, while the NPR 40 lakh facility covers fit-out, accessories, smaller-brand authorised inventory and startup needs. This is an intended structure, not a confirmed bank or distributor arrangement.
+The founder's current facility concept is an NPR 60 lakh BG plus an NPR 40 lakh cash-credit/working-capital and/or term-loan ceiling. The intended direction is to use BG-supported authorised channels principally for approved Apple, Samsung, Nothing or similar distributor relationships, while the NPR 40 lakh facility/equity mix covers eligible short-cycle inventory and operations plus separately structured longer-lived fit-out/startup needs. Nepal Rastra Bank's current framework means the exact company product and permitted uses require written bank confirmation. This is an intended ceiling, not a confirmed bank or distributor arrangement.
 
 Because the complete project is expected to be debt-funded, the safer opening structure is:
 
@@ -59,13 +61,13 @@ Because the complete project is expected to be debt-funded, the safer opening st
 - Initially utilise only approximately NPR 60–70 lakh across funded and contingent exposure.
 - Preserve NPR 30–40 lakh as undrawn capacity and liquidity protection.
 - Set the distributor BG ceiling at NPR 60 lakh, but initially limit BG-supported anchor/halo handset exposure to approximately NPR 30–35 lakh.
-- Target initial OD/loan utilisation of approximately NPR 30–35 lakh, including NPR 6–8 lakh of other authorised handset/laptop inventory, while retaining at least NPR 5–10 lakh of that line for commissioning gaps, stock replenishment and downside protection.
+- Target initial approved-facility utilisation of approximately NPR 30–35 lakh, including NPR 6–8 lakh of other authorised handset/laptop inventory, while retaining at least NPR 5–10 lakh of combined capacity/liquidity for commissioning gaps, eligible replenishment and downside protection.
 - Increase utilisation only after 30-day sell-through exceeds 70%, total handset ageing stays below 45 days and cash-flow reporting is reliable.
 
 ### Match finance to asset life
 
 - **Term loan:** durable fit-out, furniture, electrical work, AC, power backup, security and service equipment.
-- **OD/working-capital line:** accessories, approved fast-turn authorised stock, payroll cycle and operating timing gaps. Fit-out use must be explicitly permitted by the bank and repaid on a schedule suited to the asset life; otherwise use a term-loan component.
+- **Cash-credit/approved working-capital line:** eligible accessories, approved fast-turn authorised stock and operating timing gaps. Fit-out should use equity or a bank-approved term-loan component matched to asset life; obtain written permitted-use confirmation.
 - **BG:** authorised-distributor handset purchases under clearly documented credit and settlement terms.
 - Do not finance slow handset stock with a long-term loan merely to fill shelves.
 
@@ -96,7 +98,7 @@ This is a facility allocation, not an instruction to spend the full amount on da
 | K&S Care intake tools and setup/service equipment | Within NPR 40 lakh funded line | Target NPR 1–2 lakh initially |
 | Lease deposit, registration, insurance and professional fees | Within NPR 40 lakh funded line | Target NPR 2–3 lakh; lease terms TBD |
 | Pre-launch, recruitment, uniforms and training | Within NPR 40 lakh funded line | Target NPR 1.5–2.5 lakh |
-| Undrawn OD/loan protection | NPR 40 lakh line balance | Preserve at least NPR 5–10 lakh at opening |
+| Undrawn facility/liquidity protection | NPR 40 lakh combined ceiling scenario | Preserve at least NPR 5–10 lakh at opening; founder/bank approval open |
 | **Total combined ceiling** | **NPR 1 crore** | **Target initial exposure: NPR 60–70 lakh** |
 
 Every line requires two or three comparable local quotations before approval. The ranges are envelopes, not entitlements. Interior ambition must not consume the stock and cash reserve. Any supplier that cannot provide documented authenticity, warranty, price protection, rotation/return treatment and workable after-sales support starts as order-led or is excluded.
@@ -233,36 +235,33 @@ Dedicated shelf and chain-of-custody workflow for WhatsApp orders, advance order
 
 ## 5. Opening handset inventory
 
-Target approximately 120 sale units plus controlled demonstration units, with a combined opening handset cost ceiling of NPR 35–42 lakh. Within that total, plan approximately NPR 30–35 lakh of BG-supported anchor/halo stock and NPR 6–8 lakh of other authorised stock funded from the OD/loan side; the final mix must stay within the combined ceiling rather than adding both maximums mechanically.
+The earlier target of approximately 120 sale units plus controlled demonstration units, with a combined opening handset cost ceiling of NPR 35–42 lakh, is a planning hypothesis to test—not a market finding, approved allocation or purchase authority. Rebuild the opening quantity and brand mix through the canonical workbook's SKU gate using actual demand, contribution, days cover, authorised terms and downside liquidity. Within any later founder-approved total, BG-supported and other authorised stock must remain inside one combined ceiling rather than adding maximums mechanically.
 
-### Price-tier allocation
+### Price-tier research strata
 
-| Retail price band | Units | Approx. stock cost/value envelope | Rule |
-|---|---:|---:|---|
-| Below NPR 15,000 | 6 | NPR 0.8 lakh | First smartphone and severe budget |
-| NPR 15,000–20,000 | 25 | NPR 4.5 lakh | High-volume entry replacement |
-| NPR 20,000–30,000 | 48 | NPR 12 lakh | Largest core category |
-| NPR 30,000–50,000 | 25 | NPR 9.8 lakh | Upgrade and 5G step-up |
-| NPR 50,000–80,000 | 10 | NPR 6.5 lakh | Selective aspirational inventory |
-| NPR 80,000–120,000 | 2 | NPR 2 lakh | Demonstration and limited stock |
-| Above NPR 120,000 | 4 | NPR 6.4 lakh | Halo stock; most variants order-led |
-| **Total** | **120** | **Approximately NPR 42 lakh** | |
+| Retail price band | Job hypothesis | Treatment until local evidence |
+|---|---|---|
+| Below NPR 15,000 | First smartphone, secondary phone or severe budget | Test exact demand, durability, support and contribution |
+| NPR 15,000–24,999 | Value replacement | Candidate core only after comparable sell-through and funnel evidence |
+| NPR 25,000–34,999 | Feature/value step-up | Candidate core only after exact-SKU evidence |
+| NPR 35,000–49,999 | Upgrade/productivity | Shallow/order-led until repeat conversion is observed |
+| NPR 50,000–79,999 | Upper-mid/premium step-up | Demonstration/shallow stock subject to downside gate |
+| NPR 80,000–99,999 | Premium | Demonstration/order-led until repeat executable demand |
+| NPR 100,000 and above | Premium/halo/ecosystem | Demonstration and advance order unless approved evidence supports stock |
 
-The cost/value envelope must be rebuilt using actual distributor net prices, tax treatment and credit notes.
+These are field coding strata, not demand shares or an opening purchase order. Any unit/cost envelope must be rebuilt using actual demand, distributor net prices, tax treatment, credit notes, contribution, ageing and downside liquidity.
 
-### Brand capital allocation
+### Brand-role hypotheses
 
-| Brand group | Share of handset capital | Role |
-|---|---:|---|
-| Xiaomi/Redmi/Poco | 30% | Value-volume anchor |
-| Samsung | 25% | Trust, service support and full price ladder |
-| Apple | 10% | Halo and premium; advance-order led |
-| Nothing | 5% | Design/technology identity; selective |
-| Realme | 8% | Value and youth alternatives |
-| OPPO | 8% | Offline sales and camera/style buyers |
-| Vivo | 6% | Offline recognition and step-up buyers |
-| Infinix/itel | 6% | Budget and rural catchment |
-| Honor/OnePlus/other | 2% | Controlled tests only |
+| Brand group | Role to test | Allocation rule |
+|---|---|---|
+| Xiaomi/Redmi/Poco | Value/feature comparison | No percentage; pass exact-SKU gate |
+| Samsung | Broad ladder, trust and service | No percentage; pass demand, terms and service gate |
+| Apple | Ecosystem/halo/premium | Advance-order led unless repeat demand supports stock |
+| Nothing | Design/technology identity | Controlled order-led experiment |
+| Realme, OPPO and Vivo | Value, camera/style and offline alternatives | Compare actual consideration, sell-through and support |
+| Infinix/itel | Budget and wider-catchment use | Test durability, service and contribution |
+| Honor/OnePlus/other qualified brands | Controlled alternatives | No allocation without repeated local evidence |
 
 ### Core opening families
 
@@ -412,7 +411,7 @@ Publish useful conclusions and customer-facing insights, but keep confidential i
 | Obtain written quotations from at least three authorised distributors | Announce confirmed authorised brand relationships only after approval | Margin, credit period, BG terms, price protection, stock rotation, DOA and warranty comparison | Authorised-brand announcement and explanation of genuine Nepal warranty |
 | Mystery-shop six major competitors using the same 12-phone basket | Use the same basket to create neutral buying guides without naming or attacking stores | Price, stock, gifts, VAT/MDMS, EMI, trade-in and service comparison | Aggregate Nepalgunj price-range and buyer-checklist content |
 | Count traffic at Dhamboji, Setu B.K. and Pushpalal/Bus Park | Ask followers where and when they prefer to shop; invite location feedback | Counts at 10am, 2pm and 6pm over two weekdays and one Saturday | Poll results and an explanation of why accessibility, parking and service matter |
-| Interview at least 100 potential customers | Recruit volunteers through Facebook, TikTok, YouTube and WhatsApp; offer no purchase obligation | Budget, brand, EMI, trade-in, service and preferred-location dataset | Anonymous percentages, top requested services and "You asked, we designed" posts |
+| Complete the canonical customer study | Use social channels only as a minority recruitment route; complete 12 cognitive interviews, 100 controlled directional interviews and 10 service cases | Experienced friction, budget/device strata, randomized choices, evidence quality and actual-behavior follow-up | Within-sample counts/percentages with denominators and method disclosure; no population or universal WTP claim |
 | Obtain at least five actual rent quotations | Use location polls only as supporting evidence; negotiate privately | Rent, deposit, escalation, frontage, parking, fit-out period and lease-risk comparison | Final location story after the lease is signed; never publish landlord offers during negotiation |
 | Request last-30-day sales from distributors or 8–10 retailers | Approach parties privately and promise aggregation/confidentiality | Units by price band, brand and model family; source-confidence notes | Aggregated price-band demand only when permission and sample quality are adequate |
 | Build the final commercial model | Use audience questions to test assumptions and explain the store concept | Actual rent, payroll, dealer margin, credit, interest, inventory and break-even model | A simple explanation of how KAMLESH Mobile chose its range and services; do not publish sensitive costs |
@@ -425,19 +424,21 @@ Publish useful conclusions and customer-facing insights, but keep confidential i
 - Obtain participant consent before collecting survey contact information or using a photo/video testimonial.
 - Store survey identity separately from answers used in analysis.
 - Tell respondents that participation does not guarantee a discount, loan or job.
+- Follow the canonical [Customer Friction and Willingness-to-Pay Study](../../research/customer-phone-buying-experience-and-price-hypothesis.md), including cognitive pretesting, questionnaire order, exact-NPR choice cards, recruitment limits and invalid-record rules.
+- Describe the 100-person purposive sample as directional; never publish a population margin of error, market share or universal willingness-to-pay figure from it.
 - Record whether distributor and retailer sales figures are documentary, verbal or estimated.
 - Avoid combining figures from different periods without clearly labelling them.
 - The owner and accountant must approve the final model before the lease, interior contract and large inventory orders are signed.
 
 ### Suggested 100-customer survey funnel
 
-- Facebook and Instagram form responses: 35–40
-- TikTok/YouTube audience recruited interviews: 15–20
-- WhatsApp waitlist interviews: 15–20
-- In-person interviews at the three shortlisted areas: 30–35
-- Prevent duplicate responses by using a consented phone-number check or anonymous unique code.
+- Neutral in-person intercepts across varied places/days/times: at least 50
+- K&S Facebook, Instagram, TikTok, YouTube, WhatsApp and follower/waitlist routes combined: no more than 25
+- Community, campus, workplace and referral routes: up to 25, excluding K&S staff, immediate founder family and suppliers
+- Complete 12 discovery/cognitive interviews before these 100 valid main interviews; cognitive participants do not count toward 100.
+- Prevent duplicates with a consented phone-number check or anonymous unique code and report the full approach-to-valid disposition by route.
 
-Ask every participant the same core questions: current phone, expected replacement date, maximum budget, preferred brands, cash or EMI, trade-in interest, warranty concern, repair experience, preferred location, preferred shopping time and most valuable KAMLESH Care benefit.
+Use the canonical instrument rather than a generic importance list. It begins with actual recent behavior and unprompted friction, records before/during/after burden, and ends with controlled stated choices and separate follow-up consent.
 
 ### Content series created from the research
 
@@ -455,7 +456,7 @@ Before the main launch campaign begins, the project dashboard must show:
 - 3 or more complete authorised-distributor quotations
 - 6 competitors checked with the same 12-phone basket
 - 27 traffic-count sessions completed: 3 locations × 3 times × 3 days
-- 100 valid, deduplicated customer interviews
+- 12 cognitive interviews, 100 valid controlled directional interviews and 10 documented service cases
 - 5 or more comparable rent quotations
 - 8–10 retailer/distributor last-30-day sales discussions, with confidence level recorded
 - Final financial model updated with actual rent, payroll, dealer margin, credit terms, interest and planned BG utilisation
@@ -466,7 +467,7 @@ Before the main launch campaign begins, the project dashboard must show:
 - Publish three useful pieces of content per week.
 - Start with education: MDMS, warranty, choosing a budget, battery health, scam prevention and data backup.
 - Create a WhatsApp waitlist with explicit marketing consent.
-- Launch the standard 100-customer study and recruit participants through social channels and in-person interviews.
+- Launch the canonical customer study using its neutral-intercept minimum, social/waitlist cap and community-route controls.
 - Start the three-location traffic counts and the five-property rent comparison.
 - Begin authorised-distributor quotation requests and the confidential six-competitor basket audit.
 - Film the showroom build and explain the Service Lounge concept.

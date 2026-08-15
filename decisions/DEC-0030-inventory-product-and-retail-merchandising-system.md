@@ -6,7 +6,7 @@
 **Version:** 0.1.0  
 **Decision Date:** 2026-08-08  
 **Owner:** KAMLESH & SONS  
-**Related Documents:** [Founding Charter](../docs/founders-playbook/FOUNDING-CHARTER.md), [ROADMAP](../ROADMAP.md)  
+**Related Documents:** [Founding Charter](../docs/founders-playbook/FOUNDING-CHARTER.md), [ROADMAP](../ROADMAP.md), [Consumer demand segments and catchment](../docs/research/western-nepal-device-demand-segments-and-catchment.md), [Supplier credit and inventory-finance study](../docs/finance/supplier-credit-and-consignment-strategy.md), [Integrated market size, assortment and flagship defensibility](../docs/research/integrated-market-size-assortment-and-flagship-defensibility.md)
 **Related Decisions:** DEC-0027, DEC-0028, DEC-0029
 
 ---

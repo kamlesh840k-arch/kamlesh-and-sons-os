@@ -6,7 +6,7 @@
 **Version:** 0.1.0  
 **Decision Date:** 2026-08-08  
 **Owner:** KAMLESH & SONS  
-**Related Documents:** [Founding Charter](../docs/founders-playbook/FOUNDING-CHARTER.md), [ROADMAP](../ROADMAP.md)  
+**Related Documents:** [Founding Charter](../docs/founders-playbook/FOUNDING-CHARTER.md), [ROADMAP](../ROADMAP.md), [Trade-in and ownership-support economics](../docs/research/trade-in-and-ownership-support-economics.md)
 **Related Decisions:** DEC-0028, DEC-0029, DEC-0030
 
 ---

@@ -1,8 +1,8 @@
 # Nepalgunj Field Validation and Research-Led Marketing Plan
 
 **Document ID:** EVD-NPJ-FLAGSHIP-004
-**Version:** 0.2.0
-**Status:** Execution plan — no field activity marked complete
+**Version:** 0.11.0
+**Status:** DEC-0103 Stage A rehearsal complete; no live field activity marked complete
 **Accountable owner:** Founder until Research and Marketing Owners are appointed
 
 ## Purpose
@@ -16,12 +16,39 @@ Confidential distributor margins, credit limits, individual retailer sales, myst
 | Workstream | Minimum evidence | Status |
 |---|---:|---|
 | Authorised distributors | 3 complete written quotations | Open |
-| Competitors | 6 checked with one standard 12-phone basket | Open |
+| EMI/finance partners | 4 complete comparable written proposals | Open |
+| Official/grey/border channel | 30 evidence-backed recent purchases plus written Customs/NTA clarification | Open |
+| Competitors | 6 local checks with one standard 12-phone, 3-laptop and 6-accessory basket | Open |
 | Traffic | 27 sessions: 3 locations × 3 times × 3 days | Open |
-| Customers | 100 valid, deduplicated interviews | Open |
+| Customers | 12 cognitive interviews + 100 valid directional main interviews + 10 service cases | Open |
 | Properties | 5 comparable written rent quotations | Open |
 | Sell-through | 8–10 retailer/distributor discussions | Open |
+| Institutions | 12 structured device-procurement interviews using RESEARCH-INSTITUTION-001 sector/geography quotas | Desk account baseline complete; interviews open |
+| Trade-in partners | 3 comparable proposals + 8 standardized quotes + 3 supervised settlements | Open |
+| Repair/custody support | 3 workflow simulations + 2 insurer quotations + 30–50 controlled cases | Open |
 | Financial model | Actual rent, payroll, margin, credit, interest and BG terms entered | Open |
+| Integrated market model | 2 independent local demand methods + 4 weeks of origin/funnel evidence + completed contribution and SKU-assortment gates | Open |
+| Field system activation | Named roles, approved privacy/retention, reviewed Nepali version, tested tool/custody and supervised pilot | [Stage A rehearsal passed](../../research/field-evidence-stage-a-synthetic-rehearsal.md); live gates open |
+
+## Canonical field collection system
+
+Use [RESEARCH-FIELD-001](../../research/field-evidence-activation-and-data-governance-protocol.md) and the [KAMLESH Field Evidence Collection System](./KAMLESH-Field-Evidence-Collection-System.xlsx) for every customer, competitor, basket, sell-through, institution, traffic, funnel, purchase and service record. The narrative sections below define what to collect; the workbook provides the common IDs, normalized tables, evidence register, version log and completion/QA checks.
+
+- Freeze the approved English and reviewed Nepali versions before production, and log every later change.
+- Keep names, telephone numbers, emails, precise addresses, IMEI/serial identifiers and unredacted personal or confidential evidence outside this workbook and outside GitHub in the approved restricted system.
+- Link allowed evidence metadata through `evidence_id`; do not paste restricted evidence into a notes cell.
+- Review the QA dashboard daily, preserve invalid/frozen records and lock a raw snapshot before analysis.
+- DEC-0103 permits zero-cost synthetic rehearsal in a disposable copy only. Live interviews, visits, travel, incentives, document photography, commercially confidential collection or named publication still require every applicable protocol gate.
+
+## Canonical commercial evidence model
+
+Use the [KAMLESH Flagship Commercial Evidence Model](./KAMLESH-Flagship-Commercial-Evidence-Model.xlsx) for the integrated demand, capture, break-even, assortment and defensibility analysis. Retain raw interviews, source records and quotations separately; the workbook records the comparable inputs and formula outputs, not the full evidence archive.
+
+- Load every field input with source type, period, geography/category scope and evidence quality.
+- Keep Nepalgunj residents, Banke/nonresident catchment, other Nepal catchment and institutional demand separate until duplicates are controlled.
+- Build the local market range from at least two independent demand methods. Use the public pro-rata result only as a scale check.
+- Do not infer local TAM or market share from the directional 100-person customer study. It supports customer problems, segments and choice hypotheses, not population prevalence.
+- Reconcile the demand range with qualified visits, conversion, availability, contribution, staff/service capacity and opening SKU gates before founder review.
 
 ## Distributor quotation request
 
@@ -44,7 +71,19 @@ Request the same schedule from at least three authorised distributors:
 
 Record documentary, verbal and inferred items separately. No verbal protection counts as an approval condition.
 
-## Standard 12-phone mystery-shopping basket
+## EMI/BNPL proposal request
+
+Use the common legal, customer, merchant-economics, settlement, refund, data and complaint schedule in the [Nepal EMI/BNPL partner study](../../research/nepal-emi-bnpl-partner-and-merchant-economics.md). Obtain at least four complete proposals, including a locally deployed card programme, a customer-controlled conversion route, a QR/app BNPL route and a premium/product-specific route.
+
+Do not combine ordinary POS/QR acceptance with an approved K&S EMI offer. Record customer fee and merchant cost separately; “0%” or “no fee” for the customer does not prove zero cost to K&S.
+
+## Official/grey/India-border evidence
+
+Use the taxonomy, three-layer price-gap method, exact-SKU evidence fields, thirty recent-purchase audit and randomised choice test in the [official/grey/India-border study](../../research/nepal-official-grey-border-buying-and-price-gap.md). Treat MDMS, customs, invoice, authorised distribution, condition and warranty as separate fields.
+
+Do not ask a seller or traveller to evade customs, tax, MDMS or invoicing. Do not enter zero customs cost without applicable written evidence. No cross-border purchase, travel, covert recording, paid advice or named negative publication is authorised by this plan.
+
+## Standard phone, laptop and accessory mystery-shopping basket
 
 Build one current basket immediately before execution, covering:
 
@@ -56,6 +95,8 @@ Build one current basket immediately before execution, covering:
 - One Samsung premium device
 
 At six competitors, record the same fields: quoted price, stock/colour, VAT invoice, MDMS/warranty explanation, gift/bundle, EMI, trade-in, setup, delivery, repair/warranty handling and staff follow-up. Record date and time. Do not secretly record private conversations where consent is required, and do not publish named negative comparisons.
+
+Add three comparable laptops—student/value, mainstream work and premium/performance—and six accessories—case, screen protection, charger, cable, power bank and earphone/headphone. For laptops record configuration, operating-system licence, authorised warranty, DOA route, upgradeability and promised service time. For accessories record brand/authenticity, specifications, compatibility check, installation, written warranty and return terms.
 
 ## Traffic-count method
 
@@ -71,34 +112,25 @@ Minimum: 27 comparable sessions.
 
 For each 30-minute session, count pedestrians, two-wheelers stopping, people entering technology/mobile shops, observed purchases where visible, parking availability, obstruction, weather and unusual events. Do not infer sales from general traffic alone.
 
-## 100-customer interview
+## Customer-friction and willingness-to-pay fieldwork
 
-Recruit approximately:
+Use the complete screening, phone/laptop strata, event codes, questionnaire order, randomized stated-choice pilot, consent, data-quality, analysis and interpretation controls in [RESEARCH-CX-001](../../research/customer-phone-buying-experience-and-price-hypothesis.md). Apply the exact-price, unaided/considered/purchased-brand and mutually exclusive origin rules in [RESEARCH-SEGMENT-001](../../research/western-nepal-device-demand-segments-and-catchment.md). Do not create a separate shortened survey from this plan or label the directional sample as population share.
 
-- 35–40 through Facebook/Instagram forms
-- 15–20 through TikTok/YouTube calls to participate
-- 15–20 from the opted-in WhatsApp waitlist
-- 30–35 in person across the three shortlisted areas
+Sequence:
 
-Use a consented phone-number duplicate check or anonymous code. Store identity separately from survey answers.
+1. Complete 12 discovery/cognitive interviews; revise and freeze the bilingual instrument and choice blocks.
+2. Complete 100 valid directional interviews: 80 phone-intent and 20 laptop-intent across the stated budget strata.
+3. Complete 10 documented ownership/service cases and link the 30 recent-purchase audits where participants consent.
+4. After an approved executable pilot exists, compare stated choices with real quote-to-purchase, contribution, uptake and lost-sale behavior.
 
-Core questions:
+Recruitment controls:
 
-1. Current phone, age and condition
-2. Expected replacement timing
-3. Maximum budget and acceptable monthly EMI
-4. Preferred and rejected brands
-5. Cash, card, EMI or mixed payment
-6. Trade-in interest and current-device expectation
-7. Most important buying factors
-8. Warranty, authenticity and repair concerns
-9. Previous local shopping/service experience
-10. Preferred location and shopping time
-11. Delivery or pickup/drop interest
-12. Most valuable KAMLESH Care benefits
-13. Permission for future contact and channel preference
+- at least 50 neutral intercept interviews across varied places, days and times;
+- no more than 25 combined from K&S social audiences, followers and WhatsApp waitlist;
+- up to 25 through community, campus, workplace and referral routes, excluding K&S staff, immediate founder family and suppliers;
+- record approach, eligibility, consent, completion, invalid and valid counts by channel.
 
-Participation does not guarantee a discount, loan, job or stock allocation.
+Use a consented duplicate check or anonymous code and store identity separately from answers. Participation does not guarantee a discount, loan, job or stock allocation. The purposive sample is directional: public outputs may describe within-sample counts/percentages with denominators and method disclosure, but must not claim Nepalgunj population shares, margin of error or a universal willingness-to-pay number.
 
 ## Rent quotation comparison
 
@@ -121,6 +153,7 @@ Do not publish offers during negotiation.
 
 Ask 8–10 distributors or retailers privately for units by:
 
+- Category: phone, laptop, tablet and accessory family
 - Price band
 - Brand
 - Model family
@@ -130,6 +163,35 @@ Ask 8–10 distributors or retailers privately for units by:
 - Returns/DOA
 
 Label each response as documentary, system-export, verbal recall or estimate. Aggregate only comparable periods and preserve confidentiality.
+
+## Institutional device-demand interviews
+
+Use the official account-base, procurement-state rules, risk controls and commercial gates in [RESEARCH-INSTITUTION-001](../../research/western-nepal-institutional-device-demand-and-procurement.md). Complete at least twelve interviews: five education, three healthcare, two NGO/INGO and two SME/public/professional accounts, with at least eight in Nepalgunj, two in Kohalpur and two in other Banke/wider catchment. Sector and geography quotas can overlap.
+
+Use the same schedule:
+
+- Devices purchased in the last 12 months and expected in the next 12 months
+- Existing installed base, age, failure/repair backlog and replacement trigger
+- Configuration and price band
+- Budget/approval state, funding source, procurement calendar and decision owner
+- Procurement route, VAT/tender requirements, manufacturer authorization, security and acceptance tests
+- Contractual and actual payment timing, credit/financing need, delivery sites and staged-delivery requirement
+- Setup, data migration, licensing, software, security/MDM, power and network requirements
+- Warranty, repair turnaround and replacement/loaner expectations
+- Current supplier strengths, failures and reasons for switching
+
+Separate completed historical purchases, confirmed order/award, approved budget/specification, documented plan, verbal estimate and exploratory interest. Do not add institutional units to a consumer-market estimate without a visible category split and duplicate check. Institution, student, staff, facility and bed counts are account-discovery denominators—not device-unit multipliers.
+
+## Trade-in, repair concierge, pickup/drop and loaner evidence
+
+Use the structure definitions, customer quote states, inspection fields, economics and launch gates in [RESEARCH-OWNERSHIP-001](../../research/trade-in-and-ownership-support-economics.md). Do not create a separate informal valuation sheet or promise a future percentage.
+
+1. Obtain three comparable partner proposals, including the current IMS/SabKo Phone route if available in Nepalgunj. Identify the principal buyer, territory, valuation engine, settlement, re-grade, returns, data, tax, warranty and dispute owner.
+2. Mystery-shop eight devices at comparable declared condition; independently re-inspect four. Record indicative, provisional, final and settled values separately.
+3. After accountant/legal approval, run three supervised low/mid/premium settlement tests and reconcile every device, deduction, customer credit and partner payment.
+4. Obtain two insurer quotations for store custody, transit, used stock, employee dishonesty and privacy/cyber incidents, including exclusions and deductibles.
+5. Run at least three full repair-concierge simulations before a 30–50-case controlled pilot. Measure contribution, promised/actual time, estimate change, first-time resolution, repeat failure, status compliance, pickup cost and incidents.
+6. Do not launch K&S-owned used inventory, cash buyback, assured future value or a loaner pool through this plan. Each remains subject to its evidence gate and explicit founder approval.
 
 ## Research-led content series
 
@@ -178,7 +240,7 @@ The current planning target is a conditional public opening during 2–4 October
 - Open publicly only after the blueprint's red gates are signed off.
 - Use supplier-funded or margin-approved festival bundles; do not promise stock, EMI, trade-in value or gifts before written confirmation.
 - Publish live hours, appointment options, service capacity and sold-out status accurately.
-- Replenish proven sellers; do not expand BG/OD use merely because opening traffic is high.
+- Replenish proven sellers; do not expand BG/working-capital use merely because opening traffic is high.
 
 ## Handoff to the financial model
 
@@ -187,7 +249,7 @@ The final model must replace assumptions with:
 - Selected rent and lease cash flow
 - Approved staffing and payroll
 - Actual distributor net margin, incentives and credit notes
-- Bank interest, OD, term-loan and BG terms
+- Bank interest, cash-credit/working-capital, term-loan and BG terms
 - Opening inventory at distributor cost
 - Fit-out quotations
 - Insurance, tax and compliance costs

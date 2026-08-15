@@ -6,7 +6,7 @@
 **Version:** 0.1.0  
 **Decision Date:** 2026-08-08  
 **Owner:** KAMLESH & SONS  
-**Related Documents:** [ROADMAP](../ROADMAP.md)  
+**Related Documents:** [ROADMAP](../ROADMAP.md), [Trade-in and ownership-support economics](../docs/research/trade-in-and-ownership-support-economics.md), [Customer policies](../docs/evidence/nepalgunj-mobile-flagship/customer-policies-and-service-operations.md)
 **Related Decisions:** DEC-0045, DEC-0046, DEC-0048, DEC-0050, DEC-0051, DEC-0053
 
 ---

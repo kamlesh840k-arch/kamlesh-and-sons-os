@@ -15,11 +15,15 @@ Provide a navigational index for significant K&S decisions. Individual `DEC-*` f
 - Do not treat the number of DEC files as a measure of foundation completeness.
 
 ## Current Decision Record Range
-The repository contains decision records through `DEC-0101`.
+The repository contains sequential decision records through `DEC-0103`.
 
 `DEC-0100` is the v0.1 foundation integration/readiness gate.
 
 `DEC-0101` is the v0.1 foundation completion/release gate and has been accepted as the release decision for v0.1.0.
+
+`DEC-0102` establishes the canonical Founder's Playbook document set.
+
+`DEC-0103` accepts a staged field-research activation boundary: zero-cost preparation and synthetic rehearsal now, condition-gated live pilot next, and production closed pending pilot evidence and founder acceptance.
 
 ## Foundation Architecture
 The canonical v0.1 foundation set is defined in `docs/milestones/v0.1-foundation/v0.1-foundation-decision-set.md`.
@@ -48,6 +52,7 @@ Deferred decisions remain part of the historical knowledge base and should be co
 **Final release condition:** v1.0 real-world evidence gate and founder go/no-go acceptance
 
 ## Change History
+- 2026-08-15 — DEC-0103 accepted; staged field-research preparation authorised without implying live-fieldwork, spending or market approval.
 - 1.0.0-rc.2 — Reconciled roadmap masters, canonical systems, checklists and v1.0 integration gate.
 - 0.1.0 — Reconciled decision range, foundation architecture and roadmap placement.
 - 0.1.0 — DEC-0101 accepted; v0.1.0 foundation closed.

@@ -7,6 +7,7 @@
 - [`founders-playbook/`](founders-playbook/README.md) — founding principles and founder operating guidance.
 - [`roadmap/`](roadmap/README.md) — roadmap control records and long-range v2.0–v4.0 blueprints.
 - [`evidence/nepalgunj-mobile-flagship/`](evidence/nepalgunj-mobile-flagship/README.md) — site-specific Nepalgunj market research, flagship blueprint, customer-policy drafts, field-validation plan, finance/BG guardrails and source register.
+- [`research/`](research/README.md) — canonical cross-market research index, evidence taxonomy, backlog and reusable studies.
 - Root-level documents — cross-cutting decision log, consolidation registry, documentation standards and innovation vault.
 
 ## Rule

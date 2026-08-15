@@ -2,10 +2,13 @@
 
 **Document ID:** EVD-NPJ-DIST-005
 
+**Version:** 1.1
+**Last updated:** 2026-08-15
+
 ## Weeks 1–2 — establish authority
 
 - Confirm legal business name, PAN/VAT, signatory and proposed site.
-- Obtain written OD, term-loan and BG proposals; have the BG wording reviewed.
+- Obtain written cash-credit/working-capital, term-loan and BG proposals; have the BG wording reviewed.
 - Appoint the temporary distributor coordinator.
 - Contact Samsung, Xiaomi/Redmi, the official Apple supply channel, Vivo, OPPO, Realme and selected test brands.
 - Send the standard qualification request and create the contact/document register.
@@ -24,7 +27,7 @@
 - Negotiate volume anchors first.
 - Select at most one or two principal offline/value partners for opening depth.
 - Keep unproven/niche brands order-led or on small test quantities.
-- Approve brand and category inventory caps within NPR 70 lakh of planned facilities: NPR 60 lakh BG-supported distributor purchasing plus NPR 10 lakh OD.
+- Approve brand and category inventory caps within the current NPR 70 lakh planning scenario: NPR 60 lakh BG-supported distributor purchasing plus NPR 10 lakh bank-approved cash-credit/working-capital capacity.
 
 ## Weeks 5–8 — establish controls
 
@@ -51,4 +54,4 @@
 
 ## Stop conditions
 
-Delay or reduce purchasing when financing is unsigned, BG language is unacceptable, authorisation is unverified, warranty/DOA is unclear, price-protection exposure is excessive, expected sell-through exceeds payment terms, combined commitments exceed NPR 70 lakh, or planned stock use would leave insufficient OD liquidity for payments and operations.
+Delay or reduce purchasing when financing is unsigned, BG language is unacceptable, authorisation is unverified, warranty/DOA is unclear, price-protection exposure is excessive, expected sell-through exceeds payment terms, combined commitments exceed the founder-approved scenario, or planned stock use would leave insufficient eligible working-capital liquidity for payments and operations.

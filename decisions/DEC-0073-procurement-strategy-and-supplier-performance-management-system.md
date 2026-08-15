@@ -4,6 +4,7 @@
 **Status:** Accepted  
 **Version:** 0.1.0  
 **Decision Date:** 2026-08-08
+**Related Research:** [Supplier credit and inventory-finance study](../docs/finance/supplier-credit-and-consignment-strategy.md), [Brand/distributor retail-support study](../docs/research/brand-funded-retail-visibility.md)
 
 ## Decision
 

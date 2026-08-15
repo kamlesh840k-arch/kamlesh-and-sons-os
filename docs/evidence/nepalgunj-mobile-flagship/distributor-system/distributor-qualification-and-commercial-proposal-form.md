@@ -1,7 +1,8 @@
 # KAMLESH Distributor Qualification and Commercial Proposal Form
 
 **Form ID:** FRM-NPJ-DIST-001  
-**Version:** 1.0  
+**Version:** 1.1
+
 **Issued by:** Kamlesh & Sons (provisional legal name)  
 **Proposed outlet:** Nepalgunj, Banke  
 **Purpose:** Proposed authorised multi-brand mobile flagship  
@@ -142,8 +143,37 @@ KAMLESH may use an approved bank guarantee and separate working-capital faciliti
 | Treatment of disputed/defective/returned stock | |
 | Additional collateral or personal guarantee | |
 | Bank charges/amendment costs borne by | |
+| Is replenishment headroom restored by payment, sell-through report or both? | |
+| Available-limit formula and any brand/SKU sublimits | |
+| Does each invoice remain payable on its fixed due date if stock is unsold? | |
+| Cash margin, lien, security and cross-default requirements | |
+| Required insurance, audit, stock report and inspection | |
+| Early settlement discount forfeited when credit is used | |
 
 Attach the proposed BG wording and complete credit policy.
+
+## F1. Sell-through settlement or consignment, if offered
+
+Write **Not offered** unless the arrangement is supported by draft contract wording.
+
+| Term | Distributor response |
+|---|---|
+| Arrangement: sell-through settlement / consignment / other | |
+| Who owns and controls each unit before retail sale? | |
+| Exact event that creates KAMLESH's unconditional payment obligation | |
+| Settlement cycle after that event | |
+| Supplier recall/transfer right | |
+| KAMLESH return right and deadline | |
+| Deemed-sale events: activation, demo, damage, loss, reservation or other | |
+| IMEI/SKU reconciliation frequency and discrepancy process | |
+| Physical count/audit access | |
+| Theft, damage, insurance and deductible responsibility | |
+| VAT invoice and credit-note flow | |
+| Insolvency/security-interest/registry treatment | |
+| Price protection, promotion and rotation treatment | |
+| Termination and final reconciliation | |
+
+Attach the draft agreement. KAMLESH will require accountant/tax and legal review before acceptance.
 
 ## G. Price protection
 
@@ -247,8 +277,22 @@ Attach the proposed BG wording and complete credit policy.
 | Product and launch training | | | | |
 | Warranty/DOA/system training | | | | |
 | In-store launch staffing | | | | |
+| Sell-in/sell-out rebate or spiff | | | | |
+| Online/click-and-collect leads | | | | |
 
-State the reimbursement evidence, claim deadline and payment time: ____________________
+For every offered item, state the program name/version, preapproval owner, eligible period/costs, KAMLESH cash spend, invoice/photo/performance evidence, claim deadline, acknowledgement/payment time, cash versus credit note, VAT/tax, clawback, audit and dispute process: ____________________
+
+### Fixture/asset schedule
+
+State bay dimensions, approved design, cap/rate, procurement party, asset ownership, install date, landlord consent, electricity/network, maintenance, insurance, refresh, removal/restoration and early-termination liability: ____________________
+
+### Demo schedule
+
+State model/serial, live/dummy, free/loan/discount, title, activation, warranty, security, damage/theft, insurance, refresh, price protection, return, resale permission and end valuation: ____________________
+
+### Promoter schedule
+
+State legal employer, pay/benefits, hours, absence cover, hiring/supervision, training, targets, conduct, customer-neutrality, customer-data/privacy access, complaints, safety and termination: ____________________
 
 ## M. Territory and channel conflict
 

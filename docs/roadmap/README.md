@@ -36,3 +36,5 @@ Documentation development has been completed serially through v1.0. Real-world a
 - [Roadmap](../../ROADMAP.md)
 - [Decision Consolidation Registry](../decision-consolidation-registry.md)
 - [Milestone Documentation Index](../milestones/README.md)
+- [K&S Research Program](../research/README.md)
+- [Western Nepal institutional device demand and procurement](../research/western-nepal-institutional-device-demand-and-procurement.md) — a v1.0 evidence input; desk coverage does not close the live institutional-demand gate.

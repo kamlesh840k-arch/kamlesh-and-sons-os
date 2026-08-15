@@ -3,10 +3,10 @@
 **Decision ID:** DEC-0017  
 **Title:** Establish Research and Market Intelligence as a Core Business Capability  
 **Status:** Accepted  
-**Version:** 0.1.0  
+**Version:** 0.1.2
 **Decision Date:** 2026-08-08  
 **Owner:** KAMLESH & SONS  
-**Related Documents:** [Founding Charter](../docs/founders-playbook/FOUNDING-CHARTER.md), [ROADMAP](../ROADMAP.md)  
+**Related Documents:** [Founding Charter](../docs/founders-playbook/FOUNDING-CHARTER.md), [ROADMAP](../ROADMAP.md), [Research Program Index](../docs/research/README.md), [Consumer Demand Segments and Catchment](../docs/research/western-nepal-device-demand-segments-and-catchment.md), [Customer Friction and Willingness-to-Pay Study](../docs/research/customer-phone-buying-experience-and-price-hypothesis.md)
 **Related Decisions:** DEC-0002, DEC-0013, DEC-0014, DEC-0016
 
 ---

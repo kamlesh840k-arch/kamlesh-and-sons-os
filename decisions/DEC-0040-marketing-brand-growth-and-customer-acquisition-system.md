@@ -3,11 +3,12 @@
 **Decision ID:** DEC-0040  
 **Title:** Establish the KAMLESH & SONS Marketing, Brand Growth and Customer Acquisition System  
 **Status:** Accepted  
-**Version:** 0.1.0  
+**Version:** 0.2.0
 **Decision Date:** 2026-08-08  
 **Owner:** KAMLESH & SONS  
 **Related Documents:** [Founding Charter](../docs/founders-playbook/FOUNDING-CHARTER.md), [ROADMAP](../ROADMAP.md)  
 **Related Decisions:** DEC-0028, DEC-0031, DEC-0032, DEC-0033, DEC-0036, DEC-0038, DEC-0039
+**Related Research:** [Western Nepal institutional device demand and procurement](../docs/research/western-nepal-institutional-device-demand-and-procurement.md)
 
 ---
 

@@ -1,7 +1,9 @@
 # Nepalgunj Repair Network and Practical Field Check
 
 **Document ID:** EVD-NPJ-SUP-004  
+**Version:** 1.1
 **Checked:** 11 August 2026
+**Related research:** [Trade-in and ownership-support economics](../../../../research/trade-in-and-ownership-support-economics.md)
 
 ## Current assessment
 
@@ -52,3 +54,10 @@ Score 0–2 for problem explanation, price before work, time, honest part choice
 
 Ask whether they can accept regular referrals, provide an estimate before work, confirm price through WhatsApp, give normal turnaround, recheck a repeated fault, offer a regular-work rate, arrange pickup/drop and accept responsibility for loss or additional damage. Document the agreed trial; do not depend on verbal assurances for customer devices.
 
+Before appointment, obtain a written SLA covering legal identity, brand/technician authorisation, accepted jobs, diagnostic fee, genuine/alternative-parts wording, estimate variance, customer approval, turnaround by job class, parts delay, repeat-fault remedy, old-parts return, data-access method, subcontracting, custody/transport, loss/additional damage, status updates, invoice/VAT, insurance, disputes, audit and termination.
+
+For at least three supervised workflow simulations, calculate:
+
+`Case contribution = customer fee + disclosed partner commission/markup − staff/communication time − courier/pickup − payment cost − rework/refund reserve − custody/privacy incident reserve`
+
+Track promised versus actual days, first-time resolution, estimate changes, no-fault-found cases, customer approvals, reopen/repeat failure, partner rejection, unrecovered cost and status-update compliance. Do not approve a partner solely from the 20-point customer-conversation score.

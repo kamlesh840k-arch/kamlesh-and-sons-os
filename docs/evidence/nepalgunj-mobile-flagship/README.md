@@ -1,6 +1,6 @@
-# KAMLESH Mobile Flagship Project
+# KAMLESH Technology Flagship Project
 
-This folder contains the working commercial and operating blueprint for a proposed mobile-phone flagship showroom in Nepalgunj.
+This folder contains the working commercial and operating blueprint for a proposed phone-led technology flagship showroom in Nepalgunj, with selective laptops, accessories and ownership support.
 
 ## Evidence package
 
@@ -14,6 +14,17 @@ This folder contains the working commercial and operating blueprint for a propos
 - [Supply, accessories and service system](./distributor-system/supply-service/README.md) — national supplier leads, accessory sourcing, Apple display/storage and practical repair-partner checks.
 - [Sources and assumptions register](./sources-and-assumptions-register.md) — traceable sources, limitations and open evidence items.
 - [Landlord negotiation and lease-verification script](./landlord-negotiation-and-lease-verification-script.md) — a founder-ready conversation script, permission schedule and pre-signing checklist for the five-shutter site.
+- [K&S research program index](../../research/README.md) — canonical coverage map, evidence taxonomy and sequenced backlog across all flagship studies.
+- [Competitor experience matrix](../../research/competitor-experience-matrix.md) — public-evidence benchmark for Nepalgunj, Kohalpur, Rupaidiha, Kathmandu and major Indian retailers, with the field mystery-shopping protocol still open.
+- [Nepal EMI/BNPL partner and merchant-economics study](../../research/nepal-emi-bnpl-partner-and-merchant-economics.md) — current public partner routes, customer eligibility, merchant-cost risk, proposal schedule and controlled launch sequence.
+- [Official-channel, grey-market and India-border buying study](../../research/nepal-official-grey-border-buying-and-price-gap.md) — channel taxonomy, MDMS/customs/warranty baseline, matched-MRP snapshot and field evidence design.
+- [Customer phone/laptop friction and willingness-to-pay study](../../research/customer-phone-buying-experience-and-price-hypothesis.md) — cognitive pretest, directional quotas, before/during/after event instrument, randomized stated-choice pilot and behavioral-validation gates.
+- [Trade-in and ownership-support economics](../../research/trade-in-and-ownership-support-economics.md) — partner/principal structures, transparent valuation, data controls, repair concierge, pickup/drop, loaner economics and launch gates.
+- [Integrated market size, assortment and flagship defensibility](../../research/integrated-market-size-assortment-and-flagship-defensibility.md) — reconciles public scale checks with local sizing, capture, contribution, SKU gates and a testable system advantage.
+- [Western Nepal institutional device demand and procurement](../../research/western-nepal-institutional-device-demand-and-procurement.md) — official school/health account baseline, local tender evidence, procurement-state taxonomy, twelve-account protocol and institutional commercial gates.
+- [KAMLESH Flagship Commercial Evidence Model](./KAMLESH-Flagship-Commercial-Evidence-Model.xlsx) — controlled workbook for source-labelled field inputs, triangulated market ranges, funnel/break-even tests, SKU opening gates and defensibility evidence.
+- [Field evidence activation and data-governance protocol](../../research/field-evidence-activation-and-data-governance-protocol.md) — common identifiers, consent/contact separation, translation/version control, evidence custody, daily QA and analysis handoff.
+- [KAMLESH Field Evidence Collection System](./KAMLESH-Field-Evidence-Collection-System.xlsx) — normalized 18-sheet raw-data, evidence-register and completion-control workbook; it is blank and does not authorize live collection.
 
 ## Governance
 

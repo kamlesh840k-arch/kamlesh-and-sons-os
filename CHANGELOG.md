@@ -10,6 +10,40 @@ The project follows [Semantic Versioning](https://semver.org/).
 
 - K&S Care service promise and customer-service playbook, including a consent-based setup and data-transfer procedure.
 - Partner-led EMI operating model covering transparent customer disclosure, K&S/partner responsibilities, privacy, reconciliation and the approval gate.
+- Canonical research-program index, evidence taxonomy, coverage audit and sequenced backlog.
+- Competitor experience matrix for Nepalgunj, Kohalpur, Rupaidiha, Kathmandu and major Indian retailers, including a standardized mystery-shopping scorecard.
+- Nepal EMI/BNPL partner, eligibility and merchant-economics study covering current bank/card/app routes, local deployment evidence, cost sensitivity, proposal requirements and launch sequencing.
+- Official-channel, grey-market and India-border buying study covering channel definitions, MDMS/customs/warranty evidence, formal India-origin imports, a matched-MRP snapshot and field-validation methods.
+- Canonical phone/laptop customer-friction and willingness-to-pay instrument covering cognitive pretesting, directional sampling, before/during/after event coding, randomized stated-choice controls and behavioral-validation gates.
+- Nepal supplier-credit, consignment and inventory-finance study covering current NRB working-capital boundaries, structure taxonomy, BG/security and consignment schedules, due-date economics, price protection, rotation and approval gates.
+- Brand/distributor retail-support study covering fixtures, demos, MDF, promoters, rebates, training, claim realisation, space/exit economics and Nepal evidence requirements.
+- Formula-driven distributor operating workbook with proposal comparison, term economics, purchases, claims, price-protection, brand-support and exception-control sheets.
+- Trade-in and ownership-support economics study covering partner/principal structures, transparent valuation, title/fraud/data/tax controls, repair concierge, pickup/drop, loaner pools and assured-buyback liabilities.
+- Integrated Nepalgunj market-size, assortment and flagship-defensibility study connecting public scale checks, five local sizing methods, store capture, contribution, SKU gates and a testable Decision-to-Ownership Confidence System.
+- Formula-driven KAMLESH Flagship Commercial Evidence Model separating public inputs, field evidence, market triangulation, funnel/break-even, SKU assortment and defensibility gates without implying founder approval.
+- Field evidence activation and data-governance protocol covering non-identifying IDs, voluntary consent, contact separation, translation/version control, evidence custody, access classes, daily QA and analysis handoff.
+- Formula-driven 18-sheet KAMLESH Field Evidence Collection System for approach disposition, customer/friction/choice records, competitor and price baskets, sell-through, institutions, traffic, funnel, purchase/service cases, evidence custody and completion controls.
+- Western Nepal institutional device-demand and procurement study covering official Banke/Nepalgunj/Kohalpur education and health account bases, local tender evidence, procurement states, twelve-account field protocol, commercial gates and exposure controls.
+- Western Nepal consumer device-demand and catchment study covering official ICT access/use, affordability and local segment frames; exact price/brand/origin field protocols; and explicit premium/underserved evidence gates.
+- Accepted DEC-0103 staged field-research activation boundary, authorising zero-cost synthetic rehearsal while keeping live and production research behind named-owner, privacy/legal, technology, safety, budget and pilot gates.
+- Completed the DEC-0103 Stage A synthetic rehearsal across linked field tables and QA controls; duplicate/evidence-review alerts and checked derived formulas passed, the synthetic copy was destroyed, and the canonical workbook remained blank.
+
+### Changed
+
+- Extended the Nepalgunj market study from smartphones into laptops, tablets and accessories using official FY 2082/83 customs data, local census access indicators and explicit field-validation gates.
+- Expanded the local evidence plan with a three-laptop/six-accessory competitor basket and twelve institutional device-procurement interviews.
+- Strengthened the EMI operating model with separate offer lanes, merchant-cost controls, offer-version records and explicit licensing/contribution gates.
+- Replaced the blanket border-price assumption with exact-SKU, lawful-acquisition and ownership-protection comparisons, plus evidence-backed buyer and service-case research requirements.
+- Replaced the social/waitlist-heavy customer funnel and informal 0–3% premium question with controlled recruitment, exact-NPR randomized choices, non-probability disclosure and real-conversion validation.
+- Corrected company “OD” planning language to cash-credit/approved working-capital or term-loan structures pending written bank confirmation, and separated revolving supplier limits from sell-through settlement and true consignment.
+- Expanded the distributor proposal and control procedures so unreceived support cannot fund downside cash and weighted scores cannot override title, guarantee/security, due-date or customer-experience gates.
+- Reframed launch trade-in as a conditional partner-principal pilot and added written service SLA, custody, sanitization, route-cost, insurance and serialized-loaner controls without approving used inventory or future-value guarantees.
+- Reclassified the 70-phone month-three target, approximately 1,070-phone year-one target, 120-unit opening table and brand percentages as explicit model hypotheses requiring local demand, funnel, contribution and exact-SKU evidence.
+- Replaced the generic “start fieldwork” backlog with one governed execution system that keeps identifiers and restricted evidence out of GitHub, separates instrument versions and consent types, and prevents workbook completion from becoming a market claim or founder decision.
+- Replaced the undifferentiated institutional-demand assumption with sector/geography quotas and separate completed, confirmed, documented-plan, verbal and exploratory states; institution/student/facility counts are now explicitly prohibited as device-unit multipliers.
+- Reclassified the NPR 15,000–35,000 “strongest band,” sub-NPR-30,000 centre of gravity and brand-percentage table as hypotheses/field inputs; public access, poverty, customs and census data are now explicitly prohibited as local price-band, brand-share, premium-demand or catchment proof.
+- Replaced the single open/closed fieldwork status with Stage A preparation, condition-gated Stage B Nepalgunj pilot and separately approved Stage C production; synthetic records are explicitly excluded from evidence and the canonical workbook.
+- Renamed the workbook's ambiguous `FIELD EXECUTION OPEN` state to `QA OPEN` and added an explicit not-authorisation boundary on the cover, protocol summary, dashboard and Version Register.
 
 ## [1.0.0-rc.2] — Roadmap Documentation Integration
 

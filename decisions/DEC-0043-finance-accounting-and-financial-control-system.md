@@ -6,7 +6,7 @@
 **Version:** 0.1.0  
 **Decision Date:** 2026-08-08  
 **Owner:** KAMLESH & SONS  
-**Related Documents:** [ROADMAP](../ROADMAP.md)  
+**Related Documents:** [ROADMAP](../ROADMAP.md), [Trade-in and ownership-support economics](../docs/research/trade-in-and-ownership-support-economics.md)
 **Related Decisions:** DEC-0036, DEC-0038, DEC-0039, DEC-0040, DEC-0041, DEC-0042
 
 ---
