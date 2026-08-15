@@ -3,10 +3,11 @@
 **Decision ID:** DEC-0018  
 **Title:** Establish the Official-Distribution Product Strategy  
 **Status:** Accepted  
-**Version:** 0.1.0  
+**Version:** 0.1.1<br>
 **Decision Date:** 2026-08-08  
 **Owner:** KAMLESH & SONS  
 **Related Documents:** [Founding Charter](../docs/founders-playbook/FOUNDING-CHARTER.md), [ROADMAP](../ROADMAP.md)  
+**Current Research Evidence:** [Official-Channel, Grey-Market and India-Border Buying Study](../docs/research/nepal-official-grey-border-buying-and-price-gap.md)<br>
 **Related Decisions:** DEC-0002, DEC-0006, DEC-0009, DEC-0013, DEC-0017
 
 ---

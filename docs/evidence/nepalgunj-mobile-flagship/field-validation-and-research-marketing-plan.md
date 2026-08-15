@@ -1,7 +1,7 @@
 # Nepalgunj Field Validation and Research-Led Marketing Plan
 
 **Document ID:** EVD-NPJ-FLAGSHIP-004
-**Version:** 0.4.0
+**Version:** 0.5.0
 **Status:** Execution plan — no field activity marked complete
 **Accountable owner:** Founder until Research and Marketing Owners are appointed
 
@@ -17,6 +17,7 @@ Confidential distributor margins, credit limits, individual retailer sales, myst
 |---|---:|---|
 | Authorised distributors | 3 complete written quotations | Open |
 | EMI/finance partners | 4 complete comparable written proposals | Open |
+| Official/grey/border channel | 30 evidence-backed recent purchases plus written Customs/NTA clarification | Open |
 | Competitors | 6 local checks with one standard 12-phone, 3-laptop and 6-accessory basket | Open |
 | Traffic | 27 sessions: 3 locations × 3 times × 3 days | Open |
 | Customers | 100 valid, deduplicated interviews | Open |
@@ -51,6 +52,12 @@ Record documentary, verbal and inferred items separately. No verbal protection c
 Use the common legal, customer, merchant-economics, settlement, refund, data and complaint schedule in the [Nepal EMI/BNPL partner study](../../research/nepal-emi-bnpl-partner-and-merchant-economics.md). Obtain at least four complete proposals, including a locally deployed card programme, a customer-controlled conversion route, a QR/app BNPL route and a premium/product-specific route.
 
 Do not combine ordinary POS/QR acceptance with an approved K&S EMI offer. Record customer fee and merchant cost separately; “0%” or “no fee” for the customer does not prove zero cost to K&S.
+
+## Official/grey/India-border evidence
+
+Use the taxonomy, three-layer price-gap method, exact-SKU evidence fields, thirty recent-purchase audit and randomised choice test in the [official/grey/India-border study](../../research/nepal-official-grey-border-buying-and-price-gap.md). Treat MDMS, customs, invoice, authorised distribution, condition and warranty as separate fields.
+
+Do not ask a seller or traveller to evade customs, tax, MDMS or invoicing. Do not enter zero customs cost without applicable written evidence. No cross-border purchase, travel, covert recording, paid advice or named negative publication is authorised by this plan.
 
 ## Standard phone, laptop and accessory mystery-shopping basket
 

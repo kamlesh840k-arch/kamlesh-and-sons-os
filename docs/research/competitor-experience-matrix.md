@@ -2,7 +2,7 @@
 
 **Document ID:** RESEARCH-COMP-001
 
-**Version:** 0.1.1
+**Version:** 0.2.0
 
 **Status:** Desk-research baseline complete — mystery shopping and field validation open
 
@@ -10,7 +10,7 @@
 
 **Research date:** 2026-08-15
 
-**Related research:** [Research index](README.md), [phone-buying experience](customer-phone-buying-experience-and-price-hypothesis.md), [K&S value proposition](why-buy-from-k-and-s-value-proposition.md), [Nepalgunj feasibility](../evidence/nepalgunj-mobile-flagship/nepalgunj-market-feasibility-research.md), [Nepal EMI/BNPL partner and merchant economics](nepal-emi-bnpl-partner-and-merchant-economics.md)
+**Related research:** [Research index](README.md), [phone-buying experience](customer-phone-buying-experience-and-price-hypothesis.md), [K&S value proposition](why-buy-from-k-and-s-value-proposition.md), [Nepalgunj feasibility](../evidence/nepalgunj-mobile-flagship/nepalgunj-market-feasibility-research.md), [Nepal EMI/BNPL partner and merchant economics](nepal-emi-bnpl-partner-and-merchant-economics.md), [official/grey/India-border channel study](nepal-official-grey-border-buying-and-price-gap.md)
 
 **Related decisions:** DEC-0006, DEC-0009, DEC-0016, DEC-0018, DEC-0039, DEC-0054, DEC-0092, DEC-0093
 
@@ -103,6 +103,8 @@ Sources: [Arman Mobile Shop listing](https://www.justdial.com/Bahraich/Arman-Mob
 6. What happens for DOA, return or repair after the buyer crosses the border?
 
 The answers are legal/commercial facts to verify; the matrix does not make a legal conclusion.
+
+Use the evidence definitions, same-SKU price-gap formula and customs/warranty controls in the [official/grey/India-border study](nepal-official-grey-border-buying-and-price-gap.md). An Indian GST invoice, MDMS result and Nepal authorised-distributor warranty are separate evidence fields.
 
 ## Kathmandu benchmark matrix
 
@@ -237,7 +239,7 @@ Use the existing 12-phone basket and add:
 - one premium/gaming laptop above NPR 130,000;
 - six accessories: original charger, certified cable, case, screen protector, TWS earbuds and power bank.
 
-For Rupaidiha, record INR and calculate NPR only with a dated exchange-rate source; separately record travel, lawful import/registration and warranty-territory implications.
+For Rupaidiha, record INR and calculate NPR only with a dated NRB selling rate. Keep headline price, lawful acquisition cash cost and the ownership-protection ledger separate as specified in the [channel study](nepal-official-grey-border-buying-and-price-gap.md); do not assume customs cost is zero.
 
 ### Two scenarios per store
 
@@ -305,3 +307,4 @@ Record `not offered`, `claimed`, `shown`, `documented` and `successfully tested`
 2. Extend the Nepalgunj market study for laptops and accessories.
 3. Obtain comparable written partner proposals and run the controlled checks specified in the completed [Nepal EMI/BNPL desk study](nepal-emi-bnpl-partner-and-merchant-economics.md).
 4. Run local customer interviews and ten service-case interviews using the friction hypotheses above.
+5. Execute the thirty recent-purchase audits and written Jamunaha Customs/NTA checks in the completed [official/grey/India-border desk study](nepal-official-grey-border-buying-and-price-gap.md).

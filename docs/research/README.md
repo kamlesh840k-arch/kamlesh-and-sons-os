@@ -2,7 +2,7 @@
 
 **Document ID:** RESEARCH-INDEX-001
 
-**Version:** 0.3.0
+**Version:** 0.4.0
 
 **Status:** Active canonical index and backlog
 
@@ -41,7 +41,7 @@ Historical conversation notes and planning files can shape research questions, b
 | 2. Nepalgunj/Kohalpur/Rupaidiha/Kathmandu competitors | [Competitor experience matrix](competitor-experience-matrix.md) | Desk-research baseline complete; field execution open | V/P/S plus open fieldwork | Complete standardized mystery shops and price basket |
 | 3. Indian premium/mobile retail benchmark | [Competitor experience matrix](competitor-experience-matrix.md) | Croma, Reliance Digital/resQ, Vijay Sales, Sangeetha, Poorvika and Value Plus baseline complete | Predominantly P from official retailer pages | Validate store execution and unit economics through interviews/visits |
 | 4. Customer frustrations before/during/after purchase | [Phone-buying experience](customer-phone-buying-experience-and-price-hypothesis.md), [value proposition](why-buy-from-k-and-s-value-proposition.md) | Journey and ten core uncertainty themes defined | Literature signals plus H | Run 100-customer local study and service-case interviews |
-| 5. Official vs grey vs India-border behavior | [DEC-0018](../../decisions/DEC-0018-official-vs-grey-market-product-strategy.md), [market feasibility](../evidence/nepalgunj-mobile-flagship/nepalgunj-market-feasibility-research.md) | Strategic preference and border risk identified | D/V/S/H mixed | Measure price gaps, volumes, buyer motivations and enforcement sensitivity |
+| 5. Official vs grey vs India-border behavior | [Channel and price-gap study](nepal-official-grey-border-buying-and-price-gap.md), [DEC-0018](../../decisions/DEC-0018-official-vs-grey-market-product-strategy.md), [market feasibility](../evidence/nepalgunj-mobile-flagship/nepalgunj-market-feasibility-research.md) | Channel taxonomy, MDMS/customs/warranty baseline, formal India-origin evidence, initial matched-MRP snapshot and field method complete | V/P/S/E/H plus D boundary | Execute same-day basket, 30 recent-purchase audits, authority checks and 100-customer choice test |
 | 6. EMI/BNPL | [Partner and merchant-economics study](nepal-emi-bnpl-partner-and-merchant-economics.md), [DEC-0016](../../decisions/DEC-0016-financing-and-emi-strategy.md), [operating model](../milestones/v0.8-finance/v0.8-emi-partner-operating-model.md) | Current public bank/card/app routes, eligibility, fee signals, merchant sensitivity, proposal schedule and launch gate documented | V/P/E/H plus D boundary | Obtain four written proposals and execute supervised settlement/refund tests |
 | 7. Supplier credit/consignment/inventory finance | [Supplier strategy](../finance/supplier-credit-and-consignment-strategy.md), [distributor system](../evidence/nepalgunj-mobile-flagship/distributor-system/README.md) | Negotiation framework and controls complete | H/D boundaries clear | Obtain term sheets and compare effective economics |
 | 8. Brand/distributor retail support | [Brand-funded visibility](brand-funded-retail-visibility.md), [proposal form](../evidence/nepalgunj-mobile-flagship/distributor-system/distributor-qualification-and-commercial-proposal-form.md) | Support types and negotiation questions defined | P/H | Obtain 2026 Nepal program terms by brand |
@@ -63,8 +63,8 @@ The sequence is risk-led rather than purely thematic. Existing work is updated b
 | 2 | Competitor experience matrix: Nepalgunj, Kohalpur, Rupaidiha, Kathmandu and India | Tests whether proposed services are table stakes or genuine whitespace | **Desk research complete; field validation active** |
 | 3 | Nepalgunj laptop/accessory demand extension and segment sizing | Completes the existing smartphone-heavy market study | **Desk research complete; field validation active — 2026-08-15** |
 | 4 | EMI/BNPL partner, eligibility and merchant-economics study | Financing is launch-critical and can destroy margin if subsidy/fees are misunderstood | **Desk research complete; partner proposals and pilot open — 2026-08-15** |
-| 5 | Official/grey/border behavior and price-gap study | Tests a central strategic threat without assuming enforcement remains constant | **Next** |
-| 6 | Customer frustration and willingness-to-pay field study | Converts general hypotheses into local evidence | Field instrument partly defined; execution open |
+| 5 | Official/grey/border behavior and price-gap study | Tests a central strategic threat without assuming enforcement remains constant | **Desk research complete; field and authority validation open — 2026-08-15** |
+| 6 | Customer frustration and willingness-to-pay field study | Converts general hypotheses into local evidence | **Next; field instrument partly defined** |
 | 7 | Supplier credit, protection and brand-support commercial evidence | Replaces negotiation hypotheses with term sheets | Execution-dependent |
 | 8 | Trade-in, service concierge, pickup/drop and loaner unit economics | Determines which ownership services can launch safely | Queued after partner evidence |
 | 9 | Integrated market size, assortment and flagship defensibility synthesis | Produces the decision input for founder go/no-go | Blocked on preceding evidence |
@@ -82,6 +82,8 @@ These items require real-world access and must not be marked complete from desk 
 7. Ten completed service-case interviews covering warranty approval, delays, repair status, data privacy and repeat failure.
 8. Twelve institutional device-procurement interviews across education, healthcare, NGOs/INGOs and local SMEs.
 9. Supervised EMI/BNPL authorisation, settlement, cancellation and refund tests before any public offer.
+10. Thirty evidence-backed recent phone/laptop purchases, including invoice/payment, exact SKU, channel, MDMS/warranty understanding and outcome where consent permits.
+11. Written current Jamunaha Customs/NTA clarification plus the randomised official/parallel/India choice test embedded in the 100-customer study.
 
 ## Historical-context source status
 

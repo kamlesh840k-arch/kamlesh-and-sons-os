@@ -1,7 +1,7 @@
 # Nepalgunj Phone, Laptop and Accessories Market Feasibility Research
 
 **Document ID:** EVD-NPJ-FLAGSHIP-001  
-**Version:** 0.2.0
+**Version:** 0.3.0
 **Research date:** 2026-08-15
 **Status:** Desk-research evidence — local sell-through, quotations and fieldwork pending  
 **Accountable owner:** Founder until Research/Commercial Owner is appointed
@@ -156,7 +156,9 @@ Existing stores already advertise broad brand availability, accessories, EMI and
 
 Nepalgunj buyers can compare with Rupaidiha and informal channels. Strict customs enforcement at Jamunaha in April 2026 reduced cross-border shopping and benefited formal Nepali trade, but enforcement intensity can change. The business must compete through authorised stock, clear warranty, service and trust rather than assuming the border advantage will persist.
 
-NTA states that buying or selling an unregistered mobile device is illegal. Every received and sold device must be traceable through supplier invoice, IMEI/serial record and MDMS validation.
+The [canonical channel and price-gap study](../../research/nepal-official-grey-border-buying-and-price-gap.md) separates authorised Nepal supply, lawful personal import, parallel/grey stock and non-compliant or misrepresented goods. NTA states that buying or selling an unregistered mobile device is illegal, but MDMS alone does not prove authorised sourcing, Nepal VAT invoice, condition or local warranty. Every K&S device must pass all of those controls separately.
+
+Its initial official-MRP snapshot found India materially cheaper for two matched iPhones while Nepal's published MRP was lower for three matched Galaxy S26 variants. The result is a dated desk signal, not a local cash-price conclusion. K&S must monitor exact SKUs and compare headline price, lawful acquisition cash cost and ownership protection separately.
 
 ## Store positioning
 

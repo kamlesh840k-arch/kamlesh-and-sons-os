@@ -1,7 +1,7 @@
 # Nepalgunj Technology Flagship Sources and Assumptions Register
 
 **Document ID:** EVD-NPJ-FLAGSHIP-006
-**Version:** 0.5.0
+**Version:** 0.6.0
 **Status:** Active research register
 **Last updated:** 2026-08-15
 
@@ -27,6 +27,8 @@ Lower-level sources do not override higher-level evidence. Reviews, directory en
 | Living standards and poverty | [NSO NLSS-IV summary](https://data.nsonepal.gov.np/dataset/b6c3c19b-4b15-44bf-8653-1571e76dad14/resource/46e9357a-143c-4a70-98c9-c7a29aba7b70/download/nepal-living-standard-survey.pdf) | Lumbini Urban affordability context |
 | Mobile subscriptions | [NTA Ashadh 2083 indicators](https://www.nta.gov.np/uploads/contents/MIS%20_Ashadh%202083.pdf) | National subscriptions, not unique devices or local sales |
 | FY 2025/26 phones, laptops, tablets and selected accessory imports | [Department of Customs statistics page](https://customs.gov.np/content/450/foreign-trade-statistics-came-208-83/) and [annual commodity workbook](https://giwmscdnone.gov.np/media/files/FTS_Upto_Ashadh_82_83_gdfkmo9.xlsx) | Primary preliminary ASYCUDA quantity, import-value and revenue data from 24 major customs offices; not retail price, quality tier or local sell-through |
+| INR conversion | [NRB daily foreign-exchange rate](https://www.nrb.org.np/forex/) | Use the dated INR selling rate for buyer-cost comparisons; retain the capture date |
+| Nepal/India matched MRP baseline | [FNMB Nepal list](https://fnmba.org.np/mobile-price-in-nepal-2026), [Samsung India S26 pricing](https://news.samsung.com/in/samsung-india-launches-its-most-advanced-ai-phone-the-galaxy-s26-series-pre-order-now-for-exciting-offers), [Apple India iPhone 17](https://www.apple.com/in/shop/buy-iphone/iphone-17) and [iPhone 17e](https://www.apple.com/in/newsroom/2026/03/apple-introduces-iphone-17e/) | Dated public-list-price snapshot; not Nepalgunj/Rupaidiha cash price, lawful landed cost or warranty equivalence |
 | Price-band and margin signal | [Clickmandu](https://english.clickmandu.com/2026/02/6647/) | Industry-reporting signal; retailer terms require quotation |
 | Current authorised MRPs | [FNMB price list](https://fnmba.org.np/mobile-price-in-nepal-2026) | Opening-range reference; prices/promotions can change |
 
@@ -38,7 +40,9 @@ Lower-level sources do not override higher-level evidence. Reviews, directory en
 | Samsung service | [IMS Care](https://imsgroup.com.np/venture/ims-care-samsung) | Official network/location reference |
 | Xiaomi service expansion | [Business 360 report](https://www.b360nepal.com/detail/27798/xiaomi-expands-after-sales-network-with-new-service-centres-in-nepalgunj-and-dang) | Company-announcement reporting; verify live scope |
 | Border enforcement | [Kathmandu Post, 2026-04-27](https://kathmandupost.com/national/2026/04/27/strict-customs-enforcement-empties-border-markets) | Current enforcement signal; policy intensity may change |
-| MDMS | [NTA MDMS portal](https://mdms.nta.gov.np/public?lang=en) | Official registration/legality requirements |
+| Passenger personal goods | [Department of Customs 2082 notice](https://www.customs.gov.np/content/161/notifications-related-to-goods-and-revenue-execution/) and [TIA current FAQ](https://tiairport.com.np/public/index.php/faq/en) | Official published baseline; does not establish current Jamunaha land-border process or commercial resale entitlement |
+| MDMS | [NTA MDMS portal](https://mdms.nta.gov.np/public?lang=en) and [MDMS Bylaw 2075](https://nta.gov.np/uploads/contents/MDMS_Bylaw_2075.pdf) | Official device-registration/import-control requirements; MDMS status alone does not prove Nepal authorised distribution, VAT invoice, condition or local warranty |
+| Warranty territoriality | [Apple limited warranty](https://www.apple.com/legal/warranty/products/ios-warranty-row-english.html), [Samsung India warranty](https://www.samsung.com/in/support/warranty/) and [Dell ownership/service transfer](https://www.dell.com/support/kbdoc/en-us/000125103/ownership-transfer-and-dell-product-registration-guides) | Product/serial entitlement must be verified; do not make blanket international/no-warranty claims |
 | PAN/VAT guidance | [IRD FAQ](https://ird.gov.np/faq/?gid=96) | Registration guidance; obtain qualified current advice |
 | Consumer protection | [Consumer Protection Act](https://doc.gov.np/content/39/consumer-protection-act--2075/) | Policy/legal baseline; lawyer review required |
 | Dashain 2083 timing | [Ministry of Home Affairs public-holiday notice](https://moha.gov.np/en/page/government-and-public-holidays-in-2083) | Official holiday-calendar basis for the 2026 pre-Dashain critical path; recheck if the government revises the notice |
@@ -81,6 +85,10 @@ These are first-party planning inputs recorded on 2026-08-10. They are not indep
 | EMI merchant cost/subsidy | Unknown; “0%” is not treated as zero merchant cost | Signed schedule separating MDR, EMI fee/subsidy, co-funding, tax and clawback by offer | Finance | Open |
 | EMI settlement/refund | Unknown | Test authorisation, settlement, cancellation and refund plus signed SLA/accounting flow | Finance/Operations | Open |
 | EMI approval/conversion | No Nepalgunj rate assumed | Partner data or controlled pilot split by route without unnecessary customer decision data | Commercial/Finance | Open |
+| Nepalgunj official/grey/India purchase share | Unknown; no public local share assumed | Thirty evidence-backed recent purchases plus a larger representative study if a market-share estimate is required | Research | Open |
+| India-border price advantage | No universal percentage; initial matched MRP results vary by brand/SKU | Same-day exact-SKU basket with dated NRB rate, executable offers and lawful acquisition costs | Commercial/Research | Open |
+| Jamunaha customs/MDMS process | Current written land-border treatment unverified | Written Customs/NTA response and qualified legal/tax review | Legal/Compliance | Open |
+| Imported-device warranty/service cost | Unknown | Serial-specific entitlement checks and ten documented cross-channel service cases | Service/Research | Open |
 | Accessory attachment | 65% target | Pilot transaction evidence | Store Manager | Open |
 | Accessories gross margin | 35–45% planning range | Supplier invoices, shrink/DOA/warranty cost and actual transaction margin by family | Commercial/Finance | Open |
 | Accessory opening depth | Unapproved | Six-item competitor basket, local attachment evidence, supplier MOQ/rotation and SKU aging model | Commercial | Open |
