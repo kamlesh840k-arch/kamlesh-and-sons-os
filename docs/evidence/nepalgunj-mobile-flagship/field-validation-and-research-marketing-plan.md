@@ -1,7 +1,7 @@
 # Nepalgunj Field Validation and Research-Led Marketing Plan
 
 **Document ID:** EVD-NPJ-FLAGSHIP-004
-**Version:** 0.6.1
+**Version:** 0.7.0
 **Status:** Execution plan — no field activity marked complete
 **Accountable owner:** Founder until Research and Marketing Owners are appointed
 
@@ -24,6 +24,8 @@ Confidential distributor margins, credit limits, individual retailer sales, myst
 | Properties | 5 comparable written rent quotations | Open |
 | Sell-through | 8–10 retailer/distributor discussions | Open |
 | Institutions | 12 structured device-procurement interviews | Open |
+| Trade-in partners | 3 comparable proposals + 8 standardized quotes + 3 supervised settlements | Open |
+| Repair/custody support | 3 workflow simulations + 2 insurer quotations + 30–50 controlled cases | Open |
 | Financial model | Actual rent, payroll, margin, credit, interest and BG terms entered | Open |
 
 ## Distributor quotation request
@@ -153,6 +155,17 @@ Complete at least twelve interviews across schools/campuses, hospitals/clinics, 
 - Current supplier strengths, failures and reasons for switching
 
 Separate written procurement records from verbal estimates. Do not add institutional units to a consumer-market estimate without a visible category split and duplicate check.
+
+## Trade-in, repair concierge, pickup/drop and loaner evidence
+
+Use the structure definitions, customer quote states, inspection fields, economics and launch gates in [RESEARCH-OWNERSHIP-001](../../research/trade-in-and-ownership-support-economics.md). Do not create a separate informal valuation sheet or promise a future percentage.
+
+1. Obtain three comparable partner proposals, including the current IMS/SabKo Phone route if available in Nepalgunj. Identify the principal buyer, territory, valuation engine, settlement, re-grade, returns, data, tax, warranty and dispute owner.
+2. Mystery-shop eight devices at comparable declared condition; independently re-inspect four. Record indicative, provisional, final and settled values separately.
+3. After accountant/legal approval, run three supervised low/mid/premium settlement tests and reconcile every device, deduction, customer credit and partner payment.
+4. Obtain two insurer quotations for store custody, transit, used stock, employee dishonesty and privacy/cyber incidents, including exclusions and deductibles.
+5. Run at least three full repair-concierge simulations before a 30–50-case controlled pilot. Measure contribution, promised/actual time, estimate change, first-time resolution, repeat failure, status compliance, pickup cost and incidents.
+6. Do not launch K&S-owned used inventory, cash buyback, assured future value or a loaner pool through this plan. Each remains subject to its evidence gate and explicit founder approval.
 
 ## Research-led content series
 

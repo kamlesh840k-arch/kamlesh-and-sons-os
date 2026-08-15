@@ -1,12 +1,12 @@
 # KAMLESH Mobile — Customer Policies and Service Operations
 
 **Document ID:** EVD-NPJ-FLAGSHIP-003  
-**Version:** 0.1.0  
+**Version:** 0.2.0
 **Status:** Operating draft — legal, tax, distributor, privacy and insurer review required before publication  
 **Accountable owner:** Founder until Customer Experience and Service Owners are appointed  
 **Canonical dependencies:** v0.4 Customer Experience, v0.5 AI & Technology, v0.6 Operations & People, v0.7 Marketing, v0.8 Finance and v1.0 Flagship Ready
 
-These policies are designed for authorised Nepal-market devices. Brand warranty rules and mandatory rights under Nepal law take priority where they provide the customer greater protection.
+These policies are designed for authorised Nepal-market devices. Brand warranty rules and mandatory rights under Nepal law take priority where they provide the customer greater protection. Trade-in, pickup/drop and loaner terms remain conditional on the gates in [RESEARCH-OWNERSHIP-001](../../research/trade-in-and-ownership-support-economics.md).
 
 ## 1. Proof provided with every handset
 
@@ -121,6 +121,24 @@ The Service Lounge is a visible customer area, not a hidden repair counter. It p
 
 The Service Lounge must display a menu showing which services are free, member benefits, chargeable services and estimated turnaround times.
 
+### 5.1 Trade-in and exchange — conditional pilot policy
+
+KAMLESH Mobile should initially facilitate a qualified, disclosed partner-principal exchange rather than buy used devices into its own inventory. The receipt/quote must name the principal buyer, KAMLESH's role, indicative versus final value, quote validity, inspection/deduction method, exchange bonus separately from device value, payment/credit timing, return right, complaint route and data/custody responsibility.
+
+Before final acceptance:
+
+1. Match model/storage and IMEI/serial; record the MDMS result and lost/stolen check.
+2. Obtain the legally reviewed ownership/authority declaration and proportionate evidence.
+3. Check power, account/activation/finance/network lock, battery safety, display, body and agreed functions using the published checklist.
+4. Show every deduction and obtain customer acceptance of the final value; a grade alone is not an explanation.
+5. Let the customer back up, sign out and initiate erase without disclosing Apple/Google, banking, wallet or other passwords.
+6. Validate the approved reset/sanitization outcome and record any exception; quarantine a device that cannot be reliably sanitized.
+7. Transfer custody and reconcile partner payment/customer credit before closing the case.
+
+The customer may reject a reduced final value and recover the same unchanged device unless a legally approved simultaneous instant-exchange process applies and the customer accepted the final inspection result. KAMLESH will not advertise a guaranteed buyback percentage, instant cash, “highest price,” certified wipe, refurbished condition or warranty unless the exact program and evidence are approved.
+
+KAMLESH-owned used inventory, cash buyback and future guaranteed value are **not launch-approved** under this draft.
+
 ## 6. WhatsApp catalogue and ordering
 
 - KAMLESH Mobile will publish one verified official WhatsApp number on invoices, the website and store signage.
@@ -152,12 +170,21 @@ The Service Lounge must display a menu showing which services are free, member b
 ## 9. Pickup and drop service
 
 - Pickup/drop is available only in published service zones and time windows.
-- Every pickup receives a digital or printed receipt with photographs, device details, condition and accessories.
+- Every pickup receives a digital or printed receipt with a unique case and tamper-evident pouch/seal number, photographs, device details, condition and accessories.
 - Devices must be switched off and packaged appropriately unless staff provide a secure pouch.
 - The customer should remove SIM cards and memory cards unless they are necessary for the approved diagnosis.
 - Identity verification and a handover code are required at return.
 - The store must maintain chain-of-custody status: requested, assigned, collected, received, under diagnosis, ready and delivered.
 - Liability limits, insurance coverage and exclusions must be approved by the insurer and legal reviewer before launch.
+- The named runner/partner and time of every custody transfer must be recorded. No undocumented subcontracting or overnight vehicle storage is allowed.
+- The published fee or membership allowance must reflect route-zone, failed-attempt and re-delivery rules. “Free” pickup/drop requires an approved funding source and service-zone cap.
+- Any unexplained seal, serial, condition, accessory or custody variance freezes handover and triggers the incident process.
+
+### 9.1 Loaner/standby devices — not launch-approved
+
+A loaner may be offered only under a separately approved small serialized pool for defined eligible cases. The agreement must record the linked service case, device/serial/condition/accessories, issue and due dates, fees/deposit/deductible, late/loss/damage responsibility, prohibited uses, extensions, return test and privacy/sanitization steps.
+
+Loaners are not guaranteed to match the customer's device. Customers should avoid banking/wallet setup where practical and must not give KAMLESH credentials. A returned loaner is quarantined until accounts/SIM/storage are removed and the approved wipe and condition validation passes. Legal, insurer, privacy, replacement-cost and per-case economics must be approved before the first issue.
 
 ## 10. KAMLESH Care membership
 
@@ -173,7 +200,7 @@ NPR 2,999 for 12 months, covering one member and up to three registered personal
 - Two device health checks and cleanings per year
 - Priority Service Lounge queue and repair updates
 - 15% discount on eligible repair labour, capped at NPR 2,000 per year
-- Two free pickup or drop trips per year within the core Nepalgunj service zone
+- Up to two included pickup or drop trips per year within the approved core zone, only after route cost, capacity, insurance and the membership funding source pass the ownership-support gate
 - Free warranty-submission assistance for eligible authorised devices
 - Four free screen-protector installation services; protector cost is separate unless included in a promotion
 - Member-only workshops on backups, privacy, parental controls and fraud prevention
@@ -191,7 +218,7 @@ NPR 2,999 for 12 months, covering one member and up to three registered personal
 
 ### Founding-member offer
 
-For the first 300 paid members, consider adding one extra pickup/drop trip and one family device, rather than permanently reducing the NPR 2,999 price. This adds value without weakening the long-term price position.
+For the first 300 paid members, test whether an extra pickup/drop allowance or one family device would improve uptake without destroying contribution. Approve the exact benefit only after route cost, capacity and membership economics are modeled; this draft does not promise it.
 
 ## 11. Records retained by the store
 
@@ -203,6 +230,8 @@ For the first 300 paid members, consider adding one extra pickup/drop trip and o
 - Warranty submission and service-centre status
 - Repair job cards and approvals
 - Delivery/pickup chain of custody
+- Trade-in estimate, inspection, deductions, final acceptance, sanitization validation and partner settlement
+- Loaner issue, return, condition, incident and wipe validation
 - Advance-order deposits and refunds
 - Membership benefits used and remaining
 

@@ -1,7 +1,7 @@
 # Nepalgunj Technology Flagship Sources and Assumptions Register
 
 **Document ID:** EVD-NPJ-FLAGSHIP-006
-**Version:** 0.8.0
+**Version:** 0.9.0
 **Status:** Active research register
 **Last updated:** 2026-08-15
 
@@ -46,7 +46,11 @@ Lower-level sources do not override higher-level evidence. Reviews, directory en
 | MDMS | [NTA MDMS portal](https://mdms.nta.gov.np/public?lang=en) and [MDMS Bylaw 2075](https://nta.gov.np/uploads/contents/MDMS_Bylaw_2075.pdf) | Official device-registration/import-control requirements; MDMS status alone does not prove Nepal authorised distribution, VAT invoice, condition or local warranty |
 | Warranty territoriality | [Apple limited warranty](https://www.apple.com/legal/warranty/products/ios-warranty-row-english.html), [Samsung India warranty](https://www.samsung.com/in/support/warranty/) and [Dell ownership/service transfer](https://www.dell.com/support/kbdoc/en-us/000125103/ownership-transfer-and-dell-product-registration-guides) | Product/serial entitlement must be verified; do not make blanket international/no-warranty claims |
 | PAN/VAT guidance | [IRD FAQ](https://ird.gov.np/faq/?gid=96) | Registration guidance; obtain qualified current advice |
-| Consumer protection | [Consumer Protection Act](https://doc.gov.np/content/39/consumer-protection-act--2075/) | Policy/legal baseline; lawyer review required |
+| Consumer protection | [Nepal Law Commission Consumer Protection Act](https://lawcommission.gov.np/content/12167/12167-the-consumer-protection-act-2/) | Official consumer information, quality, price, warranty and durable-goods repair/replacement baseline; K&S wording still needs lawyer review |
+| Privacy and device data | [Nepal Law Commission Privacy Act](https://lawcommission.gov.np/content/12261/12261-the-privacy-act-2075/) and [NIST SP 800-88 Rev. 2](https://www.nist.gov/publications/guidelines-media-sanitization-3) | Nepal legal baseline plus current sanitization-program benchmark; NIST is not Nepal law or device-specific proof |
+| Trade-in/refurbishment signals | [IMS Group SabKo Phone announcement](https://www.imsgroup.com.np/news/exchange-your-old-phone-and-upgrade-to-a-new-samsung-smartphone) and [SabKo Phone sell page](https://sabkophone.com/sell-your-phone/) | Confirms public Nepal exchange/refurbishment claims and a priority partner lead; current Nepalgunj coverage, terms and performance are unverified |
+| Trade-in operating benchmarks | [Apple India](https://www.apple.com/in/legal/sales-support/trade-in/in/), [Google Store](https://support.google.com/store/answer/13982093) and [Samsung India](https://www.samsung.com/in/offer/exchange-info/) | Estimated/final value, ownership, condition, account-lock and data-preparation controls; foreign programs do not prove Nepal availability or economics |
+| Used-device tax | [IRD VAT Act](https://ird.gov.np/category/valueaddedtaxact/) | Exchange market-value and used-goods provisions flag tax/accounting questions; obtain written current advice before principal trading or guaranteed buyback |
 | Dashain 2083 timing | [Ministry of Home Affairs public-holiday notice](https://moha.gov.np/en/page/government-and-public-holidays-in-2083) | Official holiday-calendar basis for the 2026 pre-Dashain critical path; recheck if the government revises the notice |
 | Company working-capital structure | [NRB consolidated Working Capital Loan Guidelines, fourth amendment](https://www.nrb.org.np/bfr/%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE-%E0%A4%A8%E0%A4%82-%E0%A5%A7%E0%A5%AF-%E0%A5%A8%E0%A5%A6%E0%A5%AE%E0%A5%A2-%E0%A5%AE%E0%A5%A3-%E0%A4%9A%E0%A4%BE%E0%A4%B2%E0%A5%82-%E0%A4%AA/) and [FAQ](https://www.nrb.org.np/category/faqs/faq_bfr/working-capital-guidelines/) | Current facility, turnover/operating-cycle, inspection and use frame; company overdraft terminology corrected to cash-credit/approved working-capital pending bank proposal |
 | Consignment/inventory/rebates | [ASB Nepal NFRS](https://asbnepal.gov.np/nepal-financial-reporting-standards--nfrss--2018), [IFRS 15](https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards/english/2022/issued/part-a/ifrs-15-revenue-from-contracts-with-customers.pdf?bypass=on), [IAS 2](https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards/english/2021/issued/part-a/ias-2-inventories.pdf), [IRD VAT Act](https://ird.gov.np/category/valueaddedtaxact/) and [Secured Transactions Act](https://lawcommission.gov.np/content/12227/12227-secured-transaction-act-2063/) | Structure/control and accounting/legal frame; exact Nepal contract, VAT, registry and classification require qualified review |
@@ -108,7 +112,15 @@ These are first-party planning inputs recorded on 2026-08-10. They are not indep
 | Accessory opening depth | Unapproved | Six-item competitor basket, local attachment evidence, supplier MOQ/rotation and SKU aging model | Commercial | Open |
 | KAMLESH Care demand | 300 year-one target | Survey, waitlist and paid members | CX/Marketing | Open |
 | Service margin | 50–70% planning range | Technician/parts contract and pilot | Service/Finance | Open |
-| Pickup/drop liability | Unapproved | Legal and insurer sign-off | CX/Legal | Open |
+| Trade-in partner and Nepalgunj coverage | None approved; public IMS/SabKo Phone routes do not establish local terms | Three comparable proposals, outlet/territory confirmation, references and supervised cases | Founder/Commercial | Open |
+| Trade-in valuation and re-grade rate | Unknown; no public headline value is accepted as expected payout | Eight standardized quotes, four independent re-inspections and three settlement tests | Commercial/Research | Open |
+| K&S-owned used inventory | Not approved | Tax/accounting/legal memos, executable downstream bids, realized resale/repair/warranty data and downside model | Founder/Finance | Open |
+| Exchange/barter VAT and used-goods accounting | Unknown | Written accountant/tax memo covering purchase record, market value, input credit, resale invoice and reserves | Finance/Tax | Open |
+| Device sanitization method and validation | Factory reset alone is not treated as sufficient evidence | Approved device/media matrix, partner-tool evidence, failed-wipe quarantine and validated pilot records | Service/Privacy | Open |
+| Repair-concierge SLA and case economics | Unknown; a public service promise is not approved | Written partner SLA, three supervised workflow simulations and 30–50 completed cases | Service/Finance | Open |
+| Pickup/drop cost and liability | Unapproved; no “free” promise | Zone/route pilot, fully loaded cost, incident data, legal review and two insurer quotations | CX/Legal/Finance | Open |
+| Loaner/standby pool | Not approved | Eligibility, serialized custody, cross-customer sanitization, insurance, loss/damage and cost-per-case evidence | Founder/CX/Finance | Open |
+| Assured future buyback | Not approved; no guaranteed percentage or future value | Partner contract, cohort liability/downside model, reserve/accounting/legal review and explicit founder decision | Founder/Finance | Open |
 | Five-shutter usable area | Approximately 60 ft × 12 ft / 720 sq ft | Signed measured survey showing clear internal dimensions and the highway/gallery orientation | Founder/Design | Open |
 | Rent for five shutters | Approximately NPR 1 lakh/month has been discussed previously, but is not approved | Written landlord offer, comparables and signed lease | Founder/Finance | Open |
 | Lease economics | Deposit, advance, escalation, term, break option, fit-out period and common charges unknown | Landlord term sheet and lease review | Founder/Legal | Open |

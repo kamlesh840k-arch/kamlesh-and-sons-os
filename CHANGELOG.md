@@ -18,6 +18,7 @@ The project follows [Semantic Versioning](https://semver.org/).
 - Nepal supplier-credit, consignment and inventory-finance study covering current NRB working-capital boundaries, structure taxonomy, BG/security and consignment schedules, due-date economics, price protection, rotation and approval gates.
 - Brand/distributor retail-support study covering fixtures, demos, MDF, promoters, rebates, training, claim realisation, space/exit economics and Nepal evidence requirements.
 - Formula-driven distributor operating workbook with proposal comparison, term economics, purchases, claims, price-protection, brand-support and exception-control sheets.
+- Trade-in and ownership-support economics study covering partner/principal structures, transparent valuation, title/fraud/data/tax controls, repair concierge, pickup/drop, loaner pools and assured-buyback liabilities.
 
 ### Changed
 
@@ -28,6 +29,7 @@ The project follows [Semantic Versioning](https://semver.org/).
 - Replaced the social/waitlist-heavy customer funnel and informal 0–3% premium question with controlled recruitment, exact-NPR randomized choices, non-probability disclosure and real-conversion validation.
 - Corrected company “OD” planning language to cash-credit/approved working-capital or term-loan structures pending written bank confirmation, and separated revolving supplier limits from sell-through settlement and true consignment.
 - Expanded the distributor proposal and control procedures so unreceived support cannot fund downside cash and weighted scores cannot override title, guarantee/security, due-date or customer-experience gates.
+- Reframed launch trade-in as a conditional partner-principal pilot and added written service SLA, custody, sanitization, route-cost, insurance and serialized-loaner controls without approving used inventory or future-value guarantees.
 
 ## [1.0.0-rc.2] — Roadmap Documentation Integration
 

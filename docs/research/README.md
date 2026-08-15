@@ -2,7 +2,7 @@
 
 **Document ID:** RESEARCH-INDEX-001
 
-**Version:** 0.6.0
+**Version:** 0.7.0
 
 **Status:** Active canonical index and backlog
 
@@ -45,8 +45,8 @@ Historical conversation notes and planning files can shape research questions, b
 | 6. EMI/BNPL | [Partner and merchant-economics study](nepal-emi-bnpl-partner-and-merchant-economics.md), [DEC-0016](../../decisions/DEC-0016-financing-and-emi-strategy.md), [operating model](../milestones/v0.8-finance/v0.8-emi-partner-operating-model.md) | Current public bank/card/app routes, eligibility, fee signals, merchant sensitivity, proposal schedule and launch gate documented | V/P/E/H plus D boundary | Obtain four written proposals and execute supervised settlement/refund tests |
 | 7. Supplier credit/consignment/inventory finance | [Supplier/inventory-finance study](../finance/supplier-credit-and-consignment-strategy.md), [distributor system](../evidence/nepalgunj-mobile-flagship/distributor-system/README.md) | Current NRB/NFRS/IFRS/legal frame, structure taxonomy, economics, contract schedules, proposal instrument and operating workbook complete | V/E/H; partner/adviser evidence open | Obtain comparable distributor/bank terms, then legal/accounting/tax review |
 | 8. Brand/distributor retail support | [Brand/distributor support study](brand-funded-retail-visibility.md), [proposal form](../evidence/nepalgunj-mobile-flagship/distributor-system/distributor-qualification-and-commercial-proposal-form.md) | Fixture, demo, MDF, promoter, rebate and training taxonomy; public mechanism evidence; true-value model; claim and exit controls complete | V/P/E/H; Nepal terms open | Obtain 2026 Nepal program menus, sample claims and retailer references |
-| 9. Trade-in/buyback | [Customer policies](../evidence/nepalgunj-mobile-flagship/customer-policies-and-service-operations.md), [competitor matrix](competitor-experience-matrix.md) | Service concept and benchmarks exist | P/H | Model inspection, fraud, resale, tax, warranty and price-risk economics |
-| 10. Warranty/service/repair concierge/loaner | [Customer policies](../evidence/nepalgunj-mobile-flagship/customer-policies-and-service-operations.md), [repair network field check](../evidence/nepalgunj-mobile-flagship/distributor-system/supply-service/nepalgunj-repair-network-and-field-check.md), [competitor matrix](competitor-experience-matrix.md) | Workflow and benchmark features defined | D/H/P | Verify partner SLAs, custody liability, pickup/drop and loaner economics |
+| 9. Trade-in/buyback | [Ownership-support economics](trade-in-and-ownership-support-economics.md), [customer policies](../evidence/nepalgunj-mobile-flagship/customer-policies-and-service-operations.md), [competitor matrix](competitor-experience-matrix.md) | Structure taxonomy, valuation states, grade controls, partner/principal economics, fraud/data/tax boundaries and launch gates complete | V/P/E/H; partner/adviser evidence open | Obtain three proposals, eight standardized quotes, supervised settlements and accountant/legal review |
+| 10. Warranty/service/repair concierge/loaner | [Ownership-support economics](trade-in-and-ownership-support-economics.md), [customer policies](../evidence/nepalgunj-mobile-flagship/customer-policies-and-service-operations.md), [repair network field check](../evidence/nepalgunj-mobile-flagship/distributor-system/supply-service/nepalgunj-repair-network-and-field-check.md), [competitor matrix](competitor-experience-matrix.md) | Case lifecycle, SLA, contribution, custody, pickup/drop and loaner-pool controls complete; no launch approval implied | V/P/E/H plus D boundary | Obtain partner and insurer terms, run three service simulations and a controlled 30–50-case pilot |
 | 11. Pricing vs experience / willingness to pay | [Customer friction/WTP study](customer-phone-buying-experience-and-price-hypothesis.md), [value proposition](why-buy-from-k-and-s-value-proposition.md) | Directional 0–12% exact-NPR stated-choice pilot, opt-out, randomized blocks, analysis limits and behavioral-validation gate defined | Method ready; H remains | Expert-review/freeze choice design, execute field study, then validate against real conversion and lost sales |
 | 12. Demand by price segment/brand/underserved segment | [Market feasibility](../evidence/nepalgunj-mobile-flagship/nepalgunj-market-feasibility-research.md) | National category and local household-access signals exist; phone/laptop research strata defined; local sell-through absent | V/E/H | Collect distributor/retailer last-30/90-day units, institutional demand and customer sample |
 | 13. Local market sizing methods/data access | [Field validation plan](../evidence/nepalgunj-mobile-flagship/field-validation-and-research-marketing-plan.md), [sources register](../evidence/nepalgunj-mobile-flagship/sources-and-assumptions-register.md) | Phone/laptop/accessory sell-through, basket, customer, institutional, service and waitlist methods defined | Method approved as execution plan; data open | Execute data requests; add bank/MDMS access constraints in EMI and border batches |
@@ -66,8 +66,8 @@ The sequence is risk-led rather than purely thematic. Existing work is updated b
 | 5 | Official/grey/border behavior and price-gap study | Tests a central strategic threat without assuming enforcement remains constant | **Desk research complete; field and authority validation open — 2026-08-15** |
 | 6 | Customer frustration and willingness-to-pay field study | Converts general hypotheses into local evidence | **Desk instrument complete; cognitive, main and behavioral execution open — 2026-08-15** |
 | 7 | Supplier credit, protection and brand-support commercial evidence | Replaces generic negotiation labels with comparable, downside-tested structures | **Desk/commercial instrument complete; partner and adviser evidence open — 2026-08-15** |
-| 8 | Trade-in, service concierge, pickup/drop and loaner unit economics | Determines which ownership services can launch safely | **Next desk batch; partner evidence can proceed in parallel** |
-| 9 | Integrated market size, assortment and flagship defensibility synthesis | Produces the decision input for founder go/no-go | Blocked on preceding evidence |
+| 8 | Trade-in, service concierge, pickup/drop and loaner unit economics | Determines which ownership services can launch safely | **Desk/legal-control model complete; partner, adviser and pilot evidence open — 2026-08-15** |
+| 9 | Integrated market size, assortment and flagship defensibility synthesis | Produces the decision input for founder go/no-go | **Next desk batch; field programs remain active** |
 
 ## Active field evidence backlog
 
@@ -86,6 +86,9 @@ These items require real-world access and must not be marked complete from desk 
 11. Written current Jamunaha Customs/NTA clarification plus the randomized channel/proof/price attributes embedded in the canonical 100-customer stated-choice pilot.
 12. Expert review and frozen version-controlled blocks for the stated-choice design, followed by actual quote/conversion and lost-sale validation before pricing policy.
 13. Current Nepal brand-support menus, sample claims/credit notes, retailer references and six comparable branded-bay inspections covering fixtures, demos, MDF, promoters and exit liabilities.
+14. Three comparable trade-in partner proposals, eight standardized trade-in quotes, four independent re-inspections and three supervised settlement tests using [RESEARCH-OWNERSHIP-001](trade-in-and-ownership-support-economics.md).
+15. Two insurer quotations plus written accountant and legal memos covering custody/transit, used-stock, exchange/barter VAT, privacy, partner agency, loaner and contingent buyback liability.
+16. Three full repair-concierge workflow simulations and a controlled 30–50 completed-case pilot before expansion; track contribution, re-grades, settlement, disputes, downtime, route cost and status compliance.
 
 ## Historical-context source status
 
