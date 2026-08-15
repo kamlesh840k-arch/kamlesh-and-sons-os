@@ -3,7 +3,7 @@
 **Decision ID:** DEC-0092  
 **Status:** Accepted  
 **Version:** 0.1.0
-**Related Research:** [Integrated market size, assortment and flagship defensibility](../docs/research/integrated-market-size-assortment-and-flagship-defensibility.md)
+**Related Research:** [Integrated market size, assortment and flagship defensibility](../docs/research/integrated-market-size-assortment-and-flagship-defensibility.md); [Field evidence activation and data-governance protocol](../docs/research/field-evidence-activation-and-data-governance-protocol.md)
 
 ## Decision
 

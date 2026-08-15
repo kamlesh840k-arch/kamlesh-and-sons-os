@@ -1,12 +1,14 @@
 # Customer Phone/Laptop Buying Friction and Willingness-to-Pay Study
 
 **Document ID:** RESEARCH-CX-001
-**Version:** 0.3.0
+**Version:** 0.4.0
 **Status:** Desk evidence and field instrument complete — execution and founder decisions open
 **Owner:** Founder until a Research/Commercial Owner is appointed
 **Created:** 2026-08-14
 **Last updated:** 2026-08-15
 **Related research:** [Competitor Experience Matrix](competitor-experience-matrix.md), [Official/Grey/India-border Study](nepal-official-grey-border-buying-and-price-gap.md), [EMI/BNPL Study](nepal-emi-bnpl-partner-and-merchant-economics.md), [Value Proposition](why-buy-from-k-and-s-value-proposition.md)
+
+**Execution system:** [Field evidence activation and data-governance protocol](field-evidence-activation-and-data-governance-protocol.md) and [KAMLESH Field Evidence Collection System](../evidence/nepalgunj-mobile-flagship/KAMLESH-Field-Evidence-Collection-System.xlsx)
 **Related decisions:** [DEC-0017](../../decisions/DEC-0017-research-and-market-intelligence-strategy.md), [DEC-0046](../../decisions/DEC-0046-customer-experience-and-service-excellence-system.md), [DEC-0048](../../decisions/DEC-0048-sales-crm-and-customer-relationship-management-system.md), [DEC-0054](../../decisions/DEC-0054-customer-service-support-warranty-and-after-sales-experience-system.md), [DEC-0067](../../decisions/DEC-0067-customer-loyalty-retention-and-community-management-system.md)
 
 ## Research question
@@ -81,6 +83,8 @@ Complete before the main instrument is locked. These participants do not count t
 - Start with open narration before showing the friction list.
 - Revise unclear, leading, double-barrelled or culturally awkward wording; record every revision and reason.
 - Test the visual choice cards and exact NPR arithmetic. A respondent should not need to calculate percentages.
+
+Store every approach/disposition, respondent, friction event and choice task in the canonical collection workbook under one non-identifying respondent ID. Freeze the approved source and reviewed Nepali versions in its Version Register before production; do not store contact details in the workbook or GitHub.
 
 ### Phase B — 100 valid directional customer interviews
 
@@ -380,6 +384,6 @@ This work does **not** establish that:
 
 ### Instrument and reporting methods
 
-- American Association for Public Opinion Research, [Best Practices for Survey Research](https://aapor.org/standards-and-ethics/best-practices/) and [Disclosure Standards](https://aapor.org/standards-and-ethics/disclosure-standards/) — sampling fit, non-probability transparency and disposition/participation disclosure.
+- American Association for Public Opinion Research, [Code of Professional Ethics and Practices, revised June 2026](https://aapor.org/standards-and-ethics/) and [Best Practices for Survey Research](https://aapor.org/standards-and-ethics/best-practices/) — voluntary participation, sampling fit, non-probability transparency and disposition/participation disclosure.
 - Pew Research Center, [Writing Survey Questions](https://www.pewresearch.org/writing-survey-questions/) and [Questionnaire Design and Translation](https://www.pewresearch.org/questionnaire-design-and-translation/) — pretesting, open/closed question order, wording, randomization and translation.
 - Johnson, F. R. et al. (2013), [*Constructing Experimental Designs for Discrete-Choice Experiments: Report of the ISPOR Conjoint Analysis Experimental Design Good Research Practices Task Force*](https://www.ispor.org/docs/default-source/resources/outcomes-research-guidelines-index/piis1098301512041629.pdf), *Value in Health*, 16(1), 3–13 — experimental-design and reporting discipline.

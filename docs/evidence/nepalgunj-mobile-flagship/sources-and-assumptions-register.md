@@ -1,7 +1,7 @@
 # Nepalgunj Technology Flagship Sources and Assumptions Register
 
 **Document ID:** EVD-NPJ-FLAGSHIP-006
-**Version:** 0.10.0
+**Version:** 0.11.0
 **Status:** Active research register
 **Last updated:** 2026-08-15
 
@@ -33,7 +33,8 @@ Lower-level sources do not override higher-level evidence. Reviews, directory en
 | Price-band and margin signal | [Clickmandu](https://english.clickmandu.com/2026/02/6647/) | Industry-reporting signal; retailer terms require quotation |
 | Current authorised MRPs | [FNMB price list](https://fnmba.org.np/mobile-price-in-nepal-2026) | Opening-range reference; prices/promotions can change |
 | Nepal smartphone-purchase constructs | [Rai 2021](https://doi.org/10.13106/JAFEB.2021.VOL8.NO2.0465), [Rai/Dahal/Ghimire 2022](https://www.nepjol.info/index.php/md/article/view/57423), [Rai/Dahal/Ghimire 2023](https://www.businessperspectives.org/images/pdf/applications/publishing/templates/article/assets/18624/IM_2023_03_Rai.pdf), [Vaidya/Gelal 2025](https://pmcpokhara.edu.np/wp-content/uploads/2025/04/Research-Journal-Vol-4.pdf) | Candidate price, attribute, brand/social and review constructs; conflicting Kathmandu/Banepa non-probability studies do not estimate Nepalgunj prevalence or WTP |
-| Survey/choice methods | [AAPOR best practices](https://aapor.org/standards-and-ethics/best-practices/), [AAPOR disclosure](https://aapor.org/standards-and-ethics/disclosure-standards/), [Pew questionnaire design](https://www.pewresearch.org/writing-survey-questions/), [ISPOR DCE design](https://www.ispor.org/docs/default-source/resources/outcomes-research-guidelines-index/piis1098301512041629.pdf) | Supports pretesting, neutral/question-order controls, sample disclosure and deliberate choice design; does not validate a Nepal retail preference |
+| Survey/choice methods | [AAPOR Code revised June 2026](https://aapor.org/standards-and-ethics/), [AAPOR best practices](https://aapor.org/standards-and-ethics/best-practices/), [Pew questionnaire design](https://www.pewresearch.org/writing-survey-questions/), [Pew translation guidance](https://www.pewresearch.org/questionnaire-design-and-translation/) and [ISPOR DCE design](https://www.ispor.org/docs/default-source/resources/outcomes-research-guidelines-index/piis1098301512041629.pdf) | Supports voluntary participation, fit-for-purpose claims, transparent recruitment/reporting, pretesting, reviewed meaning-equivalent translation and deliberate choice design; does not validate a Nepal retail preference |
+| Research data governance | [ICC/ESOMAR Code 2025](https://standards.esomar.org/assets/documents/icc-esomar-code-2025.pdf), [Nepal Privacy Act, 2075](https://lawcommission.gov.np/content/12261/the-privacy-act-2075/) and [data-privacy provisions](https://repository.lawcommission.gov.np/np/documents/prevailing-law/statutes-acts/%E0%A4%B5%E0%A5%88%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%95-%E0%A4%97%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A5%80%E0%A4%AF%E0%A4%A4%E0%A4%BE-%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%A8%E0%A5%8D/%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A5%87%E0%A4%A6-%E0%A5%AC-%E0%A4%A4%E0%A4%A5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%99%E0%A5%8D%E0%A4%95-%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AC/) | Current professional/privacy baseline for minimisation, purpose limitation, access and accountability. ICC/ESOMAR is not Nepal law; obtain qualified Nepal review before collection. |
 | Establishment baseline | [NSO National Economic Census 2018 dataset](https://data.nsonepal.gov.np/en/dataset/nepal-economic-census-2018) | Older establishment/economic structure reference only; cannot establish a current 2026 Nepalgunj technology-retail denominator or sell-through |
 
 ## Local and operating sources
@@ -114,6 +115,11 @@ These are first-party planning inputs recorded on 2026-08-10. They are not indep
 | Jamunaha customs/MDMS process | Current written land-border treatment unverified | Written Customs/NTA response and qualified legal/tax review | Legal/Compliance | Open |
 | Imported-device warranty/service cost | Unknown | Serial-specific entitlement checks and ten documented cross-channel service cases | Service/Research | Open |
 | Customer-friction prevalence | Unknown; Nepal literature provides constructs only | 12 cognitive interviews, then 100 valid controlled directional interviews; a probability-oriented study is required for population prevalence | Research | Open |
+| Fieldwork accountable roles | Founder is temporary owner; Research Lead, Data Custodian, Quality Reviewer and enumerators are not appointed | Named assignments, conflicts/separation and escalation route recorded before live collection | Founder | Open |
+| Field privacy, retention and collection tool | Notice/consent, lawful basis, retention/deletion, incident route, restricted evidence store and offline-capable tool are not approved | Qualified Nepal privacy/legal review plus tested permissions, backup, sync, redaction and destruction controls | Founder/Privacy/Data Custodian | Open |
+| Nepali production instrument | Source meaning exists; no reviewed/adjudicated/cognitively tested Nepali version is approved | Translation review, twelve cognitive interviews, logged revisions and frozen version in the canonical workbook | Research Lead | Open |
+| Field travel/incentive budget | No paid activity or travel is authorised | Approved dates, locations, safety plan and explicit travel/incentive/communication limits—or recorded zero-cost scope | Founder/Research | Open |
+| Field evidence volume | All governed workbook counts are zero at creation; schema completion is not evidence | Supervised two-record-per-active-workstream pilot, daily QA and the canonical minimum field thresholds | Research/Quality | Open |
 | Acceptable price gap / willingness to pay | No accepted premium; 0–12% is a stated-choice test range only | Frozen balanced choice blocks, within-sample switching analysis and subsequent actual quote/conversion/contribution/lost-sale evidence | Founder/Commercial | Open |
 | Integrated confidence-service value | Unapproved hypothesis: needs-led comparison + documentary proof + consent-based migration + case ownership | Experienced-event evidence, controlled attribute choices, actual uptake, delivery reliability and unit economics | CX/Commercial | Open |
 | Accessory attachment | 65% target | Pilot transaction evidence | Store Manager | Open |
@@ -140,3 +146,5 @@ These are first-party planning inputs recorded on 2026-08-10. They are not indep
 ## Change-control rule
 
 When real evidence replaces an assumption, record the source, effective date, owner and effect on the go/no-go model. Do not silently convert a planning figure into an approved target or observed fact.
+
+Use the [field evidence protocol](../../research/field-evidence-activation-and-data-governance-protocol.md) and [collection workbook](./KAMLESH-Field-Evidence-Collection-System.xlsx) to preserve IDs, version, consent, evidence state and QA. Restricted personal or commercial source files do not belong in GitHub.

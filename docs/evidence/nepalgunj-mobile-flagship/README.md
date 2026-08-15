@@ -22,6 +22,8 @@ This folder contains the working commercial and operating blueprint for a propos
 - [Trade-in and ownership-support economics](../../research/trade-in-and-ownership-support-economics.md) — partner/principal structures, transparent valuation, data controls, repair concierge, pickup/drop, loaner economics and launch gates.
 - [Integrated market size, assortment and flagship defensibility](../../research/integrated-market-size-assortment-and-flagship-defensibility.md) — reconciles public scale checks with local sizing, capture, contribution, SKU gates and a testable system advantage.
 - [KAMLESH Flagship Commercial Evidence Model](./KAMLESH-Flagship-Commercial-Evidence-Model.xlsx) — controlled workbook for source-labelled field inputs, triangulated market ranges, funnel/break-even tests, SKU opening gates and defensibility evidence.
+- [Field evidence activation and data-governance protocol](../../research/field-evidence-activation-and-data-governance-protocol.md) — common identifiers, consent/contact separation, translation/version control, evidence custody, daily QA and analysis handoff.
+- [KAMLESH Field Evidence Collection System](./KAMLESH-Field-Evidence-Collection-System.xlsx) — normalized 18-sheet raw-data, evidence-register and completion-control workbook; it is blank and does not authorize live collection.
 
 ## Governance
 

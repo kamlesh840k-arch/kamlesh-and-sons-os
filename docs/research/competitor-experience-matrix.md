@@ -2,7 +2,7 @@
 
 **Document ID:** RESEARCH-COMP-001
 
-**Version:** 0.2.0
+**Version:** 0.3.0
 
 **Status:** Desk-research baseline complete — mystery shopping and field validation open
 
@@ -11,6 +11,8 @@
 **Research date:** 2026-08-15
 
 **Related research:** [Research index](README.md), [phone-buying experience](customer-phone-buying-experience-and-price-hypothesis.md), [K&S value proposition](why-buy-from-k-and-s-value-proposition.md), [Nepalgunj feasibility](../evidence/nepalgunj-mobile-flagship/nepalgunj-market-feasibility-research.md), [Nepal EMI/BNPL partner and merchant economics](nepal-emi-bnpl-partner-and-merchant-economics.md), [official/grey/India-border channel study](nepal-official-grey-border-buying-and-price-gap.md)
+
+**Execution system:** [Field evidence activation and data-governance protocol](field-evidence-activation-and-data-governance-protocol.md) and [KAMLESH Field Evidence Collection System](../evidence/nepalgunj-mobile-flagship/KAMLESH-Field-Evidence-Collection-System.xlsx)
 
 **Related decisions:** DEC-0006, DEC-0009, DEC-0016, DEC-0018, DEC-0039, DEC-0054, DEC-0092, DEC-0093
 
@@ -44,6 +46,8 @@ Evidence codes:
 - **H:** K&S hypothesis.
 
 Pricing is deliberately excluded from desk-research scoring because offers, inventory, card eligibility and exchange bonuses change rapidly. A same-day basket is required for valid comparison.
+
+During field execution, record each visit and exact-SKU observation in the canonical workbook. Keep named store findings internal, link documentary evidence through the evidence register and publish a named comparison only with explicit approval.
 
 ## Capability definitions
 

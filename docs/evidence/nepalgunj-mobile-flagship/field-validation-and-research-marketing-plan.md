@@ -1,7 +1,7 @@
 # Nepalgunj Field Validation and Research-Led Marketing Plan
 
 **Document ID:** EVD-NPJ-FLAGSHIP-004
-**Version:** 0.8.0
+**Version:** 0.9.0
 **Status:** Execution plan — no field activity marked complete
 **Accountable owner:** Founder until Research and Marketing Owners are appointed
 
@@ -28,6 +28,17 @@ Confidential distributor margins, credit limits, individual retailer sales, myst
 | Repair/custody support | 3 workflow simulations + 2 insurer quotations + 30–50 controlled cases | Open |
 | Financial model | Actual rent, payroll, margin, credit, interest and BG terms entered | Open |
 | Integrated market model | 2 independent local demand methods + 4 weeks of origin/funnel evidence + completed contribution and SKU-assortment gates | Open |
+| Field system activation | Named roles, approved privacy/retention, reviewed Nepali version, tested tool/custody and supervised pilot | Open |
+
+## Canonical field collection system
+
+Use [RESEARCH-FIELD-001](../../research/field-evidence-activation-and-data-governance-protocol.md) and the [KAMLESH Field Evidence Collection System](./KAMLESH-Field-Evidence-Collection-System.xlsx) for every customer, competitor, basket, sell-through, institution, traffic, funnel, purchase and service record. The narrative sections below define what to collect; the workbook provides the common IDs, normalized tables, evidence register, version log and completion/QA checks.
+
+- Freeze the approved English and reviewed Nepali versions before production, and log every later change.
+- Keep names, telephone numbers, emails, precise addresses, IMEI/serial identifiers and unredacted personal or confidential evidence outside this workbook and outside GitHub in the approved restricted system.
+- Link allowed evidence metadata through `evidence_id`; do not paste restricted evidence into a notes cell.
+- Review the QA dashboard daily, preserve invalid/frozen records and lock a raw snapshot before analysis.
+- Live interviews, travel, incentives, document photography, commercially confidential collection or named publication still require the protocol's founder/privacy/legal/external approvals.
 
 ## Canonical commercial evidence model
 

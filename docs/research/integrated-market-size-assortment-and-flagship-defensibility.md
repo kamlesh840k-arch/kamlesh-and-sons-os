@@ -2,7 +2,7 @@
 
 **Document ID:** RESEARCH-FLAGSHIP-001
 
-**Version:** 0.1.0
+**Version:** 0.2.0
 
 **Status:** Integrated desk-evidence and decision-model baseline complete; local demand, commercial and operating evidence open
 
@@ -13,6 +13,8 @@
 **Related decisions:** [DEC-0017](../../decisions/DEC-0017-research-and-market-intelligence-strategy.md), [DEC-0030](../../decisions/DEC-0030-inventory-product-and-retail-merchandising-system.md), [DEC-0065](../../decisions/DEC-0065-product-category-and-merchandising-management-system.md), [DEC-0091](../../decisions/DEC-0091-business-model-and-strategic-positioning-system.md), [DEC-0092](../../decisions/DEC-0092-market-research-and-competitive-intelligence-system.md)
 
 **Operating model:** [KAMLESH Flagship Commercial Evidence Model](../evidence/nepalgunj-mobile-flagship/KAMLESH-Flagship-Commercial-Evidence-Model.xlsx)
+
+**Field evidence system:** [Field evidence activation and data-governance protocol](field-evidence-activation-and-data-governance-protocol.md) and [KAMLESH Field Evidence Collection System](../evidence/nepalgunj-mobile-flagship/KAMLESH-Field-Evidence-Collection-System.xlsx)
 
 **Evidence dependencies:** [market feasibility](../evidence/nepalgunj-mobile-flagship/nepalgunj-market-feasibility-research.md), [financial guardrails](../evidence/nepalgunj-mobile-flagship/financial-model-and-funding-guardrails.md), [competitor matrix](competitor-experience-matrix.md), [customer-friction/WTP study](customer-phone-buying-experience-and-price-hypothesis.md), [official/grey/border study](nepal-official-grey-border-buying-and-price-gap.md), [supplier/inventory-finance study](../finance/supplier-credit-and-consignment-strategy.md), [brand-support study](brand-funded-retail-visibility.md), [ownership-support study](trade-in-and-ownership-support-economics.md) and [value proposition](why-buy-from-k-and-s-value-proposition.md)
 
@@ -301,7 +303,7 @@ What are current local units by price band and channel, how much regional demand
 
 ### Recommended next research
 
-Activate the field programme rather than adding another desk-only demand number. Load comparable sell-through, customer, competitor, institutional, traffic, proposal and pilot evidence into the canonical workbook. The next desk research should focus only on a newly identified decision/risk or on analyzing collected evidence.
+After founder/privacy approval, run the supervised field pilot through the canonical collection workbook, freeze the reviewed Nepali instrument and then activate production. Load only reviewed, source-labelled summaries—not raw personal or confidential records—into the commercial evidence model. The next desk research should focus only on a newly identified decision/risk or on analyzing collected evidence.
 
 ## Primary sources
 
