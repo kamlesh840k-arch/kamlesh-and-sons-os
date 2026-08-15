@@ -4,6 +4,8 @@
 **Owner:** Founder / K&S OS  
 **Purpose:** Define why a customer should choose KAMLESH & SONS when the same device may be available elsewhere at a lower price.
 
+**Related evidence:** [Competitor Experience Matrix](competitor-experience-matrix.md)
+
 ## Core Question
 
 Why should a customer buy the exact same iPhone, Samsung, Xiaomi, laptop, tablet, or accessory from KAMLESH & SONS instead of another seller that is slightly cheaper?

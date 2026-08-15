@@ -10,6 +10,8 @@ The project follows [Semantic Versioning](https://semver.org/).
 
 - K&S Care service promise and customer-service playbook, including a consent-based setup and data-transfer procedure.
 - Partner-led EMI operating model covering transparent customer disclosure, K&S/partner responsibilities, privacy, reconciliation and the approval gate.
+- Canonical research-program index, evidence taxonomy, coverage audit and sequenced backlog.
+- Competitor experience matrix for Nepalgunj, Kohalpur, Rupaidiha, Kathmandu and major Indian retailers, including a standardized mystery-shopping scorecard.
 
 ## [1.0.0-rc.2] — Roadmap Documentation Integration
 

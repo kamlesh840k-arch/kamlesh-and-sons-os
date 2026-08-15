@@ -14,6 +14,8 @@ This folder contains the working commercial and operating blueprint for a propos
 - [Supply, accessories and service system](./distributor-system/supply-service/README.md) — national supplier leads, accessory sourcing, Apple display/storage and practical repair-partner checks.
 - [Sources and assumptions register](./sources-and-assumptions-register.md) — traceable sources, limitations and open evidence items.
 - [Landlord negotiation and lease-verification script](./landlord-negotiation-and-lease-verification-script.md) — a founder-ready conversation script, permission schedule and pre-signing checklist for the five-shutter site.
+- [K&S research program index](../../research/README.md) — canonical coverage map, evidence taxonomy and sequenced backlog across all flagship studies.
+- [Competitor experience matrix](../../research/competitor-experience-matrix.md) — public-evidence benchmark for Nepalgunj, Kohalpur, Rupaidiha, Kathmandu and major Indian retailers, with the field mystery-shopping protocol still open.
 
 ## Governance
 

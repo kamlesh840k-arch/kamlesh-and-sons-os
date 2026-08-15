@@ -1,11 +1,11 @@
 # Customer Phone-Buying Experience and Price Hypothesis
 
 **Document ID:** RESEARCH-CX-001  
-**Version:** 0.1  
+**Version:** 0.2
 **Status:** Working Research Hypothesis  
 **Owner:** Founder / K&S OS  
 **Created:** 2026-08-14  
-**Last Updated:** 2026-08-14  
+**Last Updated:** 2026-08-15
 **Related Decisions:** DEC-0006, DEC-0016, DEC-0040, DEC-0047  
 
 ## Purpose
@@ -134,3 +134,7 @@ Record:
 > **Research anywhere. Compare clearly. Try everything. Pay your way. Leave fully set up. Come back whenever you need help.**
 
 This is a hypothesis for testing, not yet a final customer-experience decision.
+
+## Competitor Cross-Check
+
+The [Competitor Experience Matrix](competitor-experience-matrix.md) confirms from current public evidence that EMI, exchange, delivery, basic support and even retailer/partner protection plans already exist in parts of Nepal and India. The remaining K&S hypothesis is therefore the value of an integrated, transparent system for decision confidence, true cost, migration privacy, warranty-case ownership and future upgrade—not the mere presence of those individual services.
