@@ -1,7 +1,7 @@
 # Nepalgunj Field Validation and Research-Led Marketing Plan
 
 **Document ID:** EVD-NPJ-FLAGSHIP-004
-**Version:** 0.9.0
+**Version:** 0.10.0
 **Status:** Execution plan — no field activity marked complete
 **Accountable owner:** Founder until Research and Marketing Owners are appointed
 
@@ -23,7 +23,7 @@ Confidential distributor margins, credit limits, individual retailer sales, myst
 | Customers | 12 cognitive interviews + 100 valid directional main interviews + 10 service cases | Open |
 | Properties | 5 comparable written rent quotations | Open |
 | Sell-through | 8–10 retailer/distributor discussions | Open |
-| Institutions | 12 structured device-procurement interviews | Open |
+| Institutions | 12 structured device-procurement interviews using RESEARCH-INSTITUTION-001 sector/geography quotas | Desk account baseline complete; interviews open |
 | Trade-in partners | 3 comparable proposals + 8 standardized quotes + 3 supervised settlements | Open |
 | Repair/custody support | 3 workflow simulations + 2 insurer quotations + 30–50 controlled cases | Open |
 | Financial model | Actual rent, payroll, margin, credit, interest and BG terms entered | Open |
@@ -166,17 +166,21 @@ Label each response as documentary, system-export, verbal recall or estimate. Ag
 
 ## Institutional device-demand interviews
 
-Complete at least twelve interviews across schools/campuses, hospitals/clinics, NGOs/INGOs and local SMEs. Use the same schedule:
+Use the official account-base, procurement-state rules, risk controls and commercial gates in [RESEARCH-INSTITUTION-001](../../research/western-nepal-institutional-device-demand-and-procurement.md). Complete at least twelve interviews: five education, three healthcare, two NGO/INGO and two SME/public/professional accounts, with at least eight in Nepalgunj, two in Kohalpur and two in other Banke/wider catchment. Sector and geography quotas can overlap.
+
+Use the same schedule:
 
 - Devices purchased in the last 12 months and expected in the next 12 months
+- Existing installed base, age, failure/repair backlog and replacement trigger
 - Configuration and price band
-- Procurement route, VAT/tender requirements and decision owner
-- Payment timing, credit or financing need
-- Setup, data migration, software and network requirements
+- Budget/approval state, funding source, procurement calendar and decision owner
+- Procurement route, VAT/tender requirements, manufacturer authorization, security and acceptance tests
+- Contractual and actual payment timing, credit/financing need, delivery sites and staged-delivery requirement
+- Setup, data migration, licensing, software, security/MDM, power and network requirements
 - Warranty, repair turnaround and replacement/loaner expectations
 - Current supplier strengths, failures and reasons for switching
 
-Separate written procurement records from verbal estimates. Do not add institutional units to a consumer-market estimate without a visible category split and duplicate check.
+Separate completed historical purchases, confirmed order/award, approved budget/specification, documented plan, verbal estimate and exploratory interest. Do not add institutional units to a consumer-market estimate without a visible category split and duplicate check. Institution, student, staff, facility and bed counts are account-discovery denominators—not device-unit multipliers.
 
 ## Trade-in, repair concierge, pickup/drop and loaner evidence
 

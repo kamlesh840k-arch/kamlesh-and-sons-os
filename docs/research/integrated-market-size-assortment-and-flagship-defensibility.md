@@ -2,7 +2,7 @@
 
 **Document ID:** RESEARCH-FLAGSHIP-001
 
-**Version:** 0.2.0
+**Version:** 0.3.0
 
 **Status:** Integrated desk-evidence and decision-model baseline complete; local demand, commercial and operating evidence open
 
@@ -16,7 +16,7 @@
 
 **Field evidence system:** [Field evidence activation and data-governance protocol](field-evidence-activation-and-data-governance-protocol.md) and [KAMLESH Field Evidence Collection System](../evidence/nepalgunj-mobile-flagship/KAMLESH-Field-Evidence-Collection-System.xlsx)
 
-**Evidence dependencies:** [market feasibility](../evidence/nepalgunj-mobile-flagship/nepalgunj-market-feasibility-research.md), [financial guardrails](../evidence/nepalgunj-mobile-flagship/financial-model-and-funding-guardrails.md), [competitor matrix](competitor-experience-matrix.md), [customer-friction/WTP study](customer-phone-buying-experience-and-price-hypothesis.md), [official/grey/border study](nepal-official-grey-border-buying-and-price-gap.md), [supplier/inventory-finance study](../finance/supplier-credit-and-consignment-strategy.md), [brand-support study](brand-funded-retail-visibility.md), [ownership-support study](trade-in-and-ownership-support-economics.md) and [value proposition](why-buy-from-k-and-s-value-proposition.md)
+**Evidence dependencies:** [market feasibility](../evidence/nepalgunj-mobile-flagship/nepalgunj-market-feasibility-research.md), [financial guardrails](../evidence/nepalgunj-mobile-flagship/financial-model-and-funding-guardrails.md), [competitor matrix](competitor-experience-matrix.md), [customer-friction/WTP study](customer-phone-buying-experience-and-price-hypothesis.md), [official/grey/border study](nepal-official-grey-border-buying-and-price-gap.md), [institutional demand/procurement study](western-nepal-institutional-device-demand-and-procurement.md), [supplier/inventory-finance study](../finance/supplier-credit-and-consignment-strategy.md), [brand-support study](brand-funded-retail-visibility.md), [ownership-support study](trade-in-and-ownership-support-economics.md) and [value proposition](why-buy-from-k-and-s-value-proposition.md)
 
 ## Decision question and evidence labels
 
@@ -106,7 +106,9 @@ Use at least four weeks of consent-safe transaction/postcode/locality evidence f
 
 ### Method E — institutional procurement
 
-Aggregate written last-12-month and expected-next-12-month quantities from the twelve-institution protocol. Report confirmed budget/order, documented plan, verbal estimate and exploratory interest separately. Do not add a tender pipeline to consumer TAM or treat intention as committed revenue.
+Use [RESEARCH-INSTITUTION-001](western-nepal-institutional-device-demand-and-procurement.md). Official 2024–25 education data verifies 154 schools in Nepalgunj, 80 in Kohalpur and 569 in Banke; the health registry returned 86 Nepalgunj, 37 Kohalpur and 184 Banke facilities on 2026-08-15. These are account denominators only.
+
+Aggregate written last-12-month and expected-next-12-month quantities from the twelve-institution protocol. Report completed purchase, confirmed order/award, approved budget/specification, documented plan, verbal estimate and exploratory interest separately. Do not multiply institution, student, staff, facility or bed counts into units. Do not add a tender pipeline to consumer TAM or treat intention as committed revenue.
 
 ### Triangulation rule
 
@@ -270,7 +272,7 @@ The founder reviews the evidence pack and explicitly approves, modifies, phases 
 2. Twelve cognitive/discovery and 100 valid directional customer interviews, plus disclosure of the non-probability limitations.
 3. Thirty recent-purchase audits and ten service cases.
 4. Twenty-two to twenty-six competitor checks and the same-day 12-phone/3-laptop/6-accessory basket.
-5. Twelve institutional interviews with confirmed/planned/verbal quantities separated.
+5. Twelve institutional interviews meeting RESEARCH-INSTITUTION-001 sector/geography quotas, with completed, confirmed, documented-plan, verbal and exploratory quantities separated.
 6. Four weeks of transaction-origin, qualified-visit, quote, conversion and lost-sale evidence from a pilot or willing retailers.
 7. Three device-distributor and two laptop/accessory proposals plus current brand-support schedules.
 8. Four EMI proposals and supervised settlement/refund tests.

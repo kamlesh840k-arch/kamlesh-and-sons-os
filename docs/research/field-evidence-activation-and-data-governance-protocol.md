@@ -2,7 +2,7 @@
 
 **Document ID:** RESEARCH-FIELD-001
 
-**Version:** 0.1.0
+**Version:** 0.2.0
 
 **Status:** Execution system complete; fieldwork, translation, privacy approval and real-world collection not started
 
@@ -10,7 +10,7 @@
 
 **Created:** 2026-08-15
 
-**Related research:** [research programme index](README.md), [customer friction/WTP study](customer-phone-buying-experience-and-price-hypothesis.md), [competitor matrix](competitor-experience-matrix.md), [official/grey/border study](nepal-official-grey-border-buying-and-price-gap.md), [integrated flagship study](integrated-market-size-assortment-and-flagship-defensibility.md), [field validation plan](../evidence/nepalgunj-mobile-flagship/field-validation-and-research-marketing-plan.md)
+**Related research:** [research programme index](README.md), [customer friction/WTP study](customer-phone-buying-experience-and-price-hypothesis.md), [competitor matrix](competitor-experience-matrix.md), [official/grey/border study](nepal-official-grey-border-buying-and-price-gap.md), [institutional demand/procurement study](western-nepal-institutional-device-demand-and-procurement.md), [integrated flagship study](integrated-market-size-assortment-and-flagship-defensibility.md), [field validation plan](../evidence/nepalgunj-mobile-flagship/field-validation-and-research-marketing-plan.md)
 
 **Operating workbook:** [KAMLESH Field Evidence Collection System](../evidence/nepalgunj-mobile-flagship/KAMLESH-Field-Evidence-Collection-System.xlsx)
 

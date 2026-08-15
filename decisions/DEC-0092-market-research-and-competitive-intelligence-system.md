@@ -2,8 +2,8 @@
 
 **Decision ID:** DEC-0092  
 **Status:** Accepted  
-**Version:** 0.1.0
-**Related Research:** [Integrated market size, assortment and flagship defensibility](../docs/research/integrated-market-size-assortment-and-flagship-defensibility.md); [Field evidence activation and data-governance protocol](../docs/research/field-evidence-activation-and-data-governance-protocol.md)
+**Version:** 0.2.0
+**Related Research:** [Integrated market size, assortment and flagship defensibility](../docs/research/integrated-market-size-assortment-and-flagship-defensibility.md); [Field evidence activation and data-governance protocol](../docs/research/field-evidence-activation-and-data-governance-protocol.md); [Western Nepal institutional device demand and procurement](../docs/research/western-nepal-institutional-device-demand-and-procurement.md)
 
 ## Decision
 
@@ -32,4 +32,4 @@ Material market claims should identify sources and dates where practical. Sensit
 Leadership can identify meaningful changes in customer demand, competition and market conditions and connect those insights to decisions.
 
 **Decision Status:** Accepted  
-**Version:** `0.1.0`
+**Version:** `0.2.0`
