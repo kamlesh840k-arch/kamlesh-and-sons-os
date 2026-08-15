@@ -18,6 +18,7 @@ This folder contains the working commercial and operating blueprint for a propos
 - [Competitor experience matrix](../../research/competitor-experience-matrix.md) — public-evidence benchmark for Nepalgunj, Kohalpur, Rupaidiha, Kathmandu and major Indian retailers, with the field mystery-shopping protocol still open.
 - [Nepal EMI/BNPL partner and merchant-economics study](../../research/nepal-emi-bnpl-partner-and-merchant-economics.md) — current public partner routes, customer eligibility, merchant-cost risk, proposal schedule and controlled launch sequence.
 - [Official-channel, grey-market and India-border buying study](../../research/nepal-official-grey-border-buying-and-price-gap.md) — channel taxonomy, MDMS/customs/warranty baseline, matched-MRP snapshot and field evidence design.
+- [Customer phone/laptop friction and willingness-to-pay study](../../research/customer-phone-buying-experience-and-price-hypothesis.md) — cognitive pretest, directional quotas, before/during/after event instrument, randomized stated-choice pilot and behavioral-validation gates.
 
 ## Governance
 

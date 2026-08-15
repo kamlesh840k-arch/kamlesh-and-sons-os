@@ -1,7 +1,7 @@
 # Nepalgunj Field Validation and Research-Led Marketing Plan
 
 **Document ID:** EVD-NPJ-FLAGSHIP-004
-**Version:** 0.5.0
+**Version:** 0.6.0
 **Status:** Execution plan — no field activity marked complete
 **Accountable owner:** Founder until Research and Marketing Owners are appointed
 
@@ -20,7 +20,7 @@ Confidential distributor margins, credit limits, individual retailer sales, myst
 | Official/grey/border channel | 30 evidence-backed recent purchases plus written Customs/NTA clarification | Open |
 | Competitors | 6 local checks with one standard 12-phone, 3-laptop and 6-accessory basket | Open |
 | Traffic | 27 sessions: 3 locations × 3 times × 3 days | Open |
-| Customers | 100 valid, deduplicated interviews | Open |
+| Customers | 12 cognitive interviews + 100 valid directional main interviews + 10 service cases | Open |
 | Properties | 5 comparable written rent quotations | Open |
 | Sell-through | 8–10 retailer/distributor discussions | Open |
 | Institutions | 12 structured device-procurement interviews | Open |
@@ -88,36 +88,25 @@ Minimum: 27 comparable sessions.
 
 For each 30-minute session, count pedestrians, two-wheelers stopping, people entering technology/mobile shops, observed purchases where visible, parking availability, obstruction, weather and unusual events. Do not infer sales from general traffic alone.
 
-## 100-customer interview
+## Customer-friction and willingness-to-pay fieldwork
 
-Recruit approximately:
+Use the complete screening, phone/laptop strata, event codes, questionnaire order, randomized stated-choice pilot, consent, data-quality, analysis and interpretation controls in [RESEARCH-CX-001](../../research/customer-phone-buying-experience-and-price-hypothesis.md). Do not create a separate shortened survey from this plan.
 
-- 35–40 through Facebook/Instagram forms
-- 15–20 through TikTok/YouTube calls to participate
-- 15–20 from the opted-in WhatsApp waitlist
-- 30–35 in person across the three shortlisted areas
+Sequence:
 
-Use a consented phone-number duplicate check or anonymous code. Store identity separately from survey answers.
+1. Complete 12 discovery/cognitive interviews; revise and freeze the bilingual instrument and choice blocks.
+2. Complete 100 valid directional interviews: 80 phone-intent and 20 laptop-intent across the stated budget strata.
+3. Complete 10 documented ownership/service cases and link the 30 recent-purchase audits where participants consent.
+4. After an approved executable pilot exists, compare stated choices with real quote-to-purchase, contribution, uptake and lost-sale behavior.
 
-Core questions:
+Recruitment controls:
 
-1. Current phone and laptop/tablet ownership, age and condition
-2. Expected replacement timing by device
-3. Main device job: study, work, business, gaming/creation, communication or other
-4. Maximum budget and acceptable monthly EMI by intended device
-5. Preferred and rejected brands
-6. Cash, card, EMI or mixed payment
-7. Trade-in interest and current-device expectation
-8. Most important buying factors
-9. Expected accessory basket and compatibility/installation needs
-10. Warranty, authenticity, data privacy and repair concerns
-11. Previous local, online, Kathmandu or India-border shopping/service experience
-12. Preferred location and shopping time
-13. Delivery or pickup/drop interest
-14. Most valuable KAMLESH Care benefits
-15. Permission for future contact and channel preference
+- at least 50 neutral intercept interviews across varied places, days and times;
+- no more than 25 combined from K&S social audiences, followers and WhatsApp waitlist;
+- up to 25 through community, campus, workplace and referral routes, excluding K&S staff, immediate founder family and suppliers;
+- record approach, eligibility, consent, completion, invalid and valid counts by channel.
 
-Participation does not guarantee a discount, loan, job or stock allocation.
+Use a consented duplicate check or anonymous code and store identity separately from answers. Participation does not guarantee a discount, loan, job or stock allocation. The purposive sample is directional: public outputs may describe within-sample counts/percentages with denominators and method disclosure, but must not claim Nepalgunj population shares, margin of error or a universal willingness-to-pay number.
 
 ## Rent quotation comparison
 

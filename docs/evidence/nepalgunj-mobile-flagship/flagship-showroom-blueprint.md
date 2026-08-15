@@ -1,7 +1,7 @@
 # KAMLESH Mobile — Nepalgunj Flagship Showroom Blueprint
 
 **Document ID:** EVD-NPJ-FLAGSHIP-002
-**Version:** 0.4.0
+**Version:** 0.4.1
 **Status:** Planning evidence — quotations, field validation and approvals pending
 **Accountable owner:** Founder until site-specific owners are appointed
 **Canonical dependencies:** v0.3 Store Design, v0.4 Customer Experience, v0.6 Operations & People, v0.7 Marketing, v0.8 Finance and v1.0 Flagship Ready
@@ -412,7 +412,7 @@ Publish useful conclusions and customer-facing insights, but keep confidential i
 | Obtain written quotations from at least three authorised distributors | Announce confirmed authorised brand relationships only after approval | Margin, credit period, BG terms, price protection, stock rotation, DOA and warranty comparison | Authorised-brand announcement and explanation of genuine Nepal warranty |
 | Mystery-shop six major competitors using the same 12-phone basket | Use the same basket to create neutral buying guides without naming or attacking stores | Price, stock, gifts, VAT/MDMS, EMI, trade-in and service comparison | Aggregate Nepalgunj price-range and buyer-checklist content |
 | Count traffic at Dhamboji, Setu B.K. and Pushpalal/Bus Park | Ask followers where and when they prefer to shop; invite location feedback | Counts at 10am, 2pm and 6pm over two weekdays and one Saturday | Poll results and an explanation of why accessibility, parking and service matter |
-| Interview at least 100 potential customers | Recruit volunteers through Facebook, TikTok, YouTube and WhatsApp; offer no purchase obligation | Budget, brand, EMI, trade-in, service and preferred-location dataset | Anonymous percentages, top requested services and "You asked, we designed" posts |
+| Complete the canonical customer study | Use social channels only as a minority recruitment route; complete 12 cognitive interviews, 100 controlled directional interviews and 10 service cases | Experienced friction, budget/device strata, randomized choices, evidence quality and actual-behavior follow-up | Within-sample counts/percentages with denominators and method disclosure; no population or universal WTP claim |
 | Obtain at least five actual rent quotations | Use location polls only as supporting evidence; negotiate privately | Rent, deposit, escalation, frontage, parking, fit-out period and lease-risk comparison | Final location story after the lease is signed; never publish landlord offers during negotiation |
 | Request last-30-day sales from distributors or 8–10 retailers | Approach parties privately and promise aggregation/confidentiality | Units by price band, brand and model family; source-confidence notes | Aggregated price-band demand only when permission and sample quality are adequate |
 | Build the final commercial model | Use audience questions to test assumptions and explain the store concept | Actual rent, payroll, dealer margin, credit, interest, inventory and break-even model | A simple explanation of how KAMLESH Mobile chose its range and services; do not publish sensitive costs |
@@ -425,19 +425,21 @@ Publish useful conclusions and customer-facing insights, but keep confidential i
 - Obtain participant consent before collecting survey contact information or using a photo/video testimonial.
 - Store survey identity separately from answers used in analysis.
 - Tell respondents that participation does not guarantee a discount, loan or job.
+- Follow the canonical [Customer Friction and Willingness-to-Pay Study](../../research/customer-phone-buying-experience-and-price-hypothesis.md), including cognitive pretesting, questionnaire order, exact-NPR choice cards, recruitment limits and invalid-record rules.
+- Describe the 100-person purposive sample as directional; never publish a population margin of error, market share or universal willingness-to-pay figure from it.
 - Record whether distributor and retailer sales figures are documentary, verbal or estimated.
 - Avoid combining figures from different periods without clearly labelling them.
 - The owner and accountant must approve the final model before the lease, interior contract and large inventory orders are signed.
 
 ### Suggested 100-customer survey funnel
 
-- Facebook and Instagram form responses: 35–40
-- TikTok/YouTube audience recruited interviews: 15–20
-- WhatsApp waitlist interviews: 15–20
-- In-person interviews at the three shortlisted areas: 30–35
-- Prevent duplicate responses by using a consented phone-number check or anonymous unique code.
+- Neutral in-person intercepts across varied places/days/times: at least 50
+- K&S Facebook, Instagram, TikTok, YouTube, WhatsApp and follower/waitlist routes combined: no more than 25
+- Community, campus, workplace and referral routes: up to 25, excluding K&S staff, immediate founder family and suppliers
+- Complete 12 discovery/cognitive interviews before these 100 valid main interviews; cognitive participants do not count toward 100.
+- Prevent duplicates with a consented phone-number check or anonymous unique code and report the full approach-to-valid disposition by route.
 
-Ask every participant the same core questions: current phone, expected replacement date, maximum budget, preferred brands, cash or EMI, trade-in interest, warranty concern, repair experience, preferred location, preferred shopping time and most valuable KAMLESH Care benefit.
+Use the canonical instrument rather than a generic importance list. It begins with actual recent behavior and unprompted friction, records before/during/after burden, and ends with controlled stated choices and separate follow-up consent.
 
 ### Content series created from the research
 
@@ -455,7 +457,7 @@ Before the main launch campaign begins, the project dashboard must show:
 - 3 or more complete authorised-distributor quotations
 - 6 competitors checked with the same 12-phone basket
 - 27 traffic-count sessions completed: 3 locations × 3 times × 3 days
-- 100 valid, deduplicated customer interviews
+- 12 cognitive interviews, 100 valid controlled directional interviews and 10 documented service cases
 - 5 or more comparable rent quotations
 - 8–10 retailer/distributor last-30-day sales discussions, with confidence level recorded
 - Final financial model updated with actual rent, payroll, dealer margin, credit terms, interest and planned BG utilisation
@@ -466,7 +468,7 @@ Before the main launch campaign begins, the project dashboard must show:
 - Publish three useful pieces of content per week.
 - Start with education: MDMS, warranty, choosing a budget, battery health, scam prevention and data backup.
 - Create a WhatsApp waitlist with explicit marketing consent.
-- Launch the standard 100-customer study and recruit participants through social channels and in-person interviews.
+- Launch the canonical customer study using its neutral-intercept minimum, social/waitlist cap and community-route controls.
 - Start the three-location traffic counts and the five-property rent comparison.
 - Begin authorised-distributor quotation requests and the confidential six-competitor basket audit.
 - Film the showroom build and explain the Service Lounge concept.

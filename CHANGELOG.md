@@ -14,6 +14,7 @@ The project follows [Semantic Versioning](https://semver.org/).
 - Competitor experience matrix for Nepalgunj, Kohalpur, Rupaidiha, Kathmandu and major Indian retailers, including a standardized mystery-shopping scorecard.
 - Nepal EMI/BNPL partner, eligibility and merchant-economics study covering current bank/card/app routes, local deployment evidence, cost sensitivity, proposal requirements and launch sequencing.
 - Official-channel, grey-market and India-border buying study covering channel definitions, MDMS/customs/warranty evidence, formal India-origin imports, a matched-MRP snapshot and field-validation methods.
+- Canonical phone/laptop customer-friction and willingness-to-pay instrument covering cognitive pretesting, directional sampling, before/during/after event coding, randomized stated-choice controls and behavioral-validation gates.
 
 ### Changed
 
@@ -21,6 +22,7 @@ The project follows [Semantic Versioning](https://semver.org/).
 - Expanded the local evidence plan with a three-laptop/six-accessory competitor basket and twelve institutional device-procurement interviews.
 - Strengthened the EMI operating model with separate offer lanes, merchant-cost controls, offer-version records and explicit licensing/contribution gates.
 - Replaced the blanket border-price assumption with exact-SKU, lawful-acquisition and ownership-protection comparisons, plus evidence-backed buyer and service-case research requirements.
+- Replaced the social/waitlist-heavy customer funnel and informal 0–3% premium question with controlled recruitment, exact-NPR randomized choices, non-probability disclosure and real-conversion validation.
 
 ## [1.0.0-rc.2] — Roadmap Documentation Integration
 

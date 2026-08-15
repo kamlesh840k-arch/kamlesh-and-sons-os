@@ -2,7 +2,7 @@
 
 **Document ID:** RESEARCH-CHANNEL-001
 
-**Version:** 0.1.0
+**Version:** 0.1.1
 
 **Status:** Desk-research baseline complete — local buyer evidence, live quotations and legal/customs confirmation open
 
@@ -193,18 +193,9 @@ Recruit buyers who purchased a phone or laptop in the prior 18 months. With cons
 
 Thirty purposive cases reveal mechanisms and failure modes; they do not estimate market share.
 
-### 3. Integrate into the 100-customer study
+### 3. Integrate into the canonical 100-customer study
 
-Use non-representative quotas so every decision segment is heard:
-
-| Stratum | Minimum interviews |
-|---|---:|
-| Intended phone budget below NPR 25,000 | 25 |
-| NPR 25,000–50,000 | 30 |
-| NPR 50,000–100,000 | 25 |
-| Above NPR 100,000 | 20 |
-
-Recruit across Nepalgunj, Kohalpur and frequent Jamunaha/Rupaidiha shoppers; record geography separately. Do not report these quotas as population shares.
+Use the phone/laptop strata, recruitment limits, screening and field controls in the [Customer Friction and Willingness-to-Pay Study](customer-phone-buying-experience-and-price-hypothesis.md). That instrument assigns 80 phone-intent and 20 laptop-intent interviews, includes at least 20 serious India/parallel comparers and prevents a social/waitlist-heavy sample. Quotas create analytic coverage; they are not population shares.
 
 Core questions:
 
@@ -216,19 +207,11 @@ Core questions:
 6. What actually went wrong, if anything, and what did resolution cost in money and time?
 7. At what documented cash gap would the buyer switch away from Nepal authorised supply?
 
-### 4. Randomised choice test
+### 4. Randomized stated-choice pilot
 
-Give each respondent six choices in varied order. Use an identical device and alter only disclosed attributes:
+Use the canonical study's eight blocked, two-offer tasks with a postpone/buy-neither option, exact NPR prices, balanced design, randomized task/order controls and dominance/comprehension check. Channel proof, documented Nepal invoice/warranty, setup, case ownership and eligible financing are tested alongside 0%, 1%, 3%, 5%, 8% and 12% price differences.
 
-- price gap: 0%, 3%, 5%, 8%, 12%, 15% or 20%;
-- Nepal VAT invoice versus foreign invoice versus seller receipt;
-- verified Nepal brand/distributor warranty versus India warranty versus seller warranty;
-- local case ownership versus customer must return to seller/country;
-- cash only versus eligible EMI;
-- setup/migration included versus self-service;
-- MDMS/customs status documented versus unclear.
-
-Ask the choice, confidence, reason and “would postpone purchase” option. Estimate segment-specific switching ranges with confidence intervals where possible. A 100-person purposive study is directional, not a statistically representative Banke forecast.
+Report descriptive within-sample switching ranges and opt-out counts. Do **not** attach a Nepalgunj population confidence interval or margin of error to a 100-person purposive sample; model standard errors cannot correct recruitment bias. Validate stated choices against actual quotes, conversions and lost-sale reasons before policy.
 
 ### 5. Ten cross-channel service cases
 
@@ -336,5 +319,5 @@ These are **H**, not accepted pricing or service policies.
 
 1. Execute the same-day device basket and thirty recent-purchase audits.
 2. Obtain written Jamunaha Customs/NTA clarification before publishing landed-cost examples.
-3. Integrate the randomised channel/price choices into the 100-customer study.
-4. Continue the next desk batch by strengthening the customer-frustration and willingness-to-pay instrument around these verified channel attributes.
+3. Execute the canonical cognitive pretest and randomized channel/proof/price pilot inside the 100-customer study.
+4. Compare stated switching ranges with actual quote, conversion and lost-sale evidence before accepting a price or service policy.

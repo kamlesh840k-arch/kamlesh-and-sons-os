@@ -2,7 +2,7 @@
 
 **Document ID:** RESEARCH-INDEX-001
 
-**Version:** 0.4.0
+**Version:** 0.5.0
 
 **Status:** Active canonical index and backlog
 
@@ -40,14 +40,14 @@ Historical conversation notes and planning files can shape research questions, b
 | 1. Nepalgunj phone/laptop/accessories market | [Market feasibility](../evidence/nepalgunj-mobile-flagship/nepalgunj-market-feasibility-research.md), [accessory assortment](../evidence/nepalgunj-mobile-flagship/distributor-system/supply-service/accessory-sourcing-and-assortment.md) | Desk baseline now covers local installed-base signals, national phone/laptop/tablet/accessory imports, category roles and sizing methods | V/E/H mixed | Obtain local sell-through, basket, institutional and customer evidence |
 | 2. Nepalgunj/Kohalpur/Rupaidiha/Kathmandu competitors | [Competitor experience matrix](competitor-experience-matrix.md) | Desk-research baseline complete; field execution open | V/P/S plus open fieldwork | Complete standardized mystery shops and price basket |
 | 3. Indian premium/mobile retail benchmark | [Competitor experience matrix](competitor-experience-matrix.md) | Croma, Reliance Digital/resQ, Vijay Sales, Sangeetha, Poorvika and Value Plus baseline complete | Predominantly P from official retailer pages | Validate store execution and unit economics through interviews/visits |
-| 4. Customer frustrations before/during/after purchase | [Phone-buying experience](customer-phone-buying-experience-and-price-hypothesis.md), [value proposition](why-buy-from-k-and-s-value-proposition.md) | Journey and ten core uncertainty themes defined | Literature signals plus H | Run 100-customer local study and service-case interviews |
+| 4. Customer frustrations before/during/after purchase | [Customer friction/WTP study](customer-phone-buying-experience-and-price-hypothesis.md), [value proposition](why-buy-from-k-and-s-value-proposition.md) | Nepal literature limits, before/during/after event taxonomy, cognitive pretest, directional quotas, questionnaire, coding and quality controls complete | V from methods/literature plus H; local execution open | Run 12 cognitive interviews, 100 valid main interviews and 10 service cases |
 | 5. Official vs grey vs India-border behavior | [Channel and price-gap study](nepal-official-grey-border-buying-and-price-gap.md), [DEC-0018](../../decisions/DEC-0018-official-vs-grey-market-product-strategy.md), [market feasibility](../evidence/nepalgunj-mobile-flagship/nepalgunj-market-feasibility-research.md) | Channel taxonomy, MDMS/customs/warranty baseline, formal India-origin evidence, initial matched-MRP snapshot and field method complete | V/P/S/E/H plus D boundary | Execute same-day basket, 30 recent-purchase audits, authority checks and 100-customer choice test |
 | 6. EMI/BNPL | [Partner and merchant-economics study](nepal-emi-bnpl-partner-and-merchant-economics.md), [DEC-0016](../../decisions/DEC-0016-financing-and-emi-strategy.md), [operating model](../milestones/v0.8-finance/v0.8-emi-partner-operating-model.md) | Current public bank/card/app routes, eligibility, fee signals, merchant sensitivity, proposal schedule and launch gate documented | V/P/E/H plus D boundary | Obtain four written proposals and execute supervised settlement/refund tests |
 | 7. Supplier credit/consignment/inventory finance | [Supplier strategy](../finance/supplier-credit-and-consignment-strategy.md), [distributor system](../evidence/nepalgunj-mobile-flagship/distributor-system/README.md) | Negotiation framework and controls complete | H/D boundaries clear | Obtain term sheets and compare effective economics |
 | 8. Brand/distributor retail support | [Brand-funded visibility](brand-funded-retail-visibility.md), [proposal form](../evidence/nepalgunj-mobile-flagship/distributor-system/distributor-qualification-and-commercial-proposal-form.md) | Support types and negotiation questions defined | P/H | Obtain 2026 Nepal program terms by brand |
 | 9. Trade-in/buyback | [Customer policies](../evidence/nepalgunj-mobile-flagship/customer-policies-and-service-operations.md), [competitor matrix](competitor-experience-matrix.md) | Service concept and benchmarks exist | P/H | Model inspection, fraud, resale, tax, warranty and price-risk economics |
 | 10. Warranty/service/repair concierge/loaner | [Customer policies](../evidence/nepalgunj-mobile-flagship/customer-policies-and-service-operations.md), [repair network field check](../evidence/nepalgunj-mobile-flagship/distributor-system/supply-service/nepalgunj-repair-network-and-field-check.md), [competitor matrix](competitor-experience-matrix.md) | Workflow and benchmark features defined | D/H/P | Verify partner SLAs, custody liability, pickup/drop and loaner economics |
-| 11. Pricing vs experience / willingness to pay | [Phone-buying experience](customer-phone-buying-experience-and-price-hypothesis.md), [value proposition](why-buy-from-k-and-s-value-proposition.md) | Testable 0–3% price-gap hypothesis exists | H | Execute conjoint/choice tests and track conversion/lost-sale reasons |
+| 11. Pricing vs experience / willingness to pay | [Customer friction/WTP study](customer-phone-buying-experience-and-price-hypothesis.md), [value proposition](why-buy-from-k-and-s-value-proposition.md) | Directional 0–12% exact-NPR stated-choice pilot, opt-out, randomized blocks, analysis limits and behavioral-validation gate defined | Method ready; H remains | Expert-review/freeze choice design, execute field study, then validate against real conversion and lost sales |
 | 12. Demand by price segment/brand/underserved segment | [Market feasibility](../evidence/nepalgunj-mobile-flagship/nepalgunj-market-feasibility-research.md) | National category and local household-access signals exist; phone/laptop research strata defined; local sell-through absent | V/E/H | Collect distributor/retailer last-30/90-day units, institutional demand and customer sample |
 | 13. Local market sizing methods/data access | [Field validation plan](../evidence/nepalgunj-mobile-flagship/field-validation-and-research-marketing-plan.md), [sources register](../evidence/nepalgunj-mobile-flagship/sources-and-assumptions-register.md) | Phone/laptop/accessory sell-through, basket, customer, institutional, service and waitlist methods defined | Method approved as execution plan; data open | Execute data requests; add bank/MDMS access constraints in EMI and border batches |
 | 14. Store differentiation/whitespace | [Value proposition](why-buy-from-k-and-s-value-proposition.md), [competitor matrix](competitor-experience-matrix.md) | Whitespace hypotheses defined | H | Rank by customer value, cost, operational difficulty and defensibility |
@@ -64,8 +64,8 @@ The sequence is risk-led rather than purely thematic. Existing work is updated b
 | 3 | Nepalgunj laptop/accessory demand extension and segment sizing | Completes the existing smartphone-heavy market study | **Desk research complete; field validation active — 2026-08-15** |
 | 4 | EMI/BNPL partner, eligibility and merchant-economics study | Financing is launch-critical and can destroy margin if subsidy/fees are misunderstood | **Desk research complete; partner proposals and pilot open — 2026-08-15** |
 | 5 | Official/grey/border behavior and price-gap study | Tests a central strategic threat without assuming enforcement remains constant | **Desk research complete; field and authority validation open — 2026-08-15** |
-| 6 | Customer frustration and willingness-to-pay field study | Converts general hypotheses into local evidence | **Next; field instrument partly defined** |
-| 7 | Supplier credit, protection and brand-support commercial evidence | Replaces negotiation hypotheses with term sheets | Execution-dependent |
+| 6 | Customer frustration and willingness-to-pay field study | Converts general hypotheses into local evidence | **Desk instrument complete; cognitive, main and behavioral execution open — 2026-08-15** |
+| 7 | Supplier credit, protection and brand-support commercial evidence | Replaces negotiation hypotheses with term sheets | **Next desk/commercial batch; execution-dependent terms remain open** |
 | 8 | Trade-in, service concierge, pickup/drop and loaner unit economics | Determines which ownership services can launch safely | Queued after partner evidence |
 | 9 | Integrated market size, assortment and flagship defensibility synthesis | Produces the decision input for founder go/no-go | Blocked on preceding evidence |
 
@@ -75,7 +75,7 @@ These items require real-world access and must not be marked complete from desk 
 
 1. Twenty-two to twenty-six standardized competitor visits/calls across the four geographies in the matrix.
 2. A dated 12-device price/availability basket plus three laptop and six accessory checks.
-3. At least 100 valid customer interviews, balanced across budget, mid-market and premium intent.
+3. Twelve discovery/cognitive interviews followed by at least 100 valid directional customer interviews meeting the phone/laptop strata and recruitment controls in RESEARCH-CX-001.
 4. Eight to ten confidential sell-through discussions using comparable last-30-day periods.
 5. Three or more written distributor term sheets and four complete bank/finance proposals using the common EMI/BNPL schedule.
 6. Five comparable rent quotations and the proposed-site measured survey.
@@ -83,7 +83,8 @@ These items require real-world access and must not be marked complete from desk 
 8. Twelve institutional device-procurement interviews across education, healthcare, NGOs/INGOs and local SMEs.
 9. Supervised EMI/BNPL authorisation, settlement, cancellation and refund tests before any public offer.
 10. Thirty evidence-backed recent phone/laptop purchases, including invoice/payment, exact SKU, channel, MDMS/warranty understanding and outcome where consent permits.
-11. Written current Jamunaha Customs/NTA clarification plus the randomised official/parallel/India choice test embedded in the 100-customer study.
+11. Written current Jamunaha Customs/NTA clarification plus the randomized channel/proof/price attributes embedded in the canonical 100-customer stated-choice pilot.
+12. Expert review and frozen version-controlled blocks for the stated-choice design, followed by actual quote/conversion and lost-sale validation before pricing policy.
 
 ## Historical-context source status
 

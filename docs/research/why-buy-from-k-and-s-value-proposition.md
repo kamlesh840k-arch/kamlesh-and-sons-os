@@ -1,10 +1,12 @@
 # Why Buy from KAMLESH & SONS? — Customer Value Proposition Working Draft
 
-**Status:** Working hypothesis for customer proposition research  
-**Owner:** Founder / K&S OS  
+**Document ID:** RESEARCH-VP-001
+**Version:** 0.2.0
+**Status:** Working hypothesis — customer field validation open
+**Owner:** Founder / K&S OS
 **Purpose:** Define why a customer should choose KAMLESH & SONS when the same device may be available elsewhere at a lower price.
 
-**Related evidence:** [Competitor Experience Matrix](competitor-experience-matrix.md)
+**Related evidence:** [Competitor Experience Matrix](competitor-experience-matrix.md), [Customer Friction and Willingness-to-Pay Study](customer-phone-buying-experience-and-price-hypothesis.md)
 
 ## Core Question
 
@@ -233,15 +235,9 @@ The goal is not to make customers pay extra for luxury. The goal is to reduce un
 
 ## Working Price-Tolerance Hypothesis
 
-Do not assume a fixed acceptable premium. Test it in Nepalgunj.
+Do not assume a fixed acceptable premium. The canonical field study now tests exact NPR differences equivalent to 0%, 1%, 3%, 5%, 8% and 12% inside randomized service/proof choices, then requires validation against actual conversion, contribution and lost-sale behavior.
 
-Track customer conversion and objections when K&S is:
-- same price as credible competitors;
-- approximately 1% higher;
-- approximately 2% higher;
-- approximately 3% higher.
-
-Also record what additional value is present in each case and whether customers actually recognise that value.
+The broader ladder is a research instrument, not permission to price above credible alternatives. Results must be reported as directional within-sample switching ranges—not one Nepalgunj willingness-to-pay number.
 
 ## The Strategic Test
 

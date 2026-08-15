@@ -1,7 +1,7 @@
 # Nepalgunj Technology Flagship Sources and Assumptions Register
 
 **Document ID:** EVD-NPJ-FLAGSHIP-006
-**Version:** 0.6.0
+**Version:** 0.7.0
 **Status:** Active research register
 **Last updated:** 2026-08-15
 
@@ -31,6 +31,8 @@ Lower-level sources do not override higher-level evidence. Reviews, directory en
 | Nepal/India matched MRP baseline | [FNMB Nepal list](https://fnmba.org.np/mobile-price-in-nepal-2026), [Samsung India S26 pricing](https://news.samsung.com/in/samsung-india-launches-its-most-advanced-ai-phone-the-galaxy-s26-series-pre-order-now-for-exciting-offers), [Apple India iPhone 17](https://www.apple.com/in/shop/buy-iphone/iphone-17) and [iPhone 17e](https://www.apple.com/in/newsroom/2026/03/apple-introduces-iphone-17e/) | Dated public-list-price snapshot; not Nepalgunj/Rupaidiha cash price, lawful landed cost or warranty equivalence |
 | Price-band and margin signal | [Clickmandu](https://english.clickmandu.com/2026/02/6647/) | Industry-reporting signal; retailer terms require quotation |
 | Current authorised MRPs | [FNMB price list](https://fnmba.org.np/mobile-price-in-nepal-2026) | Opening-range reference; prices/promotions can change |
+| Nepal smartphone-purchase constructs | [Rai 2021](https://doi.org/10.13106/JAFEB.2021.VOL8.NO2.0465), [Rai/Dahal/Ghimire 2022](https://www.nepjol.info/index.php/md/article/view/57423), [Rai/Dahal/Ghimire 2023](https://www.businessperspectives.org/images/pdf/applications/publishing/templates/article/assets/18624/IM_2023_03_Rai.pdf), [Vaidya/Gelal 2025](https://pmcpokhara.edu.np/wp-content/uploads/2025/04/Research-Journal-Vol-4.pdf) | Candidate price, attribute, brand/social and review constructs; conflicting Kathmandu/Banepa non-probability studies do not estimate Nepalgunj prevalence or WTP |
+| Survey/choice methods | [AAPOR best practices](https://aapor.org/standards-and-ethics/best-practices/), [AAPOR disclosure](https://aapor.org/standards-and-ethics/disclosure-standards/), [Pew questionnaire design](https://www.pewresearch.org/writing-survey-questions/), [ISPOR DCE design](https://www.ispor.org/docs/default-source/resources/outcomes-research-guidelines-index/piis1098301512041629.pdf) | Supports pretesting, neutral/question-order controls, sample disclosure and deliberate choice design; does not validate a Nepal retail preference |
 
 ## Local and operating sources
 
@@ -89,6 +91,9 @@ These are first-party planning inputs recorded on 2026-08-10. They are not indep
 | India-border price advantage | No universal percentage; initial matched MRP results vary by brand/SKU | Same-day exact-SKU basket with dated NRB rate, executable offers and lawful acquisition costs | Commercial/Research | Open |
 | Jamunaha customs/MDMS process | Current written land-border treatment unverified | Written Customs/NTA response and qualified legal/tax review | Legal/Compliance | Open |
 | Imported-device warranty/service cost | Unknown | Serial-specific entitlement checks and ten documented cross-channel service cases | Service/Research | Open |
+| Customer-friction prevalence | Unknown; Nepal literature provides constructs only | 12 cognitive interviews, then 100 valid controlled directional interviews; a probability-oriented study is required for population prevalence | Research | Open |
+| Acceptable price gap / willingness to pay | No accepted premium; 0–12% is a stated-choice test range only | Frozen balanced choice blocks, within-sample switching analysis and subsequent actual quote/conversion/contribution/lost-sale evidence | Founder/Commercial | Open |
+| Integrated confidence-service value | Unapproved hypothesis: needs-led comparison + documentary proof + consent-based migration + case ownership | Experienced-event evidence, controlled attribute choices, actual uptake, delivery reliability and unit economics | CX/Commercial | Open |
 | Accessory attachment | 65% target | Pilot transaction evidence | Store Manager | Open |
 | Accessories gross margin | 35–45% planning range | Supplier invoices, shrink/DOA/warranty cost and actual transaction margin by family | Commercial/Finance | Open |
 | Accessory opening depth | Unapproved | Six-item competitor basket, local attachment evidence, supplier MOQ/rotation and SKU aging model | Commercial | Open |
