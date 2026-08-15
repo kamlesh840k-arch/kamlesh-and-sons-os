@@ -1,7 +1,7 @@
 # Nepalgunj Technology Flagship Sources and Assumptions Register
 
 **Document ID:** EVD-NPJ-FLAGSHIP-006
-**Version:** 0.9.0
+**Version:** 0.10.0
 **Status:** Active research register
 **Last updated:** 2026-08-15
 
@@ -21,6 +21,7 @@ Lower-level sources do not override higher-level evidence. Reviews, directory en
 | Topic | Source | Use and limitation |
 |---|---|---|
 | Nepalgunj/Banke population | [NSO population CSV](https://censusresults.nsonepal.gov.np/files/longform-dataset/Indv01_PopulationBySex.csv) | Official 2021 population and household base |
+| Nepalgunj municipal profile | [Nepalgunj Sub-Metropolitan City profile](https://www.nepalgunjmun.gov.np/ne/node/140) | Municipal description plus 2021 population/household figures; confirms administrative/commercial context, not retail demand |
 | Nepalgunj age profile | [NSO age CSV](https://censusresults.nsonepal.gov.np/files/longform-dataset/Indv04_PopulationByFiveYear.csv) | Official age-band calculation |
 | Household smartphone/computer/internet | [NSO household-facilities CSV](https://censusresults.nsonepal.gov.np/files/longform-dataset/Hhld10_HouseholdFacility.csv) | Official 2021 local household access: Nepalgunj 34,565 households, including 25,535 with a smartphone, 6,347 with a computer/laptop and 16,335 with home internet; installed base, not sales |
 | Lumbini ICT access | [Nepal MICS 2024–25](https://giwmscdntwo.gov.np/media/pdf_upload/Nepal%20Multiple%20Indicator%20Cluster%20Survey%202024-25_ybpuo5x.pdf) | Later province/domain evidence; not Nepalgunj-specific |
@@ -33,6 +34,7 @@ Lower-level sources do not override higher-level evidence. Reviews, directory en
 | Current authorised MRPs | [FNMB price list](https://fnmba.org.np/mobile-price-in-nepal-2026) | Opening-range reference; prices/promotions can change |
 | Nepal smartphone-purchase constructs | [Rai 2021](https://doi.org/10.13106/JAFEB.2021.VOL8.NO2.0465), [Rai/Dahal/Ghimire 2022](https://www.nepjol.info/index.php/md/article/view/57423), [Rai/Dahal/Ghimire 2023](https://www.businessperspectives.org/images/pdf/applications/publishing/templates/article/assets/18624/IM_2023_03_Rai.pdf), [Vaidya/Gelal 2025](https://pmcpokhara.edu.np/wp-content/uploads/2025/04/Research-Journal-Vol-4.pdf) | Candidate price, attribute, brand/social and review constructs; conflicting Kathmandu/Banepa non-probability studies do not estimate Nepalgunj prevalence or WTP |
 | Survey/choice methods | [AAPOR best practices](https://aapor.org/standards-and-ethics/best-practices/), [AAPOR disclosure](https://aapor.org/standards-and-ethics/disclosure-standards/), [Pew questionnaire design](https://www.pewresearch.org/writing-survey-questions/), [ISPOR DCE design](https://www.ispor.org/docs/default-source/resources/outcomes-research-guidelines-index/piis1098301512041629.pdf) | Supports pretesting, neutral/question-order controls, sample disclosure and deliberate choice design; does not validate a Nepal retail preference |
+| Establishment baseline | [NSO National Economic Census 2018 dataset](https://data.nsonepal.gov.np/en/dataset/nepal-economic-census-2018) | Older establishment/economic structure reference only; cannot establish a current 2026 Nepalgunj technology-retail denominator or sell-through |
 
 ## Local and operating sources
 
@@ -94,6 +96,13 @@ These are first-party planning inputs recorded on 2026-08-10. They are not indep
 | Initial laptop exposure | Unapproved; selective/order-led concept only | Last-30/90-day local sell-through, three authorised quotations and approved SKU purchase order | Commercial/Finance | Open |
 | Payroll | Unapproved | Staffing plan and signed offers | People/Finance | Open |
 | Monthly phone demand | 70 by month three | Fieldwork, preorders and actual sales | Commercial | Open |
+| Local phone/laptop TAM, SAM and SOM | Unknown; no public current Nepalgunj retail-unit denominator was located | At least two independent local demand methods with stated geography, channel, category and period | Research/Commercial | Open |
+| City-only phone scale check | Approximately 12,800 phones/year or 1,065–1,066/month from national imports × Nepalgunj population share | Use only as a reasonableness check; replace with comparable local sell-through and replacement/upgrade evidence | Research | Open — not a forecast |
+| Regional/catchment uplift | Unknown; Nepalgunj's gateway role does not establish a numerical multiplier | Four weeks of consent-safe transaction-origin evidence plus comparable retailer/distributor data | Research/Commercial | Open |
+| Month-three and year-one phone targets | 70 in month three and approximately 1,070 in year one are planning inputs, not observed demand or market-share findings | Evidence-backed local market, qualified-visit/conversion, contribution and capacity cases | Founder/Commercial/Finance | Open |
+| Opening phone quantity and brand allocation | Earlier 120-unit table and brand-capital percentages are hypotheses, not approved allocations or purchase authority | Completed SKU-level gate with demand, authorised terms, downside contribution, days cover and liquidity limits | Founder/Commercial/Finance | Open |
+| Qualified visits and conversion | Unknown | Four weeks of source-labelled qualified visits, exact-SKU quotes, availability, outcomes and lost-sale reasons | Commercial/Research | Open |
+| Flagship defensibility/customer lift | Integrated Decision-to-Ownership Confidence System is a candidate, not a proven moat | Controlled customer choices, actual conversion/retention/referral, contribution, execution reliability and competitor parity checks | Founder/CX/Commercial | Open |
 | Monthly laptop/tablet demand | Unapproved | Comparable retailer/distributor data, institutional interviews, waitlist and actual sales | Commercial | Open |
 | Laptop effective margin | Unapproved | Three current authorised term sheets including target, demo and credit-note conditions | Commercial/Finance | Open |
 | EMI/BNPL partner | None approved | Four comparable written proposals plus licence, legal/compliance and founder review | Founder/Finance | Open |

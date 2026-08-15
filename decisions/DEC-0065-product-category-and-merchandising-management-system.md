@@ -6,6 +6,7 @@
 **Version:** 0.1.0  
 **Decision Date:** 2026-08-08  
 **Owner:** KAMLESH & SONS
+**Related Research:** [Integrated market size, assortment and flagship defensibility](../docs/research/integrated-market-size-assortment-and-flagship-defensibility.md)
 
 ---
 

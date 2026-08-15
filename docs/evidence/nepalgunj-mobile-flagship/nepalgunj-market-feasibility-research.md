@@ -1,16 +1,18 @@
 # Nepalgunj Phone, Laptop and Accessories Market Feasibility Research
 
 **Document ID:** EVD-NPJ-FLAGSHIP-001  
-**Version:** 0.3.0
+**Version:** 0.4.0
 **Research date:** 2026-08-15
 **Status:** Desk-research evidence — local sell-through, quotations and fieldwork pending  
 **Accountable owner:** Founder until Research/Commercial Owner is appointed
+
+**Related research/model:** [Integrated market size, assortment and flagship defensibility](../../research/integrated-market-size-assortment-and-flagship-defensibility.md) and [KAMLESH Flagship Commercial Evidence Model](./KAMLESH-Flagship-Commercial-Evidence-Model.xlsx)
 
 ## Decision summary
 
 Nepalgunj is a conditional-go market for an authorised, phone-led multi-brand technology flagship. The recommended concept is value-led Android volume, selective premium phones, an order-led laptop range, an attachment-led accessories range and a visible after-sales Service Lounge. A generic phone-only, premium-only or inventory-heavy laptop store is not supported by the evidence.
 
-Proceed only when field validation demonstrates a credible route to at least 70 handset sales per month by month three, effective handset margin near 5% or better, controlled rent, six months of liquidity protection and written distributor safeguards. Laptop and accessory opening capital must be approved separately after local sell-through, attachment, margin, warranty and stock-rotation evidence is obtained.
+The earlier month-three 70-handset target is a planning input to test—not observed demand, market share or approval. Proceed only when the integrated model demonstrates a credible route to the founder-approved break-even volume using at least two independent local demand methods, observed qualified visits/conversion, positive contribution, controlled rent, six months of liquidity protection and written distributor safeguards. Laptop and accessory opening capital must be approved separately after local sell-through, attachment, margin, warranty and stock-rotation evidence is obtained.
 
 ## Evidence quality rule
 
@@ -65,7 +67,7 @@ The NSO Living Standards Survey reported Lumbini Urban poverty incidence at 24.0
 
 Applying the national FY 2025/26 smartphone-import rate mechanically to Nepalgunj's census population produces approximately 12,800 smartphones per year, or 1,065 per month, across the city. This is only a calculated scale check: it is not observed local demand and does not adjust for regional visitors, grey-market devices, existing inventory or competitor share.
 
-A new store selling 70–90 phones per month would require roughly 7–8% of this city-only pro-rata quantity. That is demanding but potentially achievable for a differentiated regional flagship; distributor data and field counts must validate it.
+A new store selling 70–90 phones per month would equal roughly 6.6–8.5% of this city-only pro-rata quantity. Those are arithmetic comparisons, not market-share estimates: the denominator excludes catchment inflow, channel leakage and local replacement behavior. The [integrated study](../../research/integrated-market-size-assortment-and-flagship-defensibility.md) defines the local evidence and capture bridge required before the target can be treated as commercially credible.
 
 ## Expected fast-moving assortment
 
@@ -84,7 +86,7 @@ Apple, Samsung flagships, foldables and other devices above NPR 100,000 should b
 
 ### Brand architecture
 
-| Brand group | Proposed share of handset capital | Role |
+| Brand group | Working share hypothesis—not an approved allocation | Role |
 |---|---:|---|
 | Xiaomi/Redmi/Poco | 30% | Value-volume anchor |
 | Samsung | 25% | Trust, service support and complete price ladder |
@@ -97,6 +99,8 @@ Apple, Samsung flagships, foldables and other devices above NPR 100,000 should b
 | Honor/OnePlus/testing | 2% | Controlled experiments |
 
 Samsung, Apple and Nothing alone are not recommended because that range would under-serve the main NPR 15,000–30,000 market.
+
+These percentages and the earlier 120-unit opening concept must be rebuilt at exact-SKU level in the canonical commercial evidence model. They do not authorise a purchase order.
 
 ## Laptop demand and opening role
 

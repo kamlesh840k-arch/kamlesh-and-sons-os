@@ -1,10 +1,12 @@
 # KAMLESH Mobile — Nepalgunj Flagship Showroom Blueprint
 
 **Document ID:** EVD-NPJ-FLAGSHIP-002
-**Version:** 0.4.2
+**Version:** 0.5.0
 **Status:** Planning evidence — quotations, field validation and approvals pending
 **Accountable owner:** Founder until site-specific owners are appointed
 **Canonical dependencies:** v0.3 Store Design, v0.4 Customer Experience, v0.6 Operations & People, v0.7 Marketing, v0.8 Finance and v1.0 Flagship Ready
+
+**Related research/model:** [Integrated market size, assortment and flagship defensibility](../../research/integrated-market-size-assortment-and-flagship-defensibility.md) and [KAMLESH Flagship Commercial Evidence Model](./KAMLESH-Flagship-Commercial-Evidence-Model.xlsx)
 
 Planning date: August 2026
 Current working footprint: approximately 60 ft long × 12 ft wide / five connected bays / approximately 720 sq ft
@@ -233,7 +235,7 @@ Dedicated shelf and chain-of-custody workflow for WhatsApp orders, advance order
 
 ## 5. Opening handset inventory
 
-Target approximately 120 sale units plus controlled demonstration units, with a combined opening handset cost ceiling of NPR 35–42 lakh. Within that total, plan approximately NPR 30–35 lakh of BG-supported anchor/halo stock and NPR 6–8 lakh of other authorised stock funded from bank-approved working capital/equity; the final mix must stay within the combined ceiling rather than adding both maximums mechanically.
+The earlier target of approximately 120 sale units plus controlled demonstration units, with a combined opening handset cost ceiling of NPR 35–42 lakh, is a planning hypothesis to test—not a market finding, approved allocation or purchase authority. Rebuild the opening quantity and brand mix through the canonical workbook's SKU gate using actual demand, contribution, days cover, authorised terms and downside liquidity. Within any later founder-approved total, BG-supported and other authorised stock must remain inside one combined ceiling rather than adding maximums mechanically.
 
 ### Price-tier allocation
 
@@ -246,7 +248,7 @@ Target approximately 120 sale units plus controlled demonstration units, with a 
 | NPR 50,000–80,000 | 10 | NPR 6.5 lakh | Selective aspirational inventory |
 | NPR 80,000–120,000 | 2 | NPR 2 lakh | Demonstration and limited stock |
 | Above NPR 120,000 | 4 | NPR 6.4 lakh | Halo stock; most variants order-led |
-| **Total** | **120** | **Approximately NPR 42 lakh** | |
+| **Scenario total—not approved** | **120** | **Approximately NPR 42 lakh** | Replace through exact-SKU evidence gate |
 
 The cost/value envelope must be rebuilt using actual distributor net prices, tax treatment and credit notes.
 

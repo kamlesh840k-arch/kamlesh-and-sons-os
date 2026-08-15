@@ -1,7 +1,7 @@
 # Nepalgunj Field Validation and Research-Led Marketing Plan
 
 **Document ID:** EVD-NPJ-FLAGSHIP-004
-**Version:** 0.7.0
+**Version:** 0.8.0
 **Status:** Execution plan — no field activity marked complete
 **Accountable owner:** Founder until Research and Marketing Owners are appointed
 
@@ -27,6 +27,17 @@ Confidential distributor margins, credit limits, individual retailer sales, myst
 | Trade-in partners | 3 comparable proposals + 8 standardized quotes + 3 supervised settlements | Open |
 | Repair/custody support | 3 workflow simulations + 2 insurer quotations + 30–50 controlled cases | Open |
 | Financial model | Actual rent, payroll, margin, credit, interest and BG terms entered | Open |
+| Integrated market model | 2 independent local demand methods + 4 weeks of origin/funnel evidence + completed contribution and SKU-assortment gates | Open |
+
+## Canonical commercial evidence model
+
+Use the [KAMLESH Flagship Commercial Evidence Model](./KAMLESH-Flagship-Commercial-Evidence-Model.xlsx) for the integrated demand, capture, break-even, assortment and defensibility analysis. Retain raw interviews, source records and quotations separately; the workbook records the comparable inputs and formula outputs, not the full evidence archive.
+
+- Load every field input with source type, period, geography/category scope and evidence quality.
+- Keep Nepalgunj residents, Banke/nonresident catchment, other Nepal catchment and institutional demand separate until duplicates are controlled.
+- Build the local market range from at least two independent demand methods. Use the public pro-rata result only as a scale check.
+- Do not infer local TAM or market share from the directional 100-person customer study. It supports customer problems, segments and choice hypotheses, not population prevalence.
+- Reconcile the demand range with qualified visits, conversion, availability, contribution, staff/service capacity and opening SKU gates before founder review.
 
 ## Distributor quotation request
 

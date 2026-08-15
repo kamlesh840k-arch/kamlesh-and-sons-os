@@ -19,6 +19,8 @@ The project follows [Semantic Versioning](https://semver.org/).
 - Brand/distributor retail-support study covering fixtures, demos, MDF, promoters, rebates, training, claim realisation, space/exit economics and Nepal evidence requirements.
 - Formula-driven distributor operating workbook with proposal comparison, term economics, purchases, claims, price-protection, brand-support and exception-control sheets.
 - Trade-in and ownership-support economics study covering partner/principal structures, transparent valuation, title/fraud/data/tax controls, repair concierge, pickup/drop, loaner pools and assured-buyback liabilities.
+- Integrated Nepalgunj market-size, assortment and flagship-defensibility study connecting public scale checks, five local sizing methods, store capture, contribution, SKU gates and a testable Decision-to-Ownership Confidence System.
+- Formula-driven KAMLESH Flagship Commercial Evidence Model separating public inputs, field evidence, market triangulation, funnel/break-even, SKU assortment and defensibility gates without implying founder approval.
 
 ### Changed
 
@@ -30,6 +32,7 @@ The project follows [Semantic Versioning](https://semver.org/).
 - Corrected company “OD” planning language to cash-credit/approved working-capital or term-loan structures pending written bank confirmation, and separated revolving supplier limits from sell-through settlement and true consignment.
 - Expanded the distributor proposal and control procedures so unreceived support cannot fund downside cash and weighted scores cannot override title, guarantee/security, due-date or customer-experience gates.
 - Reframed launch trade-in as a conditional partner-principal pilot and added written service SLA, custody, sanitization, route-cost, insurance and serialized-loaner controls without approving used inventory or future-value guarantees.
+- Reclassified the 70-phone month-three target, approximately 1,070-phone year-one target, 120-unit opening table and brand percentages as explicit model hypotheses requiring local demand, funnel, contribution and exact-SKU evidence.
 
 ## [1.0.0-rc.2] — Roadmap Documentation Integration
 

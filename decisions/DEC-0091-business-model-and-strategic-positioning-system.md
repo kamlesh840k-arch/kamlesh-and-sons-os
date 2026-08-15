@@ -3,6 +3,7 @@
 **Decision ID:** DEC-0091  
 **Status:** Accepted  
 **Version:** 0.1.0
+**Related Research:** [Integrated market size, assortment and flagship defensibility](../docs/research/integrated-market-size-assortment-and-flagship-defensibility.md)
 
 ## Decision
 

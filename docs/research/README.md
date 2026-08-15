@@ -2,7 +2,7 @@
 
 **Document ID:** RESEARCH-INDEX-001
 
-**Version:** 0.7.0
+**Version:** 0.8.0
 
 **Status:** Active canonical index and backlog
 
@@ -48,10 +48,10 @@ Historical conversation notes and planning files can shape research questions, b
 | 9. Trade-in/buyback | [Ownership-support economics](trade-in-and-ownership-support-economics.md), [customer policies](../evidence/nepalgunj-mobile-flagship/customer-policies-and-service-operations.md), [competitor matrix](competitor-experience-matrix.md) | Structure taxonomy, valuation states, grade controls, partner/principal economics, fraud/data/tax boundaries and launch gates complete | V/P/E/H; partner/adviser evidence open | Obtain three proposals, eight standardized quotes, supervised settlements and accountant/legal review |
 | 10. Warranty/service/repair concierge/loaner | [Ownership-support economics](trade-in-and-ownership-support-economics.md), [customer policies](../evidence/nepalgunj-mobile-flagship/customer-policies-and-service-operations.md), [repair network field check](../evidence/nepalgunj-mobile-flagship/distributor-system/supply-service/nepalgunj-repair-network-and-field-check.md), [competitor matrix](competitor-experience-matrix.md) | Case lifecycle, SLA, contribution, custody, pickup/drop and loaner-pool controls complete; no launch approval implied | V/P/E/H plus D boundary | Obtain partner and insurer terms, run three service simulations and a controlled 30–50-case pilot |
 | 11. Pricing vs experience / willingness to pay | [Customer friction/WTP study](customer-phone-buying-experience-and-price-hypothesis.md), [value proposition](why-buy-from-k-and-s-value-proposition.md) | Directional 0–12% exact-NPR stated-choice pilot, opt-out, randomized blocks, analysis limits and behavioral-validation gate defined | Method ready; H remains | Expert-review/freeze choice design, execute field study, then validate against real conversion and lost sales |
-| 12. Demand by price segment/brand/underserved segment | [Market feasibility](../evidence/nepalgunj-mobile-flagship/nepalgunj-market-feasibility-research.md) | National category and local household-access signals exist; phone/laptop research strata defined; local sell-through absent | V/E/H | Collect distributor/retailer last-30/90-day units, institutional demand and customer sample |
-| 13. Local market sizing methods/data access | [Field validation plan](../evidence/nepalgunj-mobile-flagship/field-validation-and-research-marketing-plan.md), [sources register](../evidence/nepalgunj-mobile-flagship/sources-and-assumptions-register.md) | Phone/laptop/accessory sell-through, basket, customer, institutional, service and waitlist methods defined | Method approved as execution plan; data open | Execute data requests; add bank/MDMS access constraints in EMI and border batches |
-| 14. Store differentiation/whitespace | [Value proposition](why-buy-from-k-and-s-value-proposition.md), [competitor matrix](competitor-experience-matrix.md) | Whitespace hypotheses defined | H | Rank by customer value, cost, operational difficulty and defensibility |
-| 15. Other commercial-defensibility research | This backlog | Not exhaustive | Open | Add only when a decision or risk requires it |
+| 12. Demand by price segment/brand/underserved segment | [Market feasibility](../evidence/nepalgunj-mobile-flagship/nepalgunj-market-feasibility-research.md), [integrated flagship study](integrated-market-size-assortment-and-flagship-defensibility.md), [commercial evidence model](../evidence/nepalgunj-mobile-flagship/KAMLESH-Flagship-Commercial-Evidence-Model.xlsx) | National/local scale signals, category roles, segment hypotheses and order-led architecture complete; local mix and sell-through absent | V/E/H | Collect distributor/retailer last-30/90-day units, institutional demand, customer evidence and exact-SKU economics |
+| 13. Local market sizing methods/data access | [Integrated flagship study](integrated-market-size-assortment-and-flagship-defensibility.md), [commercial evidence model](../evidence/nepalgunj-mobile-flagship/KAMLESH-Flagship-Commercial-Evidence-Model.xlsx), [field validation plan](../evidence/nepalgunj-mobile-flagship/field-validation-and-research-marketing-plan.md), [sources register](../evidence/nepalgunj-mobile-flagship/sources-and-assumptions-register.md) | Five-method sizing system, source limits, capture bridge and evidence model complete | Method/model complete; local evidence open | Obtain at least two independent local demand estimates and four weeks of origin/funnel evidence |
+| 14. Store differentiation/whitespace | [Integrated flagship study](integrated-market-size-assortment-and-flagship-defensibility.md), [value proposition](why-buy-from-k-and-s-value-proposition.md), [competitor matrix](competitor-experience-matrix.md) | Table stakes separated from a testable Decision-to-Ownership Confidence System; six defensibility gates defined | H; local execution/value proof open | Test customer lift, contribution, repeatability, competitor parity and copy resistance |
+| 15. Other commercial-defensibility research | This backlog and the [integrated flagship study](integrated-market-size-assortment-and-flagship-defensibility.md) | Desk programme covers the currently named launch-critical commercial risks | Desk scope complete; field, decision and adviser gaps open | Add desk work only when field evidence exposes a new material decision or risk |
 
 ## Research sequence
 
@@ -67,7 +67,8 @@ The sequence is risk-led rather than purely thematic. Existing work is updated b
 | 6 | Customer frustration and willingness-to-pay field study | Converts general hypotheses into local evidence | **Desk instrument complete; cognitive, main and behavioral execution open — 2026-08-15** |
 | 7 | Supplier credit, protection and brand-support commercial evidence | Replaces generic negotiation labels with comparable, downside-tested structures | **Desk/commercial instrument complete; partner and adviser evidence open — 2026-08-15** |
 | 8 | Trade-in, service concierge, pickup/drop and loaner unit economics | Determines which ownership services can launch safely | **Desk/legal-control model complete; partner, adviser and pilot evidence open — 2026-08-15** |
-| 9 | Integrated market size, assortment and flagship defensibility synthesis | Produces the decision input for founder go/no-go | **Next desk batch; field programs remain active** |
+| 9 | Integrated market size, assortment and flagship defensibility synthesis | Produces the decision input for founder go/no-go | **Desk study and evidence model complete; field inputs open — 2026-08-15** |
+| 10 | Field-evidence activation and integrated analysis | Replaces local demand, funnel, margin, partner and execution assumptions with dated evidence | **Next execution batch; external access and founder-authorised field activity required** |
 
 ## Active field evidence backlog
 
@@ -89,6 +90,7 @@ These items require real-world access and must not be marked complete from desk 
 14. Three comparable trade-in partner proposals, eight standardized trade-in quotes, four independent re-inspections and three supervised settlement tests using [RESEARCH-OWNERSHIP-001](trade-in-and-ownership-support-economics.md).
 15. Two insurer quotations plus written accountant and legal memos covering custody/transit, used-stock, exchange/barter VAT, privacy, partner agency, loaner and contingent buyback liability.
 16. Three full repair-concierge workflow simulations and a controlled 30–50 completed-case pilot before expansion; track contribution, re-grades, settlement, disputes, downtime, route cost and status compliance.
+17. Four weeks of transaction-origin, qualified-visit, exact-SKU quote, conversion and lost-sale evidence; load the complete evidence set into the canonical [commercial evidence model](../evidence/nepalgunj-mobile-flagship/KAMLESH-Flagship-Commercial-Evidence-Model.xlsx) and retain field records separately.
 
 ## Historical-context source status
 

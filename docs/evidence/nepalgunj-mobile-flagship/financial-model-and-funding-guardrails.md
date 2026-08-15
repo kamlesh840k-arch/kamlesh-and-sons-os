@@ -1,9 +1,11 @@
 # Nepalgunj Flagship Financial Model and Funding Guardrails
 
 **Document ID:** EVD-NPJ-FLAGSHIP-005
-**Version:** 0.3.1
+**Version:** 0.4.0
 **Status:** Planning model — bank, distributor, rent, payroll and professional inputs pending
 **Accountable owner:** Founder until Finance Owner is appointed
+
+**Related research/model:** [Integrated market size, assortment and flagship defensibility](../../research/integrated-market-size-assortment-and-flagship-defensibility.md) and [KAMLESH Flagship Commercial Evidence Model](./KAMLESH-Flagship-Commercial-Evidence-Model.xlsx)
 
 ## Funding concept
 
@@ -18,7 +20,9 @@ The founder currently intends the BG side for approved authorised anchor/halo di
 
 A bank guarantee is a contingent liability, not free stock capital. Invocation creates an obligation to the bank. Commission, collateral/margin, expiry, renewal and claim procedures must be modelled separately.
 
-## Controlled opening allocation
+## Controlled opening allocation hypotheses
+
+The envelopes below are planning scenarios, not approved allocations or authority to draw debt, issue a BG or place stock orders. Rebuild them from the SKU-level gate after local demand, exact supplier economics and downside liquidity are evidenced.
 
 | Use | Facility source | Opening guideline |
 |---|---:|---:|
@@ -70,7 +74,9 @@ At an early blended gross margin near 9%:
 
 These are planning calculations, not forecasts. The final model must include interest, principal repayment, BG commission, tax, discounts, warranty exposure, shrinkage and depreciation.
 
-## First-year commercial targets
+## First-year commercial target hypotheses
+
+These targets are model inputs to test against at least two independent local demand methods, four weeks of qualified-visit/conversion evidence and realized contribution. They are not market findings, forecasts or approved market-share commitments.
 
 | Period | Handset units | Total sales target including accessories/services |
 |---|---:|---:|
