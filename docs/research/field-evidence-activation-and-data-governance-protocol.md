@@ -2,9 +2,9 @@
 
 **Document ID:** RESEARCH-FIELD-001
 
-**Version:** 0.2.0
+**Version:** 0.3.0
 
-**Status:** Execution system complete; fieldwork, translation, privacy approval and real-world collection not started
+**Status:** Stage A synthetic rehearsal complete; live fieldwork remains condition-gated
 
 **Owner:** Founder until a Research Lead and Data Custodian are appointed
 
@@ -14,13 +14,15 @@
 
 **Operating workbook:** [KAMLESH Field Evidence Collection System](../evidence/nepalgunj-mobile-flagship/KAMLESH-Field-Evidence-Collection-System.xlsx)
 
-**Related decisions:** [DEC-0017](../../decisions/DEC-0017-research-and-market-intelligence-strategy.md), [DEC-0048](../../decisions/DEC-0048-sales-crm-and-customer-relationship-management-system.md), [DEC-0054](../../decisions/DEC-0054-customer-service-support-warranty-and-after-sales-experience-system.md), [DEC-0092](../../decisions/DEC-0092-market-research-and-competitive-intelligence-system.md)
+**Stage A report:** [RESEARCH-FIELD-002 synthetic rehearsal](field-evidence-stage-a-synthetic-rehearsal.md)
+
+**Related decisions:** [DEC-0017](../../decisions/DEC-0017-research-and-market-intelligence-strategy.md), [DEC-0048](../../decisions/DEC-0048-sales-crm-and-customer-relationship-management-system.md), [DEC-0054](../../decisions/DEC-0054-customer-service-support-warranty-and-after-sales-experience-system.md), [DEC-0092](../../decisions/DEC-0092-market-research-and-competitive-intelligence-system.md), [DEC-0103](../../decisions/DEC-0103-staged-field-research-activation-boundary.md)
 
 ## Purpose and decision boundary
 
 This protocol turns the completed desk instruments into one executable evidence system. It defines common identifiers, consent separation, source and quality labels, raw-data tables, version control, evidence custody, quality review and handoff into the commercial model.
 
-It does not authorise travel, incentives, covert recording, cross-border buying, customer contact, paid professional advice, collection of identity documents, publication of named competitor findings or any product/service/launch decision. Those actions require the approvals stated below.
+[DEC-0103](../../decisions/DEC-0103-staged-field-research-activation-boundary.md) now authorises zero-cost preparation and synthetic rehearsal only. It does not authorise live participant or competitor contact, travel, incentives, covert recording, cross-border buying, paid professional advice, personal/confidential evidence collection, publication of named competitor findings or any product/service/launch decision. Live activity requires the conditions stated below.
 
 The collection workbook is a blank operating instrument. An empty or formula-complete workbook is not field evidence. Only dated, reviewable records from authorised collection can change an assumption.
 
@@ -61,21 +63,27 @@ The following are method and governance references, not Nepal market findings:
 4. The 2025 ICC/ESOMAR Code adds duty of care, data minimisation, privacy, accountability and human oversight as current professional benchmarks. It is not Nepal law and does not substitute for local legal review.
 5. Nepal's Privacy Act, 2075 treats address, telephone/email and other person-linked data as personal information; its data-privacy provisions require consented data to be used for the purpose for which it was collected. Obtain qualified Nepal advice before collection rather than treating this protocol as a legal opinion.
 
+## Current staged authorisation
+
+Stage A used invented `SIM-` records in a disposable in-memory workbook copy to rehearse workflow, formula, identifier, missing-value, exclusion and QA controls. [RESEARCH-FIELD-002](field-evidence-stage-a-synthetic-rehearsal.md) records the passed checks and one governance-wording correction. Synthetic records were not exported, did not enter the canonical blank workbook or an analysis dataset, and were destroyed when the rehearsal ended. No external person or organisation was contacted and no cash was committed.
+
+Stage B is the first live pilot defined in DEC-0103: twelve Nepalgunj cognitive interviews, six standardized Nepalgunj competitor inquiries/observations and no more than two supervised live records in any other separately enabled workstream. It remains closed until every relevant gate is evidenced. Stage C production remains closed pending the pilot report, frozen instrument and founder acceptance.
+
 ## Field activation gates
 
 No participant interview, contact capture, mystery shop, evidence photograph or paid field action begins until all gates below are recorded in the Version Register or a linked decision record.
 
-| Gate | Minimum evidence | Status at creation |
+| Gate | Minimum evidence | Current status under DEC-0103 |
 |---|---|---|
-| Accountable owner | Named Research Lead, Data Custodian and Quality Reviewer | Open |
-| Field authority | Dates, locations, workstreams, permitted observation and travel approved | Open |
+| Accountable owner | Named Research Lead, Data Custodian and Quality Reviewer | Open — role design accepted; names absent |
+| Field authority | Dates, locations, workstreams, permitted observation and travel approved | Stage A only; Stage B dates/safety record open |
 | Privacy/legal | Approved notice, consent wording, lawful basis, retention/deletion and incident route | Open |
-| Instrument | English source version frozen; Nepali translation reviewed, adjudicated and cognitively tested | Open |
+| Instrument | English source version frozen; Nepali translation reviewed, adjudicated and cognitively tested | Draft/rehearsal only; live version open |
 | Enumerator readiness | Training, role play, neutrality, safety and escalation passed | Open |
 | Technology | Approved offline-capable collection device/tool, access control, backup and sync test | Open |
 | Evidence custody | Restricted storage path, redaction, naming and reviewer access tested | Open |
-| Budget | Incentive, travel, communication and paid-advice limits approved, or recorded as zero | Open |
-| Pilot | At least two supervised records per active workstream reviewed before production | Open |
+| Budget | Incentive, travel, communication and paid-advice limits approved, or recorded as zero | Zero-cost Stage A accepted; live scope open |
+| Pilot | At least two supervised records per active workstream reviewed before production | Stage A synthetic rehearsal passed; live pilot open |
 
 If a gate is open, prepare materials but do not collect live personal or commercially confidential evidence.
 
@@ -233,18 +241,22 @@ If more than 15% of completed customer interviews fail quality review, pause pro
 7. Reconcile local demand through at least two independent methods before loading a low/base/high market range into the [commercial evidence model](../evidence/nepalgunj-mobile-flagship/KAMLESH-Flagship-Commercial-Evidence-Model.xlsx).
 8. Connect service/feature evidence to actual use, conversion, contribution, delivery reliability and risk before classification as a differentiator.
 
-## Founder decisions required before live fieldwork
+## Founder decisions and remaining activation evidence
+
+DEC-0103 resolves the founder-level choices on staging, first-pilot geography and size, minimum-data boundaries, internal competitor naming, zero-cost preparation and production hold. It does not invent the people, legal opinion, technology test, dates, safety plan or live budget needed to activate Stage B.
+
+The remaining activation evidence is:
 
 1. Research Lead, Data Custodian, Quality Reviewer and enumerator appointments.
 2. Approved dates, locations, store visit scope, travel and safety plan.
 3. Privacy/legal review, consent/notice wording, access classes, retention and deletion schedule.
 4. English and Nepali instrument versions after cognitive testing.
 5. Research device/tool, offline collection, account permissions, sync, backup and incident procedure.
-6. Incentive, travel, communication, analyst and adviser budget—or explicit no-cost scope.
-7. Whether named competitors may be stored internally and what can be published.
-8. Any contact, media, document-photo, IMEI/serial or sensitive commercial-data collection.
+6. A written zero-cost live scope or capped incentive, travel, communication, analyst and adviser budget.
 
-These are genuine founder/legal/external-action gates. Preparing this protocol does not satisfy them.
+Named competitors may be stored internally; external reporting is aggregated or limited to dated public claims with citations. Contact capture, media use, audio/video, photographs, identity data, banking data, IMEI/serial, private device content and unredacted documents are prohibited in the first live pilot.
+
+These are genuine people, legal/privacy, technology, safety and external-action gates. Founder delegation and synthetic rehearsal do not satisfy them.
 
 ## Major-batch synthesis
 
@@ -266,11 +278,11 @@ Enumerator selling, convenient recruitment, literal translation, unprotected ide
 
 ### Unresolved questions
 
-Who will own and execute fieldwork, what data system/storage will be approved, what Nepali wording passes cognitive testing, what retention period is lawful and proportionate, and which local sources will provide documentary rather than recalled data?
+Who will be named to execute and independently review fieldwork, what data system/storage will pass the access and backup test, what Nepali wording passes independent review and cognitive testing, what retention period qualified Nepal advice supports, and which local sources will provide documentary rather than recalled data?
 
 ### Recommended next research
 
-After founder/privacy approval, run the supervised two-record-per-workstream pilot and twelve cognitive interviews. Review wording, duration, field safety, missingness and evidence custody before freezing the 100-interview production instrument. Load only quality-reviewed summaries into the commercial model.
+Stage A passed with one dashboard-authorisation wording correction; see [RESEARCH-FIELD-002](field-evidence-stage-a-synthetic-rehearsal.md). After the remaining DEC-0103 conditions pass, run the limited Stage B Nepalgunj pilot. Review wording, duration, field safety, missingness and evidence custody before requesting Stage C production approval or loading quality-reviewed summaries into the commercial model.
 
 ## Sources
 

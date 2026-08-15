@@ -2,7 +2,7 @@
 
 **Document ID:** RESEARCH-INDEX-001
 
-**Version:** 0.11.0
+**Version:** 0.13.0
 
 **Status:** Active canonical index and backlog
 
@@ -12,7 +12,7 @@
 
 **Last updated:** 2026-08-15
 
-**Related decisions:** DEC-0017, DEC-0092, DEC-CUSTOMER-COMMERCIAL-v0.4
+**Related decisions:** DEC-0017, DEC-0092, DEC-0103, DEC-CUSTOMER-COMMERCIAL-v0.4
 
 ## Purpose
 
@@ -68,10 +68,16 @@ The sequence is risk-led rather than purely thematic. Existing work is updated b
 | 7 | Supplier credit, protection and brand-support commercial evidence | Replaces generic negotiation labels with comparable, downside-tested structures | **Desk/commercial instrument complete; partner and adviser evidence open — 2026-08-15** |
 | 8 | Trade-in, service concierge, pickup/drop and loaner unit economics | Determines which ownership services can launch safely | **Desk/legal-control model complete; partner, adviser and pilot evidence open — 2026-08-15** |
 | 9 | Integrated market size, assortment and flagship defensibility synthesis | Produces the decision input for founder go/no-go | **Desk study and evidence model complete; field inputs open — 2026-08-15** |
-| 10 | Field-evidence activation and integrated analysis | Replaces fragmented notes with governed IDs, consent separation, evidence custody, version control and automatic QA | **Execution protocol/workbook complete; founder/privacy approval and live fieldwork open — 2026-08-15** |
+| 10 | Field-evidence activation and integrated analysis | Replaces fragmented notes with governed IDs, consent separation, evidence custody, version control and automatic QA | **Execution system and Stage A synthetic rehearsal complete; remaining live gates open — 2026-08-15** |
 | 11 | Western Nepal institutional demand and procurement | Replaces an undifferentiated institutional-demand assumption with official account bases, procurement states, commercial risks and a twelve-account evidence protocol | **Desk baseline complete; interviews, tender ledger and pilot orders open — 2026-08-15** |
 | 12 | Western Nepal consumer demand segments and catchment | Separates official access/affordability context from unverified price-band, brand, premium and gateway assumptions, then defines exact field tests | **Desk baseline complete; local behavioral/commercial evidence open — 2026-08-15** |
-| 13 | Supervised field pilot, cognitive freeze and production execution | Tests the instrument, translation, custody and enumerator controls before the full evidence programme | **External/founder-authorised action required; not started** |
+| 13 | Supervised field pilot, cognitive freeze and production execution | Tests the instrument, translation, custody and enumerator controls before the full evidence programme | **[Stage A synthetic rehearsal](field-evidence-stage-a-synthetic-rehearsal.md) passed; Stage B live pilot condition-gated; Stage C production closed — 2026-08-15** |
+
+## Stage A result and immediate readiness action
+
+[RESEARCH-FIELD-002](field-evidence-stage-a-synthetic-rehearsal.md) records the completed zero-cost rehearsal. Invented `SIM-` records correctly triggered and cleared duplicate-ID and evidence-review alerts; checked counts and derived formulas passed; the disposable in-memory copy was destroyed; and the canonical workbook remains blank. One ambiguous dashboard label was corrected so QA status cannot be mistaken for live-fieldwork authority.
+
+The immediate work is activation readiness: name the accountable field roles, obtain qualified Nepal privacy/legal review, freeze the English and independently reviewed/adjudicated Nepali materials, test the company-controlled tool/storage/backup/sync path, and record Nepalgunj dates, safety and live budget. No live record may be collected until every applicable DEC-0103 Stage B gate is evidenced.
 
 ## Active field evidence backlog
 
@@ -94,7 +100,7 @@ These items require real-world access and must not be marked complete from desk 
 15. Two insurer quotations plus written accountant and legal memos covering custody/transit, used-stock, exchange/barter VAT, privacy, partner agency, loaner and contingent buyback liability.
 16. Three full repair-concierge workflow simulations and a controlled 30–50 completed-case pilot before expansion; track contribution, re-grades, settlement, disputes, downtime, route cost and status compliance.
 17. Four weeks of transaction-origin, qualified-visit, exact-SKU quote, conversion and lost-sale evidence; load the complete evidence set into the canonical [commercial evidence model](../evidence/nepalgunj-mobile-flagship/KAMLESH-Flagship-Commercial-Evidence-Model.xlsx) and retain field records separately.
-18. Founder/privacy approval of the named field roles, lawful notice/consent, retention/deletion, approved collection tool, restricted evidence store, safety, travel and incentive budget recorded under [RESEARCH-FIELD-001](field-evidence-activation-and-data-governance-protocol.md).
+18. Complete the remaining DEC-0103 activation evidence: named field roles, qualified Nepal privacy/legal review, lawful notice/consent and retention/deletion, approved collection tool, restricted evidence store, safety/dates and a written zero-cost live scope or capped budget under [RESEARCH-FIELD-001](field-evidence-activation-and-data-governance-protocol.md).
 19. At least two supervised records per active workstream entered in the [collection workbook](../evidence/nepalgunj-mobile-flagship/KAMLESH-Field-Evidence-Collection-System.xlsx), reviewed for timing, missingness, ID linkage, evidence custody and field safety before production.
 20. Twelve cognitive interviews using the reviewed Nepali instrument, with every wording/design change logged and the production version frozen before the 100-interview main study.
 21. Exact-SKU price-band, unaided/considered/purchased brand and mutually exclusive origin coding under [RESEARCH-SEGMENT-001](western-nepal-device-demand-segments-and-catchment.md); no purposive-sample result may be labelled population brand share, price-band share or catchment uplift.

@@ -1,8 +1,8 @@
 # Nepalgunj Field Validation and Research-Led Marketing Plan
 
 **Document ID:** EVD-NPJ-FLAGSHIP-004
-**Version:** 0.10.0
-**Status:** Execution plan — no field activity marked complete
+**Version:** 0.11.0
+**Status:** DEC-0103 Stage A rehearsal complete; no live field activity marked complete
 **Accountable owner:** Founder until Research and Marketing Owners are appointed
 
 ## Purpose
@@ -28,7 +28,7 @@ Confidential distributor margins, credit limits, individual retailer sales, myst
 | Repair/custody support | 3 workflow simulations + 2 insurer quotations + 30–50 controlled cases | Open |
 | Financial model | Actual rent, payroll, margin, credit, interest and BG terms entered | Open |
 | Integrated market model | 2 independent local demand methods + 4 weeks of origin/funnel evidence + completed contribution and SKU-assortment gates | Open |
-| Field system activation | Named roles, approved privacy/retention, reviewed Nepali version, tested tool/custody and supervised pilot | Open |
+| Field system activation | Named roles, approved privacy/retention, reviewed Nepali version, tested tool/custody and supervised pilot | [Stage A rehearsal passed](../../research/field-evidence-stage-a-synthetic-rehearsal.md); live gates open |
 
 ## Canonical field collection system
 
@@ -38,7 +38,7 @@ Use [RESEARCH-FIELD-001](../../research/field-evidence-activation-and-data-gover
 - Keep names, telephone numbers, emails, precise addresses, IMEI/serial identifiers and unredacted personal or confidential evidence outside this workbook and outside GitHub in the approved restricted system.
 - Link allowed evidence metadata through `evidence_id`; do not paste restricted evidence into a notes cell.
 - Review the QA dashboard daily, preserve invalid/frozen records and lock a raw snapshot before analysis.
-- Live interviews, travel, incentives, document photography, commercially confidential collection or named publication still require the protocol's founder/privacy/legal/external approvals.
+- DEC-0103 permits zero-cost synthetic rehearsal in a disposable copy only. Live interviews, visits, travel, incentives, document photography, commercially confidential collection or named publication still require every applicable protocol gate.
 
 ## Canonical commercial evidence model
 

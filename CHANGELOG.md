@@ -25,6 +25,8 @@ The project follows [Semantic Versioning](https://semver.org/).
 - Formula-driven 18-sheet KAMLESH Field Evidence Collection System for approach disposition, customer/friction/choice records, competitor and price baskets, sell-through, institutions, traffic, funnel, purchase/service cases, evidence custody and completion controls.
 - Western Nepal institutional device-demand and procurement study covering official Banke/Nepalgunj/Kohalpur education and health account bases, local tender evidence, procurement states, twelve-account field protocol, commercial gates and exposure controls.
 - Western Nepal consumer device-demand and catchment study covering official ICT access/use, affordability and local segment frames; exact price/brand/origin field protocols; and explicit premium/underserved evidence gates.
+- Accepted DEC-0103 staged field-research activation boundary, authorising zero-cost synthetic rehearsal while keeping live and production research behind named-owner, privacy/legal, technology, safety, budget and pilot gates.
+- Completed the DEC-0103 Stage A synthetic rehearsal across linked field tables and QA controls; duplicate/evidence-review alerts and checked derived formulas passed, the synthetic copy was destroyed, and the canonical workbook remained blank.
 
 ### Changed
 
@@ -40,6 +42,8 @@ The project follows [Semantic Versioning](https://semver.org/).
 - Replaced the generic “start fieldwork” backlog with one governed execution system that keeps identifiers and restricted evidence out of GitHub, separates instrument versions and consent types, and prevents workbook completion from becoming a market claim or founder decision.
 - Replaced the undifferentiated institutional-demand assumption with sector/geography quotas and separate completed, confirmed, documented-plan, verbal and exploratory states; institution/student/facility counts are now explicitly prohibited as device-unit multipliers.
 - Reclassified the NPR 15,000–35,000 “strongest band,” sub-NPR-30,000 centre of gravity and brand-percentage table as hypotheses/field inputs; public access, poverty, customs and census data are now explicitly prohibited as local price-band, brand-share, premium-demand or catchment proof.
+- Replaced the single open/closed fieldwork status with Stage A preparation, condition-gated Stage B Nepalgunj pilot and separately approved Stage C production; synthetic records are explicitly excluded from evidence and the canonical workbook.
+- Renamed the workbook's ambiguous `FIELD EXECUTION OPEN` state to `QA OPEN` and added an explicit not-authorisation boundary on the cover, protocol summary, dashboard and Version Register.
 
 ## [1.0.0-rc.2] — Roadmap Documentation Integration
 
