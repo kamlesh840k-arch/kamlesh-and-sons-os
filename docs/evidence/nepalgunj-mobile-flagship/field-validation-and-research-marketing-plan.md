@@ -1,7 +1,7 @@
 # Nepalgunj Field Validation and Research-Led Marketing Plan
 
 **Document ID:** EVD-NPJ-FLAGSHIP-004
-**Version:** 0.6.0
+**Version:** 0.6.1
 **Status:** Execution plan — no field activity marked complete
 **Accountable owner:** Founder until Research and Marketing Owners are appointed
 
@@ -201,7 +201,7 @@ The current planning target is a conditional public opening during 2–4 October
 - Open publicly only after the blueprint's red gates are signed off.
 - Use supplier-funded or margin-approved festival bundles; do not promise stock, EMI, trade-in value or gifts before written confirmation.
 - Publish live hours, appointment options, service capacity and sold-out status accurately.
-- Replenish proven sellers; do not expand BG/OD use merely because opening traffic is high.
+- Replenish proven sellers; do not expand BG/working-capital use merely because opening traffic is high.
 
 ## Handoff to the financial model
 
@@ -210,7 +210,7 @@ The final model must replace assumptions with:
 - Selected rent and lease cash flow
 - Approved staffing and payroll
 - Actual distributor net margin, incentives and credit notes
-- Bank interest, OD, term-loan and BG terms
+- Bank interest, cash-credit/working-capital, term-loan and BG terms
 - Opening inventory at distributor cost
 - Fit-out quotations
 - Insurance, tax and compliance costs

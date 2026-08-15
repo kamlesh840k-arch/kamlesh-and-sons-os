@@ -1,7 +1,7 @@
 # KAMLESH Mobile — Nepalgunj Flagship Showroom Blueprint
 
 **Document ID:** EVD-NPJ-FLAGSHIP-002
-**Version:** 0.4.1
+**Version:** 0.4.2
 **Status:** Planning evidence — quotations, field validation and approvals pending
 **Accountable owner:** Founder until site-specific owners are appointed
 **Canonical dependencies:** v0.3 Store Design, v0.4 Customer Experience, v0.6 Operations & People, v0.7 Marketing, v0.8 Finance and v1.0 Flagship Ready
@@ -47,11 +47,11 @@ The recommended brand architecture is:
 
 The store should feel curated, not crowded. Every stocked model must have a defined customer, comparison and reorder rule.
 
-## 1. Funding and BG/OD guardrails
+## 1. Funding, BG and working-capital guardrails
 
 A bank guarantee is a contingent bank liability, not free capital. If the distributor calls the guarantee, the bank pays and the business owes the bank. Commission, collateral/margin requirements and documentation also apply.
 
-The founder's current facility concept is an NPR 60 lakh BG plus an NPR 40 lakh OD/loan ceiling. The intended direction is to use BG-supported authorised channels principally for approved Apple, Samsung, Nothing or similar distributor relationships, while the NPR 40 lakh facility covers fit-out, accessories, smaller-brand authorised inventory and startup needs. This is an intended structure, not a confirmed bank or distributor arrangement.
+The founder's current facility concept is an NPR 60 lakh BG plus an NPR 40 lakh cash-credit/working-capital and/or term-loan ceiling. The intended direction is to use BG-supported authorised channels principally for approved Apple, Samsung, Nothing or similar distributor relationships, while the NPR 40 lakh facility/equity mix covers eligible short-cycle inventory and operations plus separately structured longer-lived fit-out/startup needs. Nepal Rastra Bank's current framework means the exact company product and permitted uses require written bank confirmation. This is an intended ceiling, not a confirmed bank or distributor arrangement.
 
 Because the complete project is expected to be debt-funded, the safer opening structure is:
 
@@ -59,13 +59,13 @@ Because the complete project is expected to be debt-funded, the safer opening st
 - Initially utilise only approximately NPR 60–70 lakh across funded and contingent exposure.
 - Preserve NPR 30–40 lakh as undrawn capacity and liquidity protection.
 - Set the distributor BG ceiling at NPR 60 lakh, but initially limit BG-supported anchor/halo handset exposure to approximately NPR 30–35 lakh.
-- Target initial OD/loan utilisation of approximately NPR 30–35 lakh, including NPR 6–8 lakh of other authorised handset/laptop inventory, while retaining at least NPR 5–10 lakh of that line for commissioning gaps, stock replenishment and downside protection.
+- Target initial approved-facility utilisation of approximately NPR 30–35 lakh, including NPR 6–8 lakh of other authorised handset/laptop inventory, while retaining at least NPR 5–10 lakh of combined capacity/liquidity for commissioning gaps, eligible replenishment and downside protection.
 - Increase utilisation only after 30-day sell-through exceeds 70%, total handset ageing stays below 45 days and cash-flow reporting is reliable.
 
 ### Match finance to asset life
 
 - **Term loan:** durable fit-out, furniture, electrical work, AC, power backup, security and service equipment.
-- **OD/working-capital line:** accessories, approved fast-turn authorised stock, payroll cycle and operating timing gaps. Fit-out use must be explicitly permitted by the bank and repaid on a schedule suited to the asset life; otherwise use a term-loan component.
+- **Cash-credit/approved working-capital line:** eligible accessories, approved fast-turn authorised stock and operating timing gaps. Fit-out should use equity or a bank-approved term-loan component matched to asset life; obtain written permitted-use confirmation.
 - **BG:** authorised-distributor handset purchases under clearly documented credit and settlement terms.
 - Do not finance slow handset stock with a long-term loan merely to fill shelves.
 
@@ -96,7 +96,7 @@ This is a facility allocation, not an instruction to spend the full amount on da
 | K&S Care intake tools and setup/service equipment | Within NPR 40 lakh funded line | Target NPR 1–2 lakh initially |
 | Lease deposit, registration, insurance and professional fees | Within NPR 40 lakh funded line | Target NPR 2–3 lakh; lease terms TBD |
 | Pre-launch, recruitment, uniforms and training | Within NPR 40 lakh funded line | Target NPR 1.5–2.5 lakh |
-| Undrawn OD/loan protection | NPR 40 lakh line balance | Preserve at least NPR 5–10 lakh at opening |
+| Undrawn facility/liquidity protection | NPR 40 lakh combined ceiling scenario | Preserve at least NPR 5–10 lakh at opening; founder/bank approval open |
 | **Total combined ceiling** | **NPR 1 crore** | **Target initial exposure: NPR 60–70 lakh** |
 
 Every line requires two or three comparable local quotations before approval. The ranges are envelopes, not entitlements. Interior ambition must not consume the stock and cash reserve. Any supplier that cannot provide documented authenticity, warranty, price protection, rotation/return treatment and workable after-sales support starts as order-led or is excluded.
@@ -233,7 +233,7 @@ Dedicated shelf and chain-of-custody workflow for WhatsApp orders, advance order
 
 ## 5. Opening handset inventory
 
-Target approximately 120 sale units plus controlled demonstration units, with a combined opening handset cost ceiling of NPR 35–42 lakh. Within that total, plan approximately NPR 30–35 lakh of BG-supported anchor/halo stock and NPR 6–8 lakh of other authorised stock funded from the OD/loan side; the final mix must stay within the combined ceiling rather than adding both maximums mechanically.
+Target approximately 120 sale units plus controlled demonstration units, with a combined opening handset cost ceiling of NPR 35–42 lakh. Within that total, plan approximately NPR 30–35 lakh of BG-supported anchor/halo stock and NPR 6–8 lakh of other authorised stock funded from bank-approved working capital/equity; the final mix must stay within the combined ceiling rather than adding both maximums mechanically.
 
 ### Price-tier allocation
 

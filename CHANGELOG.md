@@ -15,6 +15,9 @@ The project follows [Semantic Versioning](https://semver.org/).
 - Nepal EMI/BNPL partner, eligibility and merchant-economics study covering current bank/card/app routes, local deployment evidence, cost sensitivity, proposal requirements and launch sequencing.
 - Official-channel, grey-market and India-border buying study covering channel definitions, MDMS/customs/warranty evidence, formal India-origin imports, a matched-MRP snapshot and field-validation methods.
 - Canonical phone/laptop customer-friction and willingness-to-pay instrument covering cognitive pretesting, directional sampling, before/during/after event coding, randomized stated-choice controls and behavioral-validation gates.
+- Nepal supplier-credit, consignment and inventory-finance study covering current NRB working-capital boundaries, structure taxonomy, BG/security and consignment schedules, due-date economics, price protection, rotation and approval gates.
+- Brand/distributor retail-support study covering fixtures, demos, MDF, promoters, rebates, training, claim realisation, space/exit economics and Nepal evidence requirements.
+- Formula-driven distributor operating workbook with proposal comparison, term economics, purchases, claims, price-protection, brand-support and exception-control sheets.
 
 ### Changed
 
@@ -23,6 +26,8 @@ The project follows [Semantic Versioning](https://semver.org/).
 - Strengthened the EMI operating model with separate offer lanes, merchant-cost controls, offer-version records and explicit licensing/contribution gates.
 - Replaced the blanket border-price assumption with exact-SKU, lawful-acquisition and ownership-protection comparisons, plus evidence-backed buyer and service-case research requirements.
 - Replaced the social/waitlist-heavy customer funnel and informal 0–3% premium question with controlled recruitment, exact-NPR randomized choices, non-probability disclosure and real-conversion validation.
+- Corrected company “OD” planning language to cash-credit/approved working-capital or term-loan structures pending written bank confirmation, and separated revolving supplier limits from sell-through settlement and true consignment.
+- Expanded the distributor proposal and control procedures so unreceived support cannot fund downside cash and weighted scores cannot override title, guarantee/security, due-date or customer-experience gates.
 
 ## [1.0.0-rc.2] — Roadmap Documentation Integration
 

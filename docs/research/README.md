@@ -2,7 +2,7 @@
 
 **Document ID:** RESEARCH-INDEX-001
 
-**Version:** 0.5.0
+**Version:** 0.6.0
 
 **Status:** Active canonical index and backlog
 
@@ -43,8 +43,8 @@ Historical conversation notes and planning files can shape research questions, b
 | 4. Customer frustrations before/during/after purchase | [Customer friction/WTP study](customer-phone-buying-experience-and-price-hypothesis.md), [value proposition](why-buy-from-k-and-s-value-proposition.md) | Nepal literature limits, before/during/after event taxonomy, cognitive pretest, directional quotas, questionnaire, coding and quality controls complete | V from methods/literature plus H; local execution open | Run 12 cognitive interviews, 100 valid main interviews and 10 service cases |
 | 5. Official vs grey vs India-border behavior | [Channel and price-gap study](nepal-official-grey-border-buying-and-price-gap.md), [DEC-0018](../../decisions/DEC-0018-official-vs-grey-market-product-strategy.md), [market feasibility](../evidence/nepalgunj-mobile-flagship/nepalgunj-market-feasibility-research.md) | Channel taxonomy, MDMS/customs/warranty baseline, formal India-origin evidence, initial matched-MRP snapshot and field method complete | V/P/S/E/H plus D boundary | Execute same-day basket, 30 recent-purchase audits, authority checks and 100-customer choice test |
 | 6. EMI/BNPL | [Partner and merchant-economics study](nepal-emi-bnpl-partner-and-merchant-economics.md), [DEC-0016](../../decisions/DEC-0016-financing-and-emi-strategy.md), [operating model](../milestones/v0.8-finance/v0.8-emi-partner-operating-model.md) | Current public bank/card/app routes, eligibility, fee signals, merchant sensitivity, proposal schedule and launch gate documented | V/P/E/H plus D boundary | Obtain four written proposals and execute supervised settlement/refund tests |
-| 7. Supplier credit/consignment/inventory finance | [Supplier strategy](../finance/supplier-credit-and-consignment-strategy.md), [distributor system](../evidence/nepalgunj-mobile-flagship/distributor-system/README.md) | Negotiation framework and controls complete | H/D boundaries clear | Obtain term sheets and compare effective economics |
-| 8. Brand/distributor retail support | [Brand-funded visibility](brand-funded-retail-visibility.md), [proposal form](../evidence/nepalgunj-mobile-flagship/distributor-system/distributor-qualification-and-commercial-proposal-form.md) | Support types and negotiation questions defined | P/H | Obtain 2026 Nepal program terms by brand |
+| 7. Supplier credit/consignment/inventory finance | [Supplier/inventory-finance study](../finance/supplier-credit-and-consignment-strategy.md), [distributor system](../evidence/nepalgunj-mobile-flagship/distributor-system/README.md) | Current NRB/NFRS/IFRS/legal frame, structure taxonomy, economics, contract schedules, proposal instrument and operating workbook complete | V/E/H; partner/adviser evidence open | Obtain comparable distributor/bank terms, then legal/accounting/tax review |
+| 8. Brand/distributor retail support | [Brand/distributor support study](brand-funded-retail-visibility.md), [proposal form](../evidence/nepalgunj-mobile-flagship/distributor-system/distributor-qualification-and-commercial-proposal-form.md) | Fixture, demo, MDF, promoter, rebate and training taxonomy; public mechanism evidence; true-value model; claim and exit controls complete | V/P/E/H; Nepal terms open | Obtain 2026 Nepal program menus, sample claims and retailer references |
 | 9. Trade-in/buyback | [Customer policies](../evidence/nepalgunj-mobile-flagship/customer-policies-and-service-operations.md), [competitor matrix](competitor-experience-matrix.md) | Service concept and benchmarks exist | P/H | Model inspection, fraud, resale, tax, warranty and price-risk economics |
 | 10. Warranty/service/repair concierge/loaner | [Customer policies](../evidence/nepalgunj-mobile-flagship/customer-policies-and-service-operations.md), [repair network field check](../evidence/nepalgunj-mobile-flagship/distributor-system/supply-service/nepalgunj-repair-network-and-field-check.md), [competitor matrix](competitor-experience-matrix.md) | Workflow and benchmark features defined | D/H/P | Verify partner SLAs, custody liability, pickup/drop and loaner economics |
 | 11. Pricing vs experience / willingness to pay | [Customer friction/WTP study](customer-phone-buying-experience-and-price-hypothesis.md), [value proposition](why-buy-from-k-and-s-value-proposition.md) | Directional 0–12% exact-NPR stated-choice pilot, opt-out, randomized blocks, analysis limits and behavioral-validation gate defined | Method ready; H remains | Expert-review/freeze choice design, execute field study, then validate against real conversion and lost sales |
@@ -65,8 +65,8 @@ The sequence is risk-led rather than purely thematic. Existing work is updated b
 | 4 | EMI/BNPL partner, eligibility and merchant-economics study | Financing is launch-critical and can destroy margin if subsidy/fees are misunderstood | **Desk research complete; partner proposals and pilot open — 2026-08-15** |
 | 5 | Official/grey/border behavior and price-gap study | Tests a central strategic threat without assuming enforcement remains constant | **Desk research complete; field and authority validation open — 2026-08-15** |
 | 6 | Customer frustration and willingness-to-pay field study | Converts general hypotheses into local evidence | **Desk instrument complete; cognitive, main and behavioral execution open — 2026-08-15** |
-| 7 | Supplier credit, protection and brand-support commercial evidence | Replaces negotiation hypotheses with term sheets | **Next desk/commercial batch; execution-dependent terms remain open** |
-| 8 | Trade-in, service concierge, pickup/drop and loaner unit economics | Determines which ownership services can launch safely | Queued after partner evidence |
+| 7 | Supplier credit, protection and brand-support commercial evidence | Replaces generic negotiation labels with comparable, downside-tested structures | **Desk/commercial instrument complete; partner and adviser evidence open — 2026-08-15** |
+| 8 | Trade-in, service concierge, pickup/drop and loaner unit economics | Determines which ownership services can launch safely | **Next desk batch; partner evidence can proceed in parallel** |
 | 9 | Integrated market size, assortment and flagship defensibility synthesis | Produces the decision input for founder go/no-go | Blocked on preceding evidence |
 
 ## Active field evidence backlog
@@ -77,7 +77,7 @@ These items require real-world access and must not be marked complete from desk 
 2. A dated 12-device price/availability basket plus three laptop and six accessory checks.
 3. Twelve discovery/cognitive interviews followed by at least 100 valid directional customer interviews meeting the phone/laptop strata and recruitment controls in RESEARCH-CX-001.
 4. Eight to ten confidential sell-through discussions using comparable last-30-day periods.
-5. Three or more written distributor term sheets and four complete bank/finance proposals using the common EMI/BNPL schedule.
+5. Three or more written device-distributor term sheets, two laptop/accessory proposals and comparable bank BG/cash-credit/working-capital proposals using the canonical schedules and workbook.
 6. Five comparable rent quotations and the proposed-site measured survey.
 7. Ten completed service-case interviews covering warranty approval, delays, repair status, data privacy and repeat failure.
 8. Twelve institutional device-procurement interviews across education, healthcare, NGOs/INGOs and local SMEs.
@@ -85,6 +85,7 @@ These items require real-world access and must not be marked complete from desk 
 10. Thirty evidence-backed recent phone/laptop purchases, including invoice/payment, exact SKU, channel, MDMS/warranty understanding and outcome where consent permits.
 11. Written current Jamunaha Customs/NTA clarification plus the randomized channel/proof/price attributes embedded in the canonical 100-customer stated-choice pilot.
 12. Expert review and frozen version-controlled blocks for the stated-choice design, followed by actual quote/conversion and lost-sale validation before pricing policy.
+13. Current Nepal brand-support menus, sample claims/credit notes, retailer references and six comparable branded-bay inspections covering fixtures, demos, MDF, promoters and exit liabilities.
 
 ## Historical-context source status
 

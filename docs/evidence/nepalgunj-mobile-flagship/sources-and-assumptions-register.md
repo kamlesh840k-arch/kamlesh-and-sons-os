@@ -1,7 +1,7 @@
 # Nepalgunj Technology Flagship Sources and Assumptions Register
 
 **Document ID:** EVD-NPJ-FLAGSHIP-006
-**Version:** 0.7.0
+**Version:** 0.8.0
 **Status:** Active research register
 **Last updated:** 2026-08-15
 
@@ -48,6 +48,9 @@ Lower-level sources do not override higher-level evidence. Reviews, directory en
 | PAN/VAT guidance | [IRD FAQ](https://ird.gov.np/faq/?gid=96) | Registration guidance; obtain qualified current advice |
 | Consumer protection | [Consumer Protection Act](https://doc.gov.np/content/39/consumer-protection-act--2075/) | Policy/legal baseline; lawyer review required |
 | Dashain 2083 timing | [Ministry of Home Affairs public-holiday notice](https://moha.gov.np/en/page/government-and-public-holidays-in-2083) | Official holiday-calendar basis for the 2026 pre-Dashain critical path; recheck if the government revises the notice |
+| Company working-capital structure | [NRB consolidated Working Capital Loan Guidelines, fourth amendment](https://www.nrb.org.np/bfr/%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE-%E0%A4%A8%E0%A4%82-%E0%A5%A7%E0%A5%AF-%E0%A5%A8%E0%A5%A6%E0%A5%AE%E0%A5%A2-%E0%A5%AE%E0%A5%A3-%E0%A4%9A%E0%A4%BE%E0%A4%B2%E0%A5%82-%E0%A4%AA/) and [FAQ](https://www.nrb.org.np/category/faqs/faq_bfr/working-capital-guidelines/) | Current facility, turnover/operating-cycle, inspection and use frame; company overdraft terminology corrected to cash-credit/approved working-capital pending bank proposal |
+| Consignment/inventory/rebates | [ASB Nepal NFRS](https://asbnepal.gov.np/nepal-financial-reporting-standards--nfrss--2018), [IFRS 15](https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards/english/2022/issued/part-a/ifrs-15-revenue-from-contracts-with-customers.pdf?bypass=on), [IAS 2](https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards/english/2021/issued/part-a/ias-2-inventories.pdf), [IRD VAT Act](https://ird.gov.np/category/valueaddedtaxact/) and [Secured Transactions Act](https://lawcommission.gov.np/content/12227/12227-secured-transaction-act-2063/) | Structure/control and accounting/legal frame; exact Nepal contract, VAT, registry and classification require qualified review |
+| Brand-support mechanisms | [Dell FY27 terms](https://www.delltechnologies.com/content/dam/digitalassets/active/en/unauth/quick-reference-guides/partner/Dell-EMC-Incentive-Terms.pdf), [HP partner policy](https://h20195.www2.hp.com/v2/GetPDF.aspx/c04293436.pdf), [Samsung India DOST](https://news.samsung.com/in/samsung-expands-dost-sales-programme-to-skill-9400-youth-for-retail-careers-in-india), [Apple Nepal locator](https://locate.apple.com/np/en/sales) and [Xiaomi Nepal locator](https://www.mi.com/np/support/wheretobuy/) | Confirms global/India mechanisms and formal Nepal channels; does not prove 2026 K&S eligibility or commercial terms |
 
 ## Founder-provided current working inputs
 
@@ -64,7 +67,7 @@ These are first-party planning inputs recorded on 2026-08-10. They are not indep
 | Internal amenities | No stair and no toilet reported within the unit | Confirm accessible staff/customer toilet and hand-washing arrangement before lease |
 | Alterations | Glass, ceiling, floor, signage, wiring, AC and CCTV reportedly possible; restoration may be required | Convert every permission, cost owner and restoration standard into lease wording |
 | Floor preference | Premium wood/parquet appearance desired at low cost | Quote commercial parquet-look vitrified/porcelain tile and qualified SPC; approve after subfloor/moisture test |
-| Funding concept | NPR 60 lakh BG plus NPR 40 lakh OD/loan ceiling | Bank sanction, security, permitted use, commission, interest and downside model TBD |
+| Funding concept | NPR 60 lakh BG plus NPR 40 lakh cash-credit/working-capital and/or term-loan ceiling; exact split/product unapproved | Bank sanction, security, permitted use, commission, interest and downside model TBD |
 | Sourcing | Authorised channels only; preference for warranty, guarantee and after-sales support | Written distributor appointment/authorisation and service terms required |
 | Brand scope | Apple, Samsung, Nothing, Xiaomi, Vivo, OPPO, Realme, Honor; selective HP, Dell, Lenovo, Asus and other qualified brands | Final opening assortment and BG eligibility TBD; use order-led range where sell-through is unproven |
 | Accessories | Premium and original assortment | Supplier authenticity, compatibility, warranty, margin and return terms required |
@@ -77,6 +80,12 @@ These are first-party planning inputs recorded on 2026-08-10. They are not indep
 | Prime-site rent | Unapproved | Five written quotations and selected lease | Founder | Open |
 | Handset margin | 5.5% base | Three distributor term sheets | Commercial | Open |
 | Distributor credit/BG | NPR 60 lakh ceiling proposed | Bank and distributor documents | Founder/Finance | Open |
+| Company working-capital product | Prior documents used “OD”; current NRB FAQ says firm/company overdraft-type lending is not available under the Working Capital Loan Guidelines | Comparable bank cash-credit/working-capital/term-loan proposals confirming product, permitted use, drawing power, security and total cost | Founder/Finance | Open — terminology corrected |
+| Rolling supplier credit | No assumption that “rolling” means payment after sale | Written invoice ageing, availability/headroom restoration, suspension and settlement schedule | Commercial/Finance | Open |
+| Consignment availability/treatment | No Nepal distributor availability or accounting/tax conclusion assumed | Draft agreement plus supplier proposal, accountant/tax review, legal/security review and operating reconciliation test | Founder/Finance/Legal | Open |
+| Due-date cash cover | 1.20 is an operating-workbook warning hypothesis, not an approved threshold | Downside cash model, bank/distributor terms and explicit founder approval | Founder/Finance | Open |
+| Price protection/rotation | No value assumed from verbal/discretionary support | Written eligibility/age/claim/settlement schedule and actual claim/rotation evidence | Commercial/Finance | Open |
+| Brand fixture/demo/MDF/promoter support | Mechanisms publicly evidenced outside K&S; no Nepal rate or eligibility assumed | Current written Nepal program menus, preapprovals, ownership/employer/exit terms, sample claims and pilot realisation | Founder/Commercial/Marketing | Open |
 | Initial handset exposure | NPR 35–42 lakh | Opening SKU purchase order | Commercial/Finance | Open |
 | Initial laptop exposure | Unapproved; selective/order-led concept only | Last-30/90-day local sell-through, three authorised quotations and approved SKU purchase order | Commercial/Finance | Open |
 | Payroll | Unapproved | Staffing plan and signed offers | People/Finance | Open |

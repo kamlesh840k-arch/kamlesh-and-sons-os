@@ -6,7 +6,7 @@
 **Version:** 0.1.0  
 **Decision Date:** 2026-08-08  
 **Owner:** KAMLESH & SONS  
-**Related Documents:** [ROADMAP](../ROADMAP.md)  
+**Related Documents:** [ROADMAP](../ROADMAP.md), [Supplier credit and inventory-finance study](../docs/finance/supplier-credit-and-consignment-strategy.md), [Brand/distributor retail-support study](../docs/research/brand-funded-retail-visibility.md)
 **Related Decisions:** DEC-0038, DEC-0039, DEC-0042, DEC-0043
 
 ---
